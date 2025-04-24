@@ -12,8 +12,11 @@ vscode-pdf - tomoki1207
 
 ### Requirements
 uv venv     
-Other people install the dependencies listed in the requirements file:   
-- uv pip install -r requirements.txt    
+To **install** requirements file:   
+- uv pip install -r requirements.txt   
+
+To **update** requirements file:    
+- uv pip freeze > requirements.txt    
 
 ### profiles.yml
 ```yml
