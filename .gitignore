@@ -176,3 +176,6 @@ cython_debug/
 # Ignore duckdb files
 *.duckdb
 *.duckdb.wal
+
+# Ignore user-specific vscode files
+*.vscode/
