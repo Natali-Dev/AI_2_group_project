@@ -174,4 +174,5 @@ cython_debug/
 .pypirc
 
 # Ignore duckdb files
-ads_data.duckdb
+*.duckdb
+*.duckdb.wal
