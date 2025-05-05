@@ -10,5 +10,6 @@ select
     salary_description, 
     working_hours_type__label as working_hours_type,
     scope_of_work__min as scope_of_work_min,
-    scope_of_work__max as scope_of_work_max
+    scope_of_work__max as scope_of_work_max,
+    _dlt_id
 from stg_job_ads
