@@ -76,7 +76,7 @@ if __name__ == "__main__":
     working_directory = Path(__file__).parents[1]
     os.chdir(working_directory)
     with duckdb.connect("ads_data.duckdb") as connection:
-        df_mart = connection.execute("SELECT * FROM main.mart_ads").df()
+        df_mart = connection.execute("SELECT * FROM mart.mart_ads").df()
 
     layout()
     

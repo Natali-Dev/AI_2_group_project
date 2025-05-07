@@ -6,7 +6,7 @@ from pathlib import Path
 working_directory = Path(__file__).parents[1]
 os.chdir(working_directory)
 with duckdb.connect("ads_data.duckdb") as connection:
-    df_mart = connection.execute("SELECT * FROM main.mart_ads").df()
+    df_mart = connection.execute("SELECT * FROM mart.mart_ads").df()
 #1. totalt antal lediga jobb. # totalt antal städer. 
 
 # 2.TOP 3: yrkesgrupper med mest lediga jobb. TOP 3 kommuner med mest lediga jobb 
