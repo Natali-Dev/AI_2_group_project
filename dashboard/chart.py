@@ -16,7 +16,7 @@ def chart_top_occupations(field, sort_on):
     fig.update_layout(title_text=f"Top 10 {sort_on}s with most vacancies in field: {field}")
     return fig
 
-def pie_chart():
+def field_pie_chart():
     mart_full_time = df_mart.groupby("occupation_field")["vacancies"].sum().sort_values(ascending=False).reset_index(name="total vacancies")
     pie_fig = px.pie(mart_full_time,values="total vacancies",names="occupation_field",width=350, height=350)
     return pie_fig

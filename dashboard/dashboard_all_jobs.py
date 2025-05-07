@@ -17,12 +17,11 @@ import duckdb
 # # avancerat: hur lång är application_deadline i snitt? Vilken stad har störst variation av yrken? Vilka kommuner erbjuder heltid oftast?
 # # diagram för region så det är sveriges karta
 from kpi import (
-    top_occupations,
-    vacancies_by_group,
+    vacancies_by_field,
     attributes_per_field,
     # top_municipalitys,
 )
-from chart import chart_top_occupations, pie_chart
+from chart import chart_top_occupations, field_pie_chart
 
 
 def show_metric(labels, cols, kpis):
@@ -46,15 +45,16 @@ def layout():
     show_metric(labels, cols, kpis)
 
     st.markdown("### Lediga jobb i:")
-    labels = top_occupations()
+    fields, vacanices = vacancies_by_field()
+    labels = fields
     cols = st.columns(3)
-    kpis = vacancies_by_group()
+    kpis = vacanices
     show_metric(labels, cols, kpis)
 
-    st.plotly_chart(pie_chart())
+    st.plotly_chart(field_pie_chart())
 
     st.markdown("### Finsortera på yrkesgrupp och kommun/yrke:")
-    field = st.selectbox(" Select your field ", top_occupations())
+    field = st.selectbox(" Select your field ", fields)
     sort_on = st.selectbox("Sort on", ["workplace_city", "occupation"])
 
     fig = chart_top_occupations(field, sort_on)
@@ -66,10 +66,13 @@ def layout():
     kpis = attributes_per_field(field)
     show_metric(labels, cols, kpis)
 
+    st.markdown("### Topplista på arbetsgivare: ")
+    fig2 = chart_top_occupations(field, "employer_name")
+    st.plotly_chart(fig2)
     st.markdown("## Ställ en fråga till Gemini")
+    st.write("Vilka top 10 erfarenheter och krav har top {1} {företags_namn}/{stad}")
     st.selectbox("Välj en fråga", ["Hej"])
     # utgå ifrån vilken field som är vald
-
 
 
 if __name__ == "__main__":
@@ -79,7 +82,7 @@ if __name__ == "__main__":
         df_mart = connection.execute("SELECT * FROM mart.mart_ads").df()
 
     layout()
-    
+
     # TODO job_ads__nice_to_have__languages ta med denna! så kan man se
     # city_1, city_2, city_3, city_4, city_5, vac_1, vac_2, vac_3, vac_4, vac_5 = (
     #     top_municipalitys()
