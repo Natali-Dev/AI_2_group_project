@@ -10,8 +10,8 @@ select
     employer_organization_number,
     workplace_street_address, 
     workplace_postcode,
-    coalesce ({{capitalize('workplace_region')}}, 'ej angiven') workplace_region, 
-    coalesce({{capitalize('workplace_city')}}, 'ej angiven') workplace_city, 
+    coalesce ({{capitalize('workplace_region')}}, 'ej angiven') AS workplace_region, 
+    coalesce({{capitalize('workplace_address__municipality')}}, 'ej angiven') AS workplace_city, 
     workplace_country, 
 from job_ads
 

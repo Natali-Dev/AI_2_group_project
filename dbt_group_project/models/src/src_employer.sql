@@ -9,6 +9,5 @@ workplace_address__street_address as workplace_street_address,
 workplace_address__region as workplace_region, 
 workplace_address__postcode as workplace_postcode,
 workplace_address__municipality,
-workplace_address__city as workplace_city, 
 workplace_address__country as workplace_country, 
 from stg_employer
