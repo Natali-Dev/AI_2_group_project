@@ -179,3 +179,6 @@ cython_debug/
 
 # Ignore user-specific vscode files
 *.vscode/
+
+# secrets fil med api nyckel.
+.streamlit/secrets.toml
