@@ -1,4 +1,4 @@
-with job_ads as (
+{# with job_ads as (
     select * from {{ ref('fct_job_ads') }}
 ),
 occupation as (
@@ -11,4 +11,12 @@ select
 from job_ads
 join occupation 
     on job_ads.occupation_id = occupation.occupation_id
-where occupation.occupation_field = 'Kropps- och skönhetsvård'
+where occupation.occupation_field = 'Kropps- och skönhetsvård' #}
+
+with kropp_skonhet AS 
+(
+    Select * from {{ ref('mart_ads') }}
+    where occupation_field = 'Kropps- och skönhetsvård' 
+)
+
+select * from kropp_skonhet
