@@ -38,8 +38,8 @@ def jobsearch_resource(params):
         for ad in hits:
             yield ad
 
-        # if fewer than a full page was returned, we’re done
-        if len(hits) < limit or offset > 1900:
+        # if fewer than a full page was returned, we’re done 
+        if len(hits) < limit or offset > 4000:
             break
 
         offset += limit

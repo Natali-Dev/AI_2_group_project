@@ -9,7 +9,7 @@ def show_metric(labels, cols, kpis):
             st.metric(label=label, value=kpi)
 
 def layout():
-    occupation_fields = df_mart.groupby("occupation_field")["vacancies"].sum().sort_values(ascending=False).reset_index().head(5)
+    occupation_fields = df_kultur.groupby("occupation_field")["vacancies"].sum().sort_values(ascending=False).reset_index().head(5)
     occ_1 = occupation_fields["vacancies"]
 
 
@@ -24,7 +24,7 @@ if __name__ == "__main__":
     working_directory = Path(__file__).parents[1]
     os.chdir(working_directory)
     with duckdb.connect("ads_data.duckdb") as connection:
-        df_mart = connection.execute("SELECT * FROM mart.mart_ads").df()
+        df_kultur = connection.execute("SELECT * FROM mart.mart_kultur_media").df()
 
     layout()
     
