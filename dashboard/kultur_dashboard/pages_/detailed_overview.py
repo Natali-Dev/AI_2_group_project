@@ -1,29 +1,22 @@
 import streamlit as st
-from chart_kpi import vacancies_by_group, chart_top_occupations
-from kultur_dashboard import show_metric
-import duckdb
-import os
-from pathlib import Path
 from chart_kpi import (
-    vacancies_by_group,
     attributes_per_field,
     chart_top_occupations,
     # field_pie_chart,
     language_pie_chart,
     working_hours, 
     working_duration,
-    duration_pie_chart
+    duration_pie_chart, 
+    show_metric
 )
 
-working_directory = Path(__file__).parents[3]
-os.chdir(working_directory)
-with duckdb.connect("ads_data.duckdb") as connection:
-    df_kultur = connection.execute("SELECT * FROM mart.mart_kultur_media").df()
+
 
 def overview_layout():
     field = 'Kultur, Media, Design'
-
-    st.markdown("### Se mest lediga jobb baserat på:")  # TODO fixa här också. ta occupation_group och visa occupation/city
+    st.markdown("# Detailed overview ")
+    st.markdown("### Se mest lediga jobb baserat på:"
+)  # TODO fixa här också. ta occupation_group och visa occupation/city
     # field = st.selectbox(" Select your group ", fields)
     sort_on = st.selectbox("Sortera på", ["workplace_city", "employer_name"])
     # Finsortera på att välja stad eller välja yrke, och därifrån se hur stor andel av jobb som kräver erfarenhet osv? 
@@ -63,8 +56,4 @@ def overview_layout():
     
     
 if __name__ == "__main__":
-    working_directory = Path(__file__).parents[3]
-    os.chdir(working_directory)
-    with duckdb.connect("ads_data.duckdb") as connection:
-        df_kultur = connection.execute("SELECT * FROM mart.mart_kultur_media").df()
     overview_layout()

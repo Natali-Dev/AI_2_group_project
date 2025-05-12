@@ -1,16 +1,23 @@
 import plotly.express as px
 import os 
 from pathlib import Path
+import streamlit as st
 import duckdb
 
 working_directory = Path(__file__).parents[2]
 os.chdir(working_directory)
 with duckdb.connect("ads_data.duckdb") as connection:
     df_kultur = connection.execute("SELECT * FROM mart.mart_kultur_media").df()
+
 #1. totalt antal lediga jobb. # totalt antal städer. 
-
+total_citys = df_kultur["workplace_city"].nunique()
+total_vacancies = df_kultur["vacancies"].sum()
 # 2.TOP 3: yrkesgrupper med mest lediga jobb. TOP 3 kommuner med mest lediga jobb 
-
+def show_metric(labels, cols, kpis):
+    for label, col, kpi in zip(labels, cols, kpis):
+        with col:
+            st.metric(label=label, value=kpi)
+            
 def vacancies_by_group():
     occupation_fields = df_kultur.groupby("occupation_group")["vacancies"].sum().sort_values(ascending=False).reset_index()
     fields = occupation_fields["occupation_group"]
