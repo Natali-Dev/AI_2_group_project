@@ -27,8 +27,14 @@ def map_chart(df: pd.DataFrame, loc:str = "Stad", color:str = "Antal jobb", titl
     city_vacancies = df.groupby(loc)[color].sum().reset_index()
 
     fig = px.choropleth(city_vacancies,
-                        location=loc,
-                        locationmode="Städer namn",)
+                       locations=loc,          
+                       locationmode="country names", 
+                       color=color,              
+                       hover_name=loc,         
+                       color_continuous_scale="Viridis",
+                       title=title)
+    fig.update_geos(fitbounds="locations", visible=True)
+    return fig
 
 
 
