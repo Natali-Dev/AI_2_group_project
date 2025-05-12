@@ -4,7 +4,7 @@ from pathlib import Path
 import pandas as pd
 
 
-working_directory = Path(__file__).parents[0]
+working_directory = Path(__file__).parents[1]
 os.chdir(working_directory)
 with duckdb.connect("ads_data.duckdv") as connection:
     df_mart = connection.execute("SELECT * FROM mart.mart_kroopps_skonhet").df()
