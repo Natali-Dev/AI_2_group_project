@@ -10,7 +10,7 @@ def bar_chart(df: pd.DataFrame, x: str, y: str, title: str):
 
 # Creating a pie chart using Plotly Express
 def pie_chart(df: pd.DataFrame, names: str, values: str, title: str):
-    fig = px.pie(df, names=names, values=values, title=title, holes=0.3)
+    fig = px.pie(df, names=names, values=values, title=title, hole=0.3)
     return fig
 
 # Show text in Streamlit
@@ -18,6 +18,9 @@ def display_text(text: str, title: str):
     st.subheader(title)
     st.write(text)
 
+def display_data_table(df: pd.DataFrame, title: str):
+    st.subheader(title)
+    st.dataframe(df)
 
 
 
