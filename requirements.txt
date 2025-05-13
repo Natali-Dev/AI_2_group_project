@@ -100,6 +100,7 @@ rich==14.0.0
 rich-argparse==1.7.0
 rpds-py==0.24.0
 semver==3.0.4
+sentence-transformers==4.1.0
 setuptools==79.0.1
 simplejson==3.20.1
 six==1.17.0
