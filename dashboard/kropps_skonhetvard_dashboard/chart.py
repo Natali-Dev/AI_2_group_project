@@ -25,19 +25,31 @@ def display_data_table(df: pd.DataFrame, title: str):
 
 
 #show map with plotly express
-def map_chart(df: pd.DataFrame, loc:str = "Stad", color:str = "Antal jobb", title:str="Antal lediga jobb per stad"):
-    # Create a DataFrame with the sum of 'vacancies' for each city
-    city_vacancies = df.groupby(loc)[color].sum().reset_index()
+def map_chart(df: pd.DataFrame, title: str = "Antal lediga jobb per stad"):
+    # Kopiera df så du inte modifierar originalet
+    df = df.copy()
 
-    fig = px.choropleth(city_vacancies,
-                       locations=loc,          
-                       locationmode="country names", 
-                       color=color,              
-                       hover_name=loc,         
-                       color_continuous_scale="Viridis",
-                       title=title)
+    
+    df["Antal jobb"] = 1
+
+    
+    city_vacancies = df.groupby("workplace_city")["Antal jobb"].sum().reset_index()
+    city_vacancies = city_vacancies.rename(columns={"workplace_city": "Stad"})
+
+    fig = px.choropleth(
+        city_vacancies,
+        locations="Stad",
+        locationmode="country names", 
+        color="Antal jobb",
+        hover_name="Stad",
+        color_continuous_scale="Viridis",
+        title=title
+    )
+
     fig.update_geos(fitbounds="locations", visible=True)
     return fig
+
+
 
 
 
