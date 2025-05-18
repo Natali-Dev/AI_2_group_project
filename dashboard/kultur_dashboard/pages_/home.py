@@ -1,5 +1,5 @@
 import streamlit as st
-from chart_kpi import vacancies_by_group, chart_top_occupations, total_citys, total_vacancies, show_metric
+from chart_kpi import vacancies_by_group, chart_top_occupations, total_citys, total_vacancies, total_employers,show_metric
 
 def home_layout():
     field = 'Kultur, Media, Design'
@@ -9,20 +9,22 @@ def home_layout():
     st.write(
         "En Dashboard för att hjälpa rekryterare som jobbar inom Kultur, Media och Design att få en bra översikt över arbetsmarknaden just nu."
     )
-    labels = ["Totalt antal lediga jobb", "Totalt antal städer"]
-    cols = st.columns(2)
-    kpis = round(total_vacancies), total_citys
+    st.write("------------------")
+    labels = ["Totalt antal lediga jobb", "Totalt antal städer", "Totalt antal arbetsgivare"] 
+    cols = st.columns(3)
+    kpis = round(total_vacancies), total_citys, total_employers
     show_metric(labels, cols, kpis)
-    
-    fig2 = chart_top_occupations(field, "occupation")
-    st.plotly_chart(fig2)
 
-    st.markdown("### Top 5 yrkesgrupper med flest lediga jobb:")
+    st.markdown("### Top 5 yrken med flest lediga jobb:")
     fields, vacanices = vacancies_by_group()
     labels = fields
     cols = st.columns(5)
     kpis = vacanices
     show_metric(labels, cols, kpis)
+    
+    fig2, df = chart_top_occupations(field, "Occupation Group")
+    st.plotly_chart(fig2)
+
     # st.markdown("### Topplista på yrken: ")
     
 if __name__ == "__main__":
