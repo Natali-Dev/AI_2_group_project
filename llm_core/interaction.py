@@ -34,9 +34,9 @@ def configure_gemini():
     if not api_key:
         api_key = os.getenv("GEMINI_API_KEY")
         if api_key:
-            print("INFO: GEMINI_API_KEY hittades i miljøvariabler.")
+            print("INFO: GEMINI_API_KEY hittades i miljövariabler.")
         else:
-            print("VARNING: GEMINI_API_KEY hittades inte i st.secrets eller miljøvariabler.")
+            print("VARNING: GEMINI_API_KEY hittades inte i st.secrets eller miljövariabler.")
     
     if api_key:
         try:
