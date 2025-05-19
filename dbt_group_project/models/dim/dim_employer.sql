@@ -1,17 +1,18 @@
 with job_ads as (
-    select * from {{ source('job_ads', 'stg_ads') }}
+    select * from {{ ref('src_employer') }}
 )
 
 select
-    {{ dbt_utils.generate_surrogate_key(['id']) }} as employer_id,
-    employer__name as employer_name,
-    employer__workplace as employer_workplace,
-    employer__organization_number as employer_organization_number,
-    workplace_address__street_address as workplace_street_address,
-    workplace_address__region as workplace_region,
-    workplace_address__postcode as workplace_postcode,
-    workplace_address__municipality as workplace_city,
-    workplace_address__country as workplace_country
+    {{dbt_utils.generate_surrogate_key(['employer_workplace', 'workplace_address__municipality'])}} as employer_id,
+    coalesce(employer_workplace, 'ej angiven') as employer_workplace,  
+    coalesce(max(employer_name), 'ej angiven') as employer_name, 
+    coalesce(max(employer_organization_number), 'ej angiven') as employer_organization_number, 
+    coalesce(max(workplace_street_address), 'ej angiven') as workplace_street_address,  
+    coalesce(max(workplace_postcode), 'ej angiven') as workplace_postcode, 
+    coalesce(max({{capitalize('workplace_region')}}), 'ej angiven') AS workplace_region, 
+    coalesce({{capitalize('workplace_address__municipality')}}, 'ej angiven') AS workplace_city, 
+    coalesce(max(workplace_country), 'ej angiven') as workplace_country
 from job_ads
-where id is not null
+group by employer_workplace, workplace_address__municipality
+
 

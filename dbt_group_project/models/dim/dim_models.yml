@@ -1,0 +1,114 @@
+models:
+  - name: dim_employer
+    description: "Contains employer information"
+    columns:
+      - name: employer_id
+        description: "Primary Key, test for duplicates and null values"
+        tests:
+          - unique
+          - not_null
+          - dim_row_count_match
+      - name: workplace_city
+        description: "Contains what city the job is in, test for null values"
+        tests:
+          - not_null
+      - name: workplace_street_address
+        description: "Contains what street the job is in, test for null values"
+        tests:
+          - not_null
+      - name: workplace_postcode
+        description: "Contains what postcode the job is in, test for null values"
+        tests:
+          - not_null
+      - name: employer_organization_number
+        description: "organization number for employer company, test for null values"
+        tests:
+          - not_null
+      - name: employer_workplace
+        description: "employer workplace for job ad, test for null values"
+        tests:
+          - not_null
+      - name: employer_name
+        description: "company name, test for null values"
+        tests:
+          - not_null
+      - name: workplace_region
+        description: "region for workplace, test for null values"
+        tests:
+          - not_null
+      - name: workplace_country
+        description: "country for workplace, test for null"
+        tests: 
+          - not_null
+  - name: dim_job_details
+    description: "Contains job details information"
+    columns:
+      - name: job_details_id
+        description: "Primary Key, test for duplicates and null values"
+        tests:
+          - unique
+          - not_null
+          - dim_row_count_match
+      - name: headline
+        description: "job ad headline, test for null values"
+        tests:
+          - not_null
+      - name: description
+        description: "job ad description, test for null values"
+        tests:
+          - not_null
+      - name: description_html
+        description: "html link to job ad, test for null values"
+        tests:
+          - not_null
+      - name: duration
+        description: "work duration, test for null values"
+        tests:
+          - not_null
+      - name: salary_type
+        description: "salary type, test for null values"
+        tests:
+          - not_null
+      - name: salary_description
+        description: "salary description, test for null values"
+        tests:
+          - not_null
+      - name: working_hours_type
+        description: "working hours type(part-time, full-time), test for null values"
+        tests:
+          - not_null
+      - name: must_have_languages
+        description: "required languages, test for null values"
+        tests:
+          - not_null
+  - name: dim_occupation
+    description: "Contains occupation information"
+    columns:
+      - name: occupation_id
+        description: "Primary Key, test for duplicates and null values"
+        tests:
+          - unique
+          - not_null
+          - dim_row_count_match
+      - name: occupation
+        description: "occupation, test for null"
+        tests: 
+          - not_null 
+      - name: occupation_group
+        description: "occupation group, test for null values"
+        tests:
+          - not_null
+      - name: occupation_field
+        description: "occupation field, test for null values"
+        tests:
+          - not_null
+
+  - name: dim_auxilliary_attributes
+    description: "Contains true/false values if license, experience or own car is needed for job ad"
+    columns:
+      - name: auxilliary_attributes_id
+        description: "Primary Key, test for duplicates and null values"
+        tests:
+          - unique
+          - not_null
+          - dim_row_count_match
