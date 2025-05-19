@@ -87,7 +87,7 @@ def chart_top_occupations(field, sort_on):
     bar = st.slider("Antal staplar att visa", min_value=10, max_value=20, step=1)
 
     fig = px.bar(df.head(bar), x=sort_on, y="Vacancies")
-    fig.update_layout(title_text=f"Top 10 {sort_on}s with most vacancies in field: {field}")
+    fig.update_layout(title_text=f"Top {bar} {sort_on}s with most vacancies in field: {field}")
     return fig, df
 
 # def language_pie_chart(): #hole=0.3
