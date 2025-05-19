@@ -1,0 +1,6 @@
+version: 2
+
+tests:
+  - name: dim_row_count_match
+    description: >
+      Verifierar att antalet unika värden i faktatabellens kolumner matchar antalet rader i dimensionstabellen.
