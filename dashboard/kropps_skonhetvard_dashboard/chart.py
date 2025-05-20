@@ -4,7 +4,15 @@ import streamlit as st
 
 # Creating a bar chart using Plotly Express
 def bar_chart(df: pd.DataFrame, x: str, y: str, title: str):
-    fig = px.bar(df, x=x, y=y, title=title)
+    fig = px.bar(   
+        df.sort_values(by=y, ascending=False), 
+        x=x, 
+        y=y, 
+        title=title,
+        color=y,
+        color_continuous_scale="Teal"               
+    )
+    fig.update_layout(xaxis_tickangle=-45)
     return fig
 
 

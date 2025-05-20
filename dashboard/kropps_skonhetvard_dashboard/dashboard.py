@@ -12,7 +12,7 @@ from kpi import (
     get_attributes_per_field,
 )
 from chart import (
-    bar_chart, pie_chart, display_text, display_data_table, map_chart
+    bar_chart, pie_chart, display_data_table, map_chart
 )
 
 def layout(df_kropp_skonhetsvard):
