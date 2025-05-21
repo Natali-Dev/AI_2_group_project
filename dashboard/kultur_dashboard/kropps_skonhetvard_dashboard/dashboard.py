@@ -14,8 +14,16 @@ from kpi import (
 from chart import (
     bar_chart, pie_chart, display_data_table, map_chart
 )
-def layout(df_kropp_skonhetsvard):
 
+def local_css(file_name):
+    current_dir = os.path.dirname(__file__)  # får mappen där dashboard.py ligger
+    file_path = os.path.join(current_dir, file_name)  # bygger sökvägen korrekt
+    with open(file_path) as f:
+        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+
+
+def layout(df_kropp_skonhetsvard):
+    local_css("../styles/style.css")
     st.title("Kropp och Skönhet Dashboard")
     
     
@@ -60,7 +68,7 @@ def layout(df_kropp_skonhetsvard):
     display_data_table(attributes_df, "Krav för anställning")
     
 if __name__ == "__main__":
-    working_directory = Path(__file__).parents[2]
+    working_directory = Path(__file__).parents[3]
     os.chdir(working_directory)
     try:
         with duckdb.connect("ads_data.duckdb") as connection:
