@@ -14,11 +14,11 @@ from kpi import (
 from chart import (
     bar_chart, pie_chart, display_data_table, map_chart
 )
-
 def layout(df_kropp_skonhetsvard):
+
     st.title("Kropp och Skönhet Dashboard")
     
-   
+    
     st.header("Övergripande statistik")
     col1, col2, col3 = st.columns(3)
     col1.metric("Totalt antal lediga jobb", total_vacancies(df_kropp_skonhetsvard))
