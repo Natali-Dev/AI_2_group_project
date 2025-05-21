@@ -25,7 +25,7 @@ select
     jdb.working_hours_type,
     jdb.scope_of_work_min,
     jdb.scope_of_work_max,
-    coalesce(la.must_have_languages_list, 'ej specifierat') as must_have_languages
+    coalesce(la.must_have_languages_list, 'ej angiven') as must_have_languages
 
 from job_details_base jdb
 left join languages_agg la

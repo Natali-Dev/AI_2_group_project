@@ -1,188 +1,226 @@
-,Employer Name,Vacancies,Description
-1,Exakta Photo AB,57,"Exakta Photo är en av Sveriges största skolfotoleverantörer. Vi finns över hela landet och fotograferar cirka 900 000 elever varje år. Nu söker vi dig som vill ha ett säsongsbaserat uppdrag som skolfotograf!
-Vem är du?
-Vi tycker om en variation av människor men för att lyckas i tjänsten behöver du:
-Ha ett genuint fotointresse. Du behöver inte ha arbetat som skolfotograf men vi ser gärna att du är en redan etablerad fotograf. Detta är dock inte ett krav utan så länge du brinner för fotografering så kan du vara rätt person för oss.
-Du är utåtriktad och positiv. När du står bakom kameran så påverkar du det som sker framför. Du behöver inte vara komiker, men genom att vara glad och bjuda på dig själv så kan du få andra att slappna av inför kameran.
-Vara stresstålig och välorganiserad då det kan förekomma arbetsdagar med högt tempo.
-God datorvana då datorn kommer att bli ett viktigt arbetsredskap vid sidan om kameran.
-Ha körkort och tillgång till bil då du utför uppdragen på olika skolor och förskolor.
-Kunna arbeta heltid från mitten av augusti till mitten av oktober och vill ha Sveriges roligaste jobb!
-Har du arbetat med barn och ungdomar tidigare så är det en fördel, men det är inte avgörande!
+,Workplace City,Vacancies,Description
+27,Ale,4,"Vi söker dig som vill vara med och forma morgondagens Ale. Hos oss är du med och levererar service och tjänster av bästa kvalitet till Aleborna. Tillsammans skapar 2 500 medarbetare ett Ale, kommunen som fokuserar på invånarna och deras behov. Bli en av oss!
 
 
 
-Vad erbjuder vi?
-Utbildning sker v32 i Nyköping. Efter denna kommer du först att arbeta tillsammans med en annan fotograf så du ska känna dig trygg innan du gör ditt första jobb själv! Fram till fredag v42
-Vi tillhandahåller all fotoutrustning du behöver.
-Du behöver inte oroa dig för det tekniska. Vi har tagit fram fasta inställningar, mått och rutiner så vare sig du använt Nikon, Sony eller varför inte Canon tidigare så är det enda du behöver tänka på hos oss är att få fram det där lilla extra hos personerna framför dig.
-Du utgår från ditt hem till angiven ort och erhåller milersättning för de sträckor du kör.
-Vill du fakturera eller bli anställd? Du väljer!
-Antingen har du redan ett eget bolag och skickar faktura för utförda jobb. Vi har även ett samarbete med Frilans Finans som gör det enkelt för dig att fakturera trots att du inte har ett eget bolag idag. Vi ger dig all information som behövs för detta. Om inget av ovan passar dig kan du även välja att bli säsongsanställd. Vi kör på det som passar dig och din livssituation bäst!
-Vad händer nu?
-Nu vill vi ha din ansökan såklart! Skicka in denna omgående via vår ansökningssida Exakta Photo AB - Jobba hos oss (exaktafoto.se).
-Vi hoppas att du vill bli en del av oss och får en oförglömlig höst!
-Övrigt
-För att arbeta med barn och ungdomar så behöver du visa upp ett godkänt utdrag ur belastningsregistret.Fotograf, ett drömyrke för dig?
-Vi söker nu fler fotografer till vår fotografkår i Örebro med omnejd. Exakta Photo är Sveriges bästa skolfotoleverantör med mer än 60 års erfarenhet. Exakta Photo finns i hela Sverige och tillsammans fotograferar vi 900 000 elever varje år.
-Vi söker dig med ett genuint fotointresse som vill kombinera det med ett kul arbete bland barn och ungdomar. Vi värdesätter dina goda egenskaper som social förmåga, och att kunna jobba med eget ansvar under ordning och reda. Men även en estetisk ""blick"" för bild och form. Erfarenhet från barn- och ungdomsverksamhet är en stor merit.
-Du kommer att få tillgång till en digital fotoutrustning, vilket kräver god datorvana. Vi erbjuder dig en professionell fotoutbildning v32  i Nyköping men även en onlinekurs innan skolstarten i augusti.
-Tjänsten kräver att du har körkort samt tillgång till bil.
-Arbetsperiod i första hand v33 till v42 med möjlighet till förlängning.
-Tidigare branscherfarenhet inom foto/skolfoto är inget krav men är självklart en merit. Vi ser gärna ett samarbete med redan etablerade fotografer.
-Passa på att söka till vår glada fotografkår och berätta lite om dig själv samt bifoga ditt Cv och några bilder. (Eller länk).
-Välkommen med din ansökan!Fotograf, ett drömyrke för dig?
-Vi söker nu fler fotografer till vår fotografkår i Uppsala med omnejd. Exakta Photo är Sveriges bästa skolfotoleverantör med mer än 60 års erfarenhet. Exakta Photo finns i hela Sverige och tillsammans fotograferar vi 900 000 elever varje år.
-Vi söker dig med ett genuint fotointresse som vill kombinera det med ett kul arbete bland barn och ungdomar. Vi värdesätter dina goda egenskaper som social förmåga, och att kunna jobba med eget ansvar under ordning och reda. Men även en estetisk ""blick"" för bild och form. Erfarenhet från barn- och ungdomsverksamhet är en stor merit.
-Du kommer att få tillgång till en digital fotoutrustning, vilket kräver god datorvana. Vi erbjuder dig en professionell fotoutbildning v33 i Nyköping men även en onlinekurs innan skolstarten i augusti.
-Tjänsten kräver att du har körkort samt tillgång till bil.
-Arbetsperiod i första hand är v33 till v40 med möjlighet till förlängning.
-Tidigare branscherfarenhet inom foto/skolfoto är inget krav men är självklart en merit. Vi ser gärna ett samarbete med redan etablerade fotografer.
-Passa på att söka till vår glada fotografkår och berätta lite om dig själv samt bifoga ditt Cv och några bilder. (Eller länk).
-Välkommen med din ansökan!Fotograf, ett drömyrke för dig?
-Vi söker nu fler fotografer till vår fotografkår i Linköping med omnejd. Exakta Photo är Sveriges bästa skolfotoleverantör med mer än 60 års erfarenhet. Exakta Photo finns i hela Sverige och tillsammans fotograferar vi 900 000 elever varje år.
-Vi söker dig med ett genuint fotointresse som vill kombinera det med ett kul arbete bland barn och ungdomar. Vi värdesätter dina goda egenskaper som social förmåga, och att kunna jobba med eget ansvar under ordning och reda. Men även en estetisk ""blick"" för bild och form. Erfarenhet från barn- och ungdomsverksamhet är en stor merit.
-Du kommer att få tillgång till en digital fotoutrustning, vilket kräver god datorvana. Vi erbjuder dig en professionell fotoutbildning v33 i Nyköping men även en onlinekurs innan skolstarten i augusti.
-Tjänsten kräver att du har körkort samt tillgång till bil.
-Arbetsperiod i första hand v33 till v42 med möjlighet till förlängning.
-Tidigare branscherfarenhet inom foto/skolfoto är inget krav men är självklart en merit. Vi ser gärna ett samarbete med redan etablerade fotografer.
-Passa på att söka till vår glada fotografkår och berätta lite om dig själv samt bifoga ditt Cv och några bilder. (Eller länk).
-Välkommen med din ansökan!Vi söker medarbetare till vårt huvudkontor i Malmö för anställning under vår högsäsong augusti-oktober/november. Känner du att det är tid för nya utmaningar? Gillar du dessutom att jobba i ett glatt gäng och i ett högt tempo? Då är det just dig vi söker! På Exakta Photo erbjuds du ett spännande och varierande jobb där vi alla hjälps åt att nå de uppsatta målen.
+
+Om arbetsplatsen
+Ale bibliotek består av huvudbiblioteket i Nödinge samt av närbiblioteken i Skepplanda, Surte och Älvängen.
+
+Tillsammans är vi 12 bibliotekarier som gör vårt bästa för att erbjuda relevant och intressant biblioteksverksamhet till alla Alebor och besökare. Ale bibliotek är en del av Bibliotek i väst (BIV) som består av sju kommuner i närområdet. Vi hoppas att du vill bli en av oss! 
+
+Arbetsuppgifter
+Brinner du för att sprida läsglädje till barn och unga? Vill du vara med och driva den dagliga verksamheten på Älvängens närbibliotek? I så fall har vi jobbet för dig!
+
+Större delen av din arbetstid är förlagd till närbiblioteket i Älvängen. Där är du drivande i allt som rör barnverksamheten så som aktiviteter, arrangemang och medieplanering. Du kommer att ta emot grupper av barn på biblioteksbesök och du samverkar med skolan, BVC och andra verksamheter. I allt praktiskt arbete på Älvängens bibliotek samarbetar du med en kollega som har ansvar för vuxenverksamheten.
+
+En del av din arbetstid kommer att förläggas på huvudbiblioteket i Nödinge där du har informationspass och ingår i den övergripande barn- och ungagruppen tillsammans med fyra andra kollegor. Ni planerar och genomför programverksamhet tillsammans på kommunens samtliga bibliotek.
+
+Du kommer som en del i ditt uppdrag att ingå i gruppen som sköter sociala medier och du ansvarar för att skapa marknadsföringsmaterial till barn- och ungdomsarrangemang.
+
 Kvalifikationer
-• Goda datorkunskaper
-• Noggrann och ett öga för detaljer
-• Strukturerad och positiv
-• Vana att ha flera bollar i luften samtidigt
-• Talar och skriver flytande svenska
-• Vana av Adobes program är ett stort plus
-Tjänsten avser heltid, arbetstid: 07:30-16:00. Månadslön enligt avtal. 
-Internutbildning för samtliga uppgifter sker på plats. 
-Rekrytering kommer ske löpande, så ansök nu!Vi söker medarbetare till vårt huvudkontor i Malmö för anställning under vår högsäsong augusti-oktober/november. Känner du att det är tid för nya utmaningar? Gillar du dessutom att jobba i ett glatt gäng och i ett högt tempo? Då är det just dig vi söker! På Exakta Photo erbjuds du ett spännande och varierande jobb där vi alla hjälps åt att nå de uppsatta målen.
+Examen i biblioteks- och informationsvetenskap.
+
+Du har erfarenhet av att arbeta på folkbibliotek och ett starkt intresse av att arbeta med läsfrämjande verksamhet för barn. Det är meriterande om du har arbetat som barnbibliotekarie och gärna på närbibliotek.
+
+Du är lika bekväm med att arbeta självständigt som i grupp och du har vana av och tycker om att prata inför grupper av barn och unga. Du är nyfiken på att ta reda på vad målgruppen har för behov av biblioteksverksamhet och är öppen för att inkludera målgruppen i planeringen.
+
+Som person är du glad, nyfiken och driven och har en förmåga att se utveckling som en möjlighet. Du behöver ha lätt att knyta kontakter med barn och deras vuxna och vara bra på att skapa förtroendefulla relationer.
+
+Övrigt
+Arbetstid enligt schema. Kvälls- och helgtjänstgöring ingår.
+
+Vi kommer lägga stor vikt vid personlig lämplighet och vid erbjudande om anställning behöver du lämna ett utdrag ur polisens belastningsregister.
+
+https://polisen.se/tjanster-tillstand/belastningsregistret/
+
+Vänta inte med din ansökan, intervjuer sker löpande!
+
+Har du skyddade personuppgifter ska du INTE söka via systemet utan kontakta rekryteringsansvarig för hantering av din ansökan.
+
+
+För att underlätta rekryteringsarbetet ber vi dig att bifoga relevanta intyg och betyg för tjänsten du söker samt vid eventuell intervju ha möjlighet att uppvisa giltig ID-handling. Vi har endast möjlighet att ta emot ansökningar via Varbi.
+
+
+Vi strävar efter en jämn könsfördelning och ser mångfald som en styrka och välkomnar därför sökande med olika bakgrund.
+
+
+Inför rekryteringsarbetet har vi tagit ställning till rekryteringskanaler och marknadsföring. Vi undanber oss därför bestämt kontakt med mediesäljare, rekryteringssajter och liknande.
+
+
+Vi använder e-rekrytering för att effektivisera och kvalitetssäkra rekryteringsarbetet. Alla dina uppgifter sparas på ditt CV-konto och du kan enkelt logga in och uppdatera dina uppgifter när du vill. Fyll därför i dina uppgifter så omsorgsfullt som möjligt för att ge en rättvisande bild av dig själv. 
+
+
+Dina personuppgifter behandlas i Varbi under rekryteringsprocessen och i den utsträckning detta är nödvändigt för att uppfylla lagstiftningen. Ansökan raderas 24 månader efter avslutande av rekrytering. Om du har ett Varbi-konto kan du använda redigeringen av din profil för att radera, ladda upp och redigera information. Kontakta annars Ale kommun.
+
+
+Vi vill upplysa om att din ansökan är en offentlig handling enligt offentlighetsprincipen.Vi söker dig som vill vara med och forma morgondagens Ale. Hos oss är du med och levererar service och tjänster av bästa kvalitet till Aleborna. Tillsammans skapar 2 500 medarbetare ett Ale, kommunen som fokuserar på invånarna och deras behov. Bli en av oss!
+
+
+
+
+Om arbetsplatsen
+Ale bibliotek består av huvudbiblioteket i Nödinge samt av närbiblioteken i Skepplanda, Surte och Älvängen.
+
+Tillsammans är vi 12 bibliotekarier som gör vårt bästa för att erbjuda relevant och intressant biblioteksverksamhet till alla Alebor och besökare. Ale bibliotek är en del av Bibliotek i väst (BIV) som består av sju kommuner i närområdet. Vi hoppas att du vill bli en av oss!
+
+Arbetsuppgifter
+Vill du arbeta med tillgänglighet ur ett biblioteksperspektiv med hela Ale som målgrupp? I så fall har vi jobbet för dig! Vi söker nu en bibliotekarie med fokus tillgänglighet, som arbetar uppsökande och kreativt med att leverera bibliotekstjänster till Alebor i alla åldrar. Möjliga samverkansparter kan vara den anpassade grundskolan, SFI och/eller föreningslivet. Du kommer att arbeta utifrån bibliotekets uppdrag att erbjuda biblioteksverksamhet till de prioriterade målgrupper som nämns i bibliotekslagen. Ytterligare en viktig aspekt av ditt uppdrag är att stötta alla bibliotek i Ale så att både verksamheten och lokalerna blir mer lättillgängliga.
+
+En del av din tjänst kommer att innebära samarbete med IT-bibliotekarien i dennes uppdrag där du exempelvis ingår i olika IT-nätverk och delar på systemansvaret i det dagliga arbetet.
+
+Du kommer att utgå från Ale bibliotek, Nödinge men du kommer samverka med samtliga närbibliotek och behöver kunna resa mellan dessa (kollektivt eller med bil).
+
 Kvalifikationer
-• Goda datorkunskaper
-• Noggrann och ett öga för detaljer
-• Strukturerad och positiv
-• Vana att ha flera bollar i luften samtidigt
-• Talar och skriver flytande svenska
-• Vana av Adobes program är ett stort plus
-Tjänsten avser heltid, arbetstid: 07:30-16:00. Månadslön enligt avtal. 
-Internutbildning för samtliga uppgifter sker på plats. 
-Rekrytering kommer ske löpande, så ansök nu!Exakta Photo är en av Sveriges största skolfotoleverantörer. Vi finns över hela landet och fotograferar cirka 900 000 elever varje år. Nu söker vi dig som vill ha ett säsongsbaserat uppdrag som skolfotograf!
-Vem är du?
-Vi tycker om en variation av människor men för att lyckas i tjänsten behöver du:
-Ha ett genuint fotointresse. Du behöver inte ha arbetat som skolfotograf men vi ser gärna att du är en redan etablerad fotograf. Detta är dock inte ett krav utan så länge du brinner för fotografering så kan du vara rätt person för oss.
-Du är utåtriktad och positiv. När du står bakom kameran så påverkar du det som sker framför. Du behöver inte vara komiker, men genom att vara glad och bjuda på dig själv så kan du få andra att slappna av inför kameran.
-Vara stresstålig och välorganiserad då det kan förekomma arbetsdagar med högt tempo.
-God datorvana då datorn kommer att bli ett viktigt arbetsredskap vid sidan om kameran.
-Ha körkort och tillgång till bil då du utför uppdragen på olika skolor och förskolor.
-Kunna arbeta heltid från mitten av augusti till mitten av oktober och vill ha Sveriges roligaste jobb!
-Har du arbetat med barn och ungdomar tidigare så är det en fördel, men det är inte avgörande!
+Examen i biblioteks- och informationsvetenskap.
 
+Du har vana av att arbeta målgruppsinriktat och du har en god förmåga att nå resultat. Du behöver kunna arbeta självständigt utifrån givna ramar, men även kunna samarbeta med kollegor både inom organisationen och med civilsamhället.
 
+Du kommer även att bemanna informationsdisken och tillsammans med övriga kollegor planera och genomföra aktiviteter och programverksamhet. Ett krav för att erbjudas tjänsten är därför att du har erfarenhet av arbete på folkbibliotek, gärna med tyngdpunkt på uppsökande arbete. Rollen kräver många kontakter och nära samarbeten vilket förutsätter att du är inkluderande, tillitsfull och är bra på att skapa förtroendefulla relationer.
 
-Vad erbjuder vi?
-Hos oss får du ett roligt och utvecklande säsongsjobb.
-Vi håller en obligatorisk utbildning vecka 32. Efter denna vecka kommer du först att arbeta tillsammans med en annan fotograf så du ska känna dig trygg innan du gör ditt första jobb själv!
-Arbetsperiod i första hand v34 till v40 med möjlighet till förlängning.
-Vi tillhandahåller all fotoutrustning du behöver.
-Du behöver inte oroa dig för det tekniska. Vi har tagit fram fasta inställningar, mått och rutiner så vare sig du använt Nikon, Sony eller varför inte Canon tidigare så är det enda du behöver tänka på hos oss är att få fram det där lilla extra hos personerna framför dig.
-Du utgår från ditt hem till angiven ort och erhåller milersättning för de sträckor du kör.
-Vill du fakturera eller bli anställd? Du väljer!
-Antingen har du redan ett eget bolag och skickar faktura för utförda jobb. Vi har även ett samarbete med Frilans Finans som gör det enkelt för dig att fakturera trots att du inte har ett eget bolag idag. Vi ger dig all information som behövs för detta. Om inget av ovan passar dig kan du även välja att bli säsongsanställd. Vi kör på det som passar dig och din livssituation bäst!
-Vad händer nu?
-Nu vill vi ha din ansökan såklart! Skicka in denna omgående via vår ansökningssida Exakta Photo AB - Jobba hos oss (exaktafoto.se).
-Vi hoppas att du vill bli en del av oss och får en oförglömlig höst!
+Du är nyfiken, driven, modig och vågar tänka nytt. Du har ett gott bemötande och är intresserad av människor.
+
+Du behöver ha vana av att arbeta i bibliotekssystem och vara öppen för att arbeta med andra IT-relaterade arbetsuppgifter.
+
 Övrigt
-För att arbeta med barn och ungdomar så behöver du visa upp ett godkänt utdrag ur belastningsregistret.
-Om anställningen
-Lön
-Lönetyp: Fast månads- vecko- eller timlönFotograf, ett drömyrke för dig?
-Vi söker nu fler fotografer till vår fotografkår i Hässleholm med omnejd. Exakta Photo är Sveriges bästa skolfotoleverantör med mer än 60 års erfarenhet. Exakta Photo finns i hela Sverige och tillsammans fotograferar vi 900 000 elever varje år.
-Vi söker dig med ett genuint fotointresse som vill kombinera det med ett kul arbete bland barn och ungdomar. Vi värdesätter dina goda egenskaper som social förmåga, och att kunna jobba med eget ansvar under ordning och reda. Men även en estetisk ""blick"" för bild och form. Erfarenhet från barn- och ungdomsverksamhet är en stor merit.
-Du kommer att få tillgång till en digital fotoutrustning, vilket kräver god datorvana. Vi erbjuder dig en professionell fotoutbildning v32 i Nyköping men även en onlinekurs innan skolstarten i augusti.
-Tjänsten kräver att du har körkort samt tillgång till bil.
-Arbetsperiod i första hand v34 till v40 med möjlighet till förlängning.
-Tidigare branscherfarenhet inom foto/skolfoto är inget krav men är självklart en merit. Vi ser gärna ett samarbete med redan etablerade fotografer.
-Passa på att söka till vår glada fotografkår och berätta lite om dig själv samt bifoga ditt Cv och några bilder. (Eller länk).
-Välkommen med din ansökan!
+Arbetstid enligt schema. I tjänsten ingår kvälls- och helgtjänstgöring.
+
+Vi kommer lägga stor vikt vid personlig lämplighet och vid erbjudande om anställning behöver du lämna ett utdrag ur polisens belastningsregister.
+
+https://polisen.se/tjanster-tillstand/belastningsregistret/
+
+Vänta inte med din ansökan, intervjuer sker löpande!
+
+ 
+
+Har du skyddade personuppgifter ska du INTE söka via systemet utan kontakta rekryteringsansvarig för hantering av din ansökan.
+
+
+För att underlätta rekryteringsarbetet ber vi dig att bifoga relevanta intyg och betyg för tjänsten du söker samt vid eventuell intervju ha möjlighet att uppvisa giltig ID-handling. Vi har endast möjlighet att ta emot ansökningar via Varbi.
+
+
+Vi strävar efter en jämn könsfördelning och ser mångfald som en styrka och välkomnar därför sökande med olika bakgrund.
+
+
+Inför rekryteringsarbetet har vi tagit ställning till rekryteringskanaler och marknadsföring. Vi undanber oss därför bestämt kontakt med mediesäljare, rekryteringssajter och liknande.
+
+
+Vi använder e-rekrytering för att effektivisera och kvalitetssäkra rekryteringsarbetet. Alla dina uppgifter sparas på ditt CV-konto och du kan enkelt logga in och uppdatera dina uppgifter när du vill. Fyll därför i dina uppgifter så omsorgsfullt som möjligt för att ge en rättvisande bild av dig själv. 
+
+
+Dina personuppgifter behandlas i Varbi under rekryteringsprocessen och i den utsträckning detta är nödvändigt för att uppfylla lagstiftningen. Ansökan raderas 24 månader efter avslutande av rekrytering. Om du har ett Varbi-konto kan du använda redigeringen av din profil för att radera, ladda upp och redigera information. Kontakta annars Ale kommun.
+
+
+Vi vill upplysa om att din ansökan är en offentlig handling enligt offentlighetsprincipen.Vi söker dig som vill vara med och forma morgondagens Ale. Hos oss är du med och levererar service och tjänster av bästa kvalitet till Aleborna. Tillsammans skapar 2 500 medarbetare ett Ale, kommunen som fokuserar på invånarna och deras behov. Bli en av oss!
+
+
+
+
+Om arbetsplatsen
+Ale bibliotek består av huvudbiblioteket i Nödinge samt av närbiblioteken i Skepplanda, Surte och Älvängen.
+
+Tillsammans är vi 12 bibliotekarier som gör vårt bästa för att erbjuda relevant och intressant biblioteksverksamhet till alla Alebor och besökare. Ale bibliotek är en del av Bibliotek i väst (BIV) som består av sju kommuner i närområdet. Vi hoppas att du vill bli en av oss! 
+
+Arbetsuppgifter
+Brinner du för att sprida läsglädje till barn och unga? Vill du vara med och driva den dagliga verksamheten på Älvängens närbibliotek? I så fall har vi jobbet för dig!
+
+Större delen av din arbetstid är förlagd till närbiblioteket i Älvängen. Där är du drivande i allt som rör barnverksamheten så som aktiviteter, arrangemang och medieplanering. Du kommer att ta emot grupper av barn på biblioteksbesök och du samverkar med skolan, BVC och andra verksamheter. I allt praktiskt arbete på Älvängens bibliotek samarbetar du med en kollega som har ansvar för vuxenverksamheten.
+
+En del av din arbetstid kommer att förläggas på huvudbiblioteket i Nödinge där du har informationspass och ingår i den övergripande barn- och ungagruppen tillsammans med fyra andra kollegor. Ni planerar och genomför programverksamhet tillsammans på kommunens samtliga bibliotek.
+
+Du kommer som en del i ditt uppdrag att ingå i gruppen som sköter sociala medier och du ansvarar för att skapa marknadsföringsmaterial till barn- och ungdomsarrangemang.
+
+Kvalifikationer
+Examen i biblioteks- och informationsvetenskap.
+
+Du har erfarenhet av att arbeta på folkbibliotek och ett starkt intresse av att arbeta med läsfrämjande verksamhet för barn. Det är meriterande om du har arbetat som barnbibliotekarie och gärna på närbibliotek.
+
+Du är lika bekväm med att arbeta självständigt som i grupp och du har vana av och tycker om att prata inför grupper av barn och unga. Du är nyfiken på att ta reda på vad målgruppen har för behov av biblioteksverksamhet och är öppen för att inkludera målgruppen i planeringen.
+
+Som person är du glad, nyfiken och driven och har en förmåga att se utveckling som en möjlighet. Du behöver ha lätt att knyta kontakter med barn och deras vuxna och vara bra på att skapa förtroendefulla relationer.
+
 Övrigt
-För att arbeta med barn och ungdomar så behöver du visa upp ett godkänt utdrag ur belastningsregistret.
-Om anställningen
-Lön
-Lönetyp: Fast månads- vecko- eller timlönFotograf, ett drömyrke för dig?
--Bra, för vi behöver dig!
-Vi söker nu fler fotografer till vår fotografkår i Stockholm med omnejd. Exakta Photo är Sveriges bästa skolfotoleverantör med mer än 60 års erfarenhet. Exakta Photo finns i hela Sverige och tillsammans fotograferar vi 900 000 elever varje år.
-Vi söker dig med ett genuint fotointresse som vill kombinera det med ett kul arbete bland barn och ungdomar. Vi värdesätter dina goda egenskaper som social förmåga, och att kunna jobba med eget ansvar under ordning och reda. Men även en estetisk ""blick"" för bild och form. Erfarenhet från barn- och ungdomsverksamhet är en stor merit.
-Du kommer att få tillgång till en digital fotoutrustning, vilket kräver god datorvana. Vi erbjuder dig en professionell skolfotoutbildning v33 i Nyköping men även en onlinekurs innan vi ses.
-Tjänsten kräver att du har körkort samt tillgång till bil.
+Arbetstid enligt schema. Kvälls- och helgtjänstgöring ingår.
+
+Vi kommer lägga stor vikt vid personlig lämplighet och vid erbjudande om anställning behöver du lämna ett utdrag ur polisens belastningsregister.
+
+https://polisen.se/tjanster-tillstand/belastningsregistret/
+
+Vänta inte med din ansökan, intervjuer sker löpande!
+
+Har du skyddade personuppgifter ska du INTE söka via systemet utan kontakta rekryteringsansvarig för hantering av din ansökan.
 
 
-Arbetsperiod i första hand v33 till v42.Tidigare branscherfarenhet inom foto/skolfoto är inget krav men är självklart en merit. Vi ser gärna ett samarbete med redan etablerade fotografer.
-Passa på att söka till vår glada fotografkår och berätta lite om dig själv samt bifoga ditt Cv och gärna några bilder. (Eller länk).
-Välkommen med din ansökan!Exakta Photo är en av Sveriges största skolfotoleverantörer. Vi finns över hela landet och fotograferar cirka 900 000 elever varje år. Nu söker vi dig som vill ha ett säsongsbaserat uppdrag som skolfotograf!
-Vem är du?
-Vi tycker om en variation av människor men för att lyckas i tjänsten behöver du:
-Ha ett genuint fotointresse. Du behöver inte ha arbetat som skolfotograf men vi ser gärna att du är en redan etablerad fotograf. Detta är dock inte ett krav utan så länge du brinner för fotografering så kan du vara rätt person för oss.
-Du är utåtriktad och positiv. När du står bakom kameran så påverkar du det som sker framför. Du behöver inte vara komiker, men genom att vara glad och bjuda på dig själv så kan du få andra att slappna av inför kameran.
-Vara stresstålig och välorganiserad då det kan förekomma arbetsdagar med högt tempo.
-God datorvana då datorn kommer att bli ett viktigt arbetsredskap vid sidan om kameran.
-Ha körkort och tillgång till bil då du utför uppdragen på olika skolor och förskolor.
-Kunna arbeta heltid från mitten av augusti till mitten av oktober och vill ha Sveriges roligaste jobb!
-Har du arbetat med barn och ungdomar tidigare så är det en fördel, men det är inte avgörande!
+För att underlätta rekryteringsarbetet ber vi dig att bifoga relevanta intyg och betyg för tjänsten du söker samt vid eventuell intervju ha möjlighet att uppvisa giltig ID-handling. Vi har endast möjlighet att ta emot ansökningar via Varbi.
+
+
+Vi strävar efter en jämn könsfördelning och ser mångfald som en styrka och välkomnar därför sökande med olika bakgrund.
+
+
+Inför rekryteringsarbetet har vi tagit ställning till rekryteringskanaler och marknadsföring. Vi undanber oss därför bestämt kontakt med mediesäljare, rekryteringssajter och liknande.
+
+
+Vi använder e-rekrytering för att effektivisera och kvalitetssäkra rekryteringsarbetet. Alla dina uppgifter sparas på ditt CV-konto och du kan enkelt logga in och uppdatera dina uppgifter när du vill. Fyll därför i dina uppgifter så omsorgsfullt som möjligt för att ge en rättvisande bild av dig själv. 
+
+
+Dina personuppgifter behandlas i Varbi under rekryteringsprocessen och i den utsträckning detta är nödvändigt för att uppfylla lagstiftningen. Ansökan raderas 24 månader efter avslutande av rekrytering. Om du har ett Varbi-konto kan du använda redigeringen av din profil för att radera, ladda upp och redigera information. Kontakta annars Ale kommun.
+
+
+Vi vill upplysa om att din ansökan är en offentlig handling enligt offentlighetsprincipen.Vi söker dig som vill vara med och forma morgondagens Ale. Hos oss är du med och levererar service och tjänster av bästa kvalitet till Aleborna. Tillsammans skapar 2 500 medarbetare ett Ale, kommunen som fokuserar på invånarna och deras behov. Bli en av oss!
 
 
 
-Vad erbjuder vi?
-Utbildning sker v32 i Nyköping. Efter denna kommer du först att arbeta tillsammans med en annan fotograf så du ska känna dig trygg innan du gör ditt första jobb själv! Fram till fredag v42
-Vi tillhandahåller all fotoutrustning du behöver.
-Du behöver inte oroa dig för det tekniska. Vi har tagit fram fasta inställningar, mått och rutiner så vare sig du använt Nikon, Sony eller varför inte Canon tidigare så är det enda du behöver tänka på hos oss är att få fram det där lilla extra hos personerna framför dig.
-Du utgår från ditt hem till angiven ort och erhåller milersättning för de sträckor du kör.
-Vill du fakturera eller bli anställd? Du väljer!
-Antingen har du redan ett eget bolag och skickar faktura för utförda jobb. Vi har även ett samarbete med Frilans Finans som gör det enkelt för dig att fakturera trots att du inte har ett eget bolag idag. Vi ger dig all information som behövs för detta. Om inget av ovan passar dig kan du även välja att bli säsongsanställd. Vi kör på det som passar dig och din livssituation bäst!
-Vad händer nu?
-Nu vill vi ha din ansökan såklart! Skicka in denna omgående via vår ansökningssida Exakta Photo AB - Jobba hos oss (exaktafoto.se).
-Vi hoppas att du vill bli en del av oss och får en oförglömlig höst!
+
+Om arbetsplatsen
+Ale bibliotek består av huvudbiblioteket i Nödinge samt av närbiblioteken i Skepplanda, Surte och Älvängen.
+
+Tillsammans är vi 12 bibliotekarier som gör vårt bästa för att erbjuda relevant och intressant biblioteksverksamhet till alla Alebor och besökare. Ale bibliotek är en del av Bibliotek i väst (BIV) som består av sju kommuner i närområdet. Vi hoppas att du vill bli en av oss!
+
+Arbetsuppgifter
+Vill du arbeta med tillgänglighet ur ett biblioteksperspektiv med hela Ale som målgrupp? I så fall har vi jobbet för dig! Vi söker nu en bibliotekarie med fokus tillgänglighet, som arbetar uppsökande och kreativt med att leverera bibliotekstjänster till Alebor i alla åldrar. Möjliga samverkansparter kan vara den anpassade grundskolan, SFI och/eller föreningslivet. Du kommer att arbeta utifrån bibliotekets uppdrag att erbjuda biblioteksverksamhet till de prioriterade målgrupper som nämns i bibliotekslagen. Ytterligare en viktig aspekt av ditt uppdrag är att stötta alla bibliotek i Ale så att både verksamheten och lokalerna blir mer lättillgängliga.
+
+En del av din tjänst kommer att innebära samarbete med IT-bibliotekarien i dennes uppdrag där du exempelvis ingår i olika IT-nätverk och delar på systemansvaret i det dagliga arbetet.
+
+Du kommer att utgå från Ale bibliotek, Nödinge men du kommer samverka med samtliga närbibliotek och behöver kunna resa mellan dessa (kollektivt eller med bil).
+
+Kvalifikationer
+Examen i biblioteks- och informationsvetenskap.
+
+Du har vana av att arbeta målgruppsinriktat och du har en god förmåga att nå resultat. Du behöver kunna arbeta självständigt utifrån givna ramar, men även kunna samarbeta med kollegor både inom organisationen och med civilsamhället.
+
+Du kommer även att bemanna informationsdisken och tillsammans med övriga kollegor planera och genomföra aktiviteter och programverksamhet. Ett krav för att erbjudas tjänsten är därför att du har erfarenhet av arbete på folkbibliotek, gärna med tyngdpunkt på uppsökande arbete. Rollen kräver många kontakter och nära samarbeten vilket förutsätter att du är inkluderande, tillitsfull och är bra på att skapa förtroendefulla relationer.
+
+Du är nyfiken, driven, modig och vågar tänka nytt. Du har ett gott bemötande och är intresserad av människor.
+
+Du behöver ha vana av att arbeta i bibliotekssystem och vara öppen för att arbeta med andra IT-relaterade arbetsuppgifter.
+
 Övrigt
-För att arbeta med barn och ungdomar så behöver du visa upp ett godkänt utdrag ur belastningsregistret.Fotograf, ett drömyrke för dig?
-Vi söker nu fler fotografer till vår fotografkår i Halmstad med omnejd. Exakta Photo är Sveriges största skolfotoleverantör med mer än 60 års erfarenhet. Exakta Photo finns i hela Sverige och tillsammans fotograferar vi 900 000 elever varje år.
-Vi söker dig med ett genuint fotointresse som vill kombinera det med ett kul arbete bland barn och ungdomar. Vi värdesätter dina goda egenskaper som social förmåga, och att kunna jobba med eget ansvar under ordning och reda. Men även en estetisk ""blick"" för bild och form. Erfarenhet från barn- och ungdomsverksamhet är en stor merit.
-Du kommer att få tillgång till en digital fotoutrustning, vilket kräver god datorvana. Vi erbjuder dig en professionell fotoutbildning v32 i Nyköping men även en onlinekurs innan skolstarten i augusti.
-Tjänsten kräver att du har körkort samt tillgång till bil.
-Arbetsperiod i första hand v34 till v40 med möjlighet till förlängning.
-Tidigare branscherfarenhet inom foto/skolfoto är inget krav men är självklart en merit. Vi ser gärna ett samarbete med redan etablerade fotografer.
-Passa på att söka till vår glada fotografkår och berätta lite om dig själv samt bifoga ditt Cv och några bilder. (Eller länk).
-Välkommen med din ansökan!
-Övrigt
-För att arbeta med barn och ungdomar så behöver du visa upp ett godkänt utdrag ur belastningsregistret.
-Om anställningen
-Lön
-Lönetyp: Fast månadsExakta Photo är en av Sveriges största skolfotoleverantörer. Vi finns över hela landet och fotograferar cirka 900 000 elever varje år. Nu söker vi dig som vill ha ett säsongsbaserat uppdrag som skolfotograf!
-Vem är du?
-Vi tycker om en variation av människor men för att lyckas i tjänsten behöver du:
-Ha ett genuint fotointresse. Du behöver inte ha arbetat som skolfotograf men vi ser gärna att du är en redan etablerad fotograf. Detta är dock inte ett krav utan så länge du brinner för fotografering så kan du vara rätt person för oss.
-Du är utåtriktad och positiv. När du står bakom kameran så påverkar du det som sker framför. Du behöver inte vara komiker, men genom att vara glad och bjuda på dig själv så kan du få andra att slappna av inför kameran.
-Vara stresstålig och välorganiserad då det kan förekomma arbetsdagar med högt tempo.
-God datorvana då datorn kommer att bli ett viktigt arbetsredskap vid sidan om kameran.
-Ha körkort och tillgång till bil då du utför uppdragen på olika skolor och förskolor.
-Kunna arbeta heltid från mitten av augusti till mitten av oktober och vill ha Sveriges roligaste jobb!
-Har du arbetat med barn och ungdomar tidigare så är det en fördel, men det är inte avgörande!
+Arbetstid enligt schema. I tjänsten ingår kvälls- och helgtjänstgöring.
+
+Vi kommer lägga stor vikt vid personlig lämplighet och vid erbjudande om anställning behöver du lämna ett utdrag ur polisens belastningsregister.
+
+https://polisen.se/tjanster-tillstand/belastningsregistret/
+
+Vänta inte med din ansökan, intervjuer sker löpande!
+
+ 
+
+Har du skyddade personuppgifter ska du INTE söka via systemet utan kontakta rekryteringsansvarig för hantering av din ansökan.
 
 
+För att underlätta rekryteringsarbetet ber vi dig att bifoga relevanta intyg och betyg för tjänsten du söker samt vid eventuell intervju ha möjlighet att uppvisa giltig ID-handling. Vi har endast möjlighet att ta emot ansökningar via Varbi.
 
-Vad erbjuder vi?
-Hos oss får du ett roligt och utvecklande säsongsjobb.
-Vi håller en obligatorisk utbildning vecka 32. Efter denna vecka kommer du först att arbeta tillsammans med en annan fotograf så du ska känna dig trygg innan du gör ditt första jobb själv!
-Arbetsperiod i första hand v34 till v40 med möjlighet till förlängning.
-Vi tillhandahåller all fotoutrustning du behöver.
-Du behöver inte oroa dig för det tekniska. Vi har tagit fram fasta inställningar, mått och rutiner så vare sig du använt Nikon, Sony eller varför inte Canon tidigare så är det enda du behöver tänka på hos oss är att få fram det där lilla extra hos personerna framför dig.
-Du utgår från ditt hem till angiven ort och erhåller milersättning för de sträckor du kör.
-Vill du fakturera eller bli anställd? Du väljer!
-Antingen har du redan ett eget bolag och skickar faktura för utförda jobb. Vi har även ett samarbete med Frilans Finans som gör det enkelt för dig att fakturera trots att du inte har ett eget bolag idag. Vi ger dig all information som behövs för detta. Om inget av ovan passar dig kan du även välja att bli säsongsanställd. Vi kör på det som passar dig och din livssituation bäst!
-Vad händer nu?
-Nu vill vi ha din ansökan såklart! Skicka in denna omgående via vår ansökningssida Exakta Photo AB - Jobba hos oss (exaktaphoto.se).
-Vi hoppas att du vill bli en del av oss och får en oförglömlig höst!
-Övrigt
-För att arbeta med barn och ungdomar så behöver du visa upp ett godkänt utdrag ur belastningsregistret.
-Om anställningen
-Lön
-Lönetyp: Fast månads- vecko- eller timlön"
+
+Vi strävar efter en jämn könsfördelning och ser mångfald som en styrka och välkomnar därför sökande med olika bakgrund.
+
+
+Inför rekryteringsarbetet har vi tagit ställning till rekryteringskanaler och marknadsföring. Vi undanber oss därför bestämt kontakt med mediesäljare, rekryteringssajter och liknande.
+
+
+Vi använder e-rekrytering för att effektivisera och kvalitetssäkra rekryteringsarbetet. Alla dina uppgifter sparas på ditt CV-konto och du kan enkelt logga in och uppdatera dina uppgifter när du vill. Fyll därför i dina uppgifter så omsorgsfullt som möjligt för att ge en rättvisande bild av dig själv. 
+
+
+Dina personuppgifter behandlas i Varbi under rekryteringsprocessen och i den utsträckning detta är nödvändigt för att uppfylla lagstiftningen. Ansökan raderas 24 månader efter avslutande av rekrytering. Om du har ett Varbi-konto kan du använda redigeringen av din profil för att radera, ladda upp och redigera information. Kontakta annars Ale kommun.
+
+
+Vi vill upplysa om att din ansökan är en offentlig handling enligt offentlighetsprincipen."
