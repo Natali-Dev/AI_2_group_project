@@ -179,3 +179,4 @@ cython_debug/
 
 # Ignore user-specific vscode files
 *.vscode/
+*.streamlit
