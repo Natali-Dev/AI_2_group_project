@@ -20,14 +20,14 @@ client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 #     df_kultur = con.execute("SELECT * FROM mart.mart_kultur_media").df()
 # få en kort förklaring om datan
 #plotta datan
+    # st.write("Vilka krav och meriterande egenskaper är vanligast inom top 1 [sort_on]")
+    # st.write("Vilken stad har bäst möjligheter inom [Workplace City]")
+    # st.write("Skapa en lista på frågor en rekryterare bör ställa vid en intervju för [occuppation]")
+    # st.write("Vilka kompetenser efterfrågas mest i [Workplace City] just nu?")
+    # st.write("")
+    # st.write("")
+    # st.write("")
 def gemini_layout():
-    st.write("Vilka krav och meriterande egenskaper är vanligast inom top 1 [sort_on]")
-    st.write("Vilken stad har bäst möjligheter inom [Workplace City]")
-    st.write("Skapa en lista på frågor en rekryterare bör ställa vid en intervju för [occuppation]")
-    st.write("Vilka kompetenser efterfrågas mest i [Workplace City] just nu?")
-    st.write("")
-    st.write("")
-    st.write("")
     
     field = 'Kultur, Media, Design'
     # sort_on = st.selectbox("Sortera på", ["Workplace City", "employer_name", "occupation"])

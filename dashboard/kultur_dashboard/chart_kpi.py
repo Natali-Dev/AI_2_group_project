@@ -67,12 +67,8 @@ def detailed_metric(detailed_sort):
     return show_metric(labels, cols, kpis)
     
 def general_pie_chart(sort_on,get_unique,detailed_sort): #TODO lägg in ej angiven på languages och working_hours_type 
-    if detailed_sort == 'Must Have Languages': 
-        df = df_kultur[df_kultur[detailed_sort] != 'ej specifierat']
 
-    else: 
-        df = df_kultur[df_kultur[detailed_sort] != 'ej angiven']
-    
+    df = df_kultur[df_kultur[detailed_sort] != 'ej angiven']
     df = df[df[sort_on] == get_unique]
     fig =  px.pie(df.groupby(detailed_sort)["Vacancies"].sum().reset_index(), names=detailed_sort, values="Vacancies", hole=0.2)
     length = df["Vacancies"].sum()

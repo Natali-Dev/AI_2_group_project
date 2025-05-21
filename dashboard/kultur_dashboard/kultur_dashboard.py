@@ -2,6 +2,8 @@ import streamlit as st
 from pages_ import home, detailed_overview, gemini
 
 def layout():
+    
+    st.sidebar.radio("Välj yrkesgrupp", ["Alla","Kultur", "Installation", "Skönhetsvård"])
     page = {
         "Home": home.home_layout, 
         "Detailed overview": detailed_overview.overview_layout,
@@ -9,10 +11,6 @@ def layout():
     }
     choice = st.sidebar.radio("Välj vy", list(page.keys()))
     page[choice]()
-    # st.sidebar.balloons()
-    # st.sidebar.
-    # home.home_layout()
-
 
 
 

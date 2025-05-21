@@ -55,8 +55,8 @@ def overview_layout():
 
         st.plotly_chart(fig)
     with cols[1]:
-        get_unique = st.selectbox("Sortera på", df[sort_on].unique())
-        detailed_sort = st.selectbox("Se graf med ", ["Must Have Languages", "Duration", "Working Hours Type"])
+        get_unique = st.selectbox("Sortera på", df[sort_on].unique()) #TODO Ha med alla! 
+        detailed_sort = st.selectbox("Se graf med ", ["Must Have Languages", "Duration", "Working Hours Type"]) #TODO lägg till körkort,erfarenhet, tillgång till bil
         # df = detailed_metric(detailed_sort)
         # st.write(df)
         # df.
