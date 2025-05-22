@@ -23,7 +23,9 @@ def local_css(file_name):
 
 
 def layout(df_kropp_skonhetsvard):
+   
     local_css("../styles/style.css")
+    
     st.title("Kropp och Skönhet Dashboard")
     
     
