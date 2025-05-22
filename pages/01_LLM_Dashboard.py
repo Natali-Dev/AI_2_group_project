@@ -52,7 +52,7 @@ def build_llm_introduction_and_tools():
     with col1:
         st.subheader("Text-to-SQL: Fråga Databasen med Vanligt Språk")
         st.markdown("""
-        Har du en fråga som du tror datan ivår strukturerade databas kan svara på?
+        Har du en fråga som du tror datan i vår strukturerade databas kan svara på?
         Skriv din fråga på svenska, så kommer vår LLM att försöka översätta den till en SQL-kod.
         SQL-koden körs sedan mot databasen ('ads_data.duckdb', 'refined'-schemat) och du får tillbaka resultatet!
                     

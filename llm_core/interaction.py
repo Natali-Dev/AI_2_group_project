@@ -3,6 +3,7 @@
 
 import streamlit as st
 import google.generativeai as genai
+import pandas as pd
 import os
 
 
@@ -10,6 +11,8 @@ gemini_model_text_to_sql = None
 gemini_model_rag = None
 gemini_api_key_configured = False
 
+try:
+    from llm_core.schema_provider import get_schema_representation
 
 def configure_gemini():
     """
