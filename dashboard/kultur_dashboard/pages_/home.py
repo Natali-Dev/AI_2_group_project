@@ -2,9 +2,9 @@ import streamlit as st
 import os
 import duckdb
 from pathlib import Path
-from chart_kpi import vacancies_by_group, chart_top_occupations, total_citys, total_employers,show_metric, total_vacancies
+# from chart_kpi import vacancies_by_group, chart_top_occupations, total_employers,show_metric #total_vacancies
 from kpi import (
-    # total_vacancies,
+    total_vacancies,
     top_occupations,
     vacancies_per_city,
     top_employers,
@@ -14,11 +14,8 @@ from kpi import (
 from chart import (
     bar_chart, pie_chart, display_data_table, map_chart
 )
-working_directory = Path(__file__).parents[3]
-os.chdir(working_directory)
-with duckdb.connect("ads_data.duckdb") as connection:
-    df_kropp_skonhetsvard = connection.execute("SELECT * FROM mart.mart_kropp_skonhet").df()
-def home_layout():
+
+def home_layout(df_kropp_skonhetsvard):
     st.title("Kropp och Skönhet Dashboard")
     # st.markdown("# Job Ads Dashboard - Kultur, Media, Design")
     
@@ -27,15 +24,15 @@ def home_layout():
     )
     
     st.header("Övergripande statistik")
-    # col1, col2, col3 = st.columns(3)
+    col1, col2, col3 = st.columns(3)
     st.write("------------------")
-    labels = ["Totalt antal lediga jobb", "Totalt antal städer", "Totalt antal arbetsgivare"] 
-    cols = st.columns(3)
-    kpis = round(total_vacancies), total_citys, total_employers
-    show_metric(labels, cols, kpis)
-    # col1.metric("Totalt antal lediga jobb", total_vacancies(df_kropp_skonhetsvard))
-    # col2.metric("Antal städer", df_kropp_skonhetsvard["workplace_city"].nunique())
-    # col3.metric("Antal arbetsgivare", df_kropp_skonhetsvard["employer_name"].nunique())
+    # labels = ["Totalt antal lediga jobb", "Totalt antal städer", "Totalt antal arbetsgivare"] 
+    # cols = st.columns(3)
+    # kpis = round(total_vacancies), total_citys, total_employers
+    # show_metric(labels, cols, kpis)
+    col1.metric("Totalt antal lediga jobb", total_vacancies(df_kropp_skonhetsvard))
+    col2.metric("Antal städer", df_kropp_skonhetsvard["workplace_city"].nunique())
+    col3.metric("Antal arbetsgivare", df_kropp_skonhetsvard["employer_name"].nunique())
 
     # Most requested occupations
     # st.header("Mest efterfrågade yrken")
