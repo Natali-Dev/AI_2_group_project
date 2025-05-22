@@ -1,0 +1,18 @@
+/* Yttre bakgrund – hela sidan */
+[data-testid="stAppViewContainer"] {
+    background-color: #fcfcfc;
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Inre container (där innehållet är) */
+[data-testid="stMarkdownContainer"] {
+    font-family: 'Segoe UI', sans-serif;
+    color: #31686fd0;
+}
+
+/* == Rubriker == */
+h1, h2, h3 {
+    color: #2867bf;
+    font-weight: 600;
+}

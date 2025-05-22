@@ -1,6 +1,5 @@
 import streamlit as st
 from pages_ import home, detailed_overview, gemini
-from kropps_skonhetvard_dashboard import dashboard
 import os 
 import duckdb
 from pathlib import Path
@@ -14,7 +13,7 @@ def layout():
         "mart_kropp_skonhet": "mart_kropp_skonhet"
     }
     group = st.sidebar.radio("Välj yrkesgrupp", list(groups.keys()))
-    working_directory = Path(__file__).parents[2]
+    working_directory = Path(__file__).parents[1]
     os.chdir(working_directory)
     with duckdb.connect("ads_data.duckdb") as connection:
         df = connection.execute(f"SELECT * FROM mart.{group}").df()

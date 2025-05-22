@@ -2,18 +2,7 @@ import streamlit as st
 import os
 import duckdb
 from pathlib import Path
-from chart_kpi import (
-    attributes_per_field,
-    chart_top_occupations,
-    general_pie_chart,
-    show_metric,
-    # field_pie_chart,
-    # language_pie_chart,
-    # working_hours, 
-    # working_duration,
-    # duration_pie_chart, 
-    # detailed_metric,
-)
+
 from kpi import (
     total_vacancies,
     top_occupations,
@@ -21,9 +10,12 @@ from kpi import (
     top_employers,
     occupations_group_counts,
     get_attributes_per_field,
+    attributes_per_field,
+    show_metric,
+
 )
 from chart import (
-    bar_chart, pie_chart, display_data_table, map_chart
+    bar_chart, pie_chart, display_data_table, map_chart, general_pie_chart, chart_top_occupations
 )
 
 def overview_layout(current_df):
