@@ -1,45 +1,29 @@
-,Workplace City,Vacancies,Description
-27,Ale,4,"Vi söker dig som vill vara med och forma morgondagens Ale. Hos oss är du med och levererar service och tjänster av bästa kvalitet till Aleborna. Tillsammans skapar 2 500 medarbetare ett Ale, kommunen som fokuserar på invånarna och deras behov. Bli en av oss!
+,workplace_city,vacancies,description
+101,Ale,7,"Vi söker dig som vill vara med och forma morgondagens Ale. Hos oss är du med och levererar service och tjänster av bästa kvalitet till Aleborna. Tillsammans skapar 2 500 medarbetare ett Ale, kommunen som fokuserar på invånarna och deras behov. Bli en av oss!
 
 
 
 
 Om arbetsplatsen
-Ale bibliotek består av huvudbiblioteket i Nödinge samt av närbiblioteken i Skepplanda, Surte och Älvängen.
+Vår arbetsplats inom Drift och Underhåll utmärker sig genom en stark gemenskap och ett modernt arbetssätt som förenar teknisk expertis med hållbarhet.
 
-Tillsammans är vi 12 bibliotekarier som gör vårt bästa för att erbjuda relevant och intressant biblioteksverksamhet till alla Alebor och besökare. Ale bibliotek är en del av Bibliotek i väst (BIV) som består av sju kommuner i närområdet. Vi hoppas att du vill bli en av oss! 
+Här får du arbeta i en varierad miljö med både långsiktig planering och snabba insatser. Kollegorna är ett stöttande team som alltid ställer upp för varandra, vilket skapar en arbetsmiljö där man trivs och utvecklas tillsammans.
 
 Arbetsuppgifter
-Brinner du för att sprida läsglädje till barn och unga? Vill du vara med och driva den dagliga verksamheten på Älvängens närbibliotek? I så fall har vi jobbet för dig!
-
-Större delen av din arbetstid är förlagd till närbiblioteket i Älvängen. Där är du drivande i allt som rör barnverksamheten så som aktiviteter, arrangemang och medieplanering. Du kommer att ta emot grupper av barn på biblioteksbesök och du samverkar med skolan, BVC och andra verksamheter. I allt praktiskt arbete på Älvängens bibliotek samarbetar du med en kollega som har ansvar för vuxenverksamheten.
-
-En del av din arbetstid kommer att förläggas på huvudbiblioteket i Nödinge där du har informationspass och ingår i den övergripande barn- och ungagruppen tillsammans med fyra andra kollegor. Ni planerar och genomför programverksamhet tillsammans på kommunens samtliga bibliotek.
-
-Du kommer som en del i ditt uppdrag att ingå i gruppen som sköter sociala medier och du ansvarar för att skapa marknadsföringsmaterial till barn- och ungdomsarrangemang.
+Som fastighetsskötare i Ale kommun kommer du att ingå i en grupp bestående av drifttekniker och fastighetsskötare som tillsammans ansvarar för driftområdets dagliga drift och skötsel. Du kommer även att vara involverad i att ta i underhållsplaner och du skall vara ett stöd till våra hyresgäster i fastighetsfrågor. Du är en viktig kugge i att uppnå kommunens miljömål och medverka i att utveckla och optimera våra anläggningar, arbetssätt och rutiner så att det leder till en effektiv förvaltning.
 
 Kvalifikationer
-Examen i biblioteks- och informationsvetenskap.
-
-Du har erfarenhet av att arbeta på folkbibliotek och ett starkt intresse av att arbeta med läsfrämjande verksamhet för barn. Det är meriterande om du har arbetat som barnbibliotekarie och gärna på närbibliotek.
-
-Du är lika bekväm med att arbeta självständigt som i grupp och du har vana av och tycker om att prata inför grupper av barn och unga. Du är nyfiken på att ta reda på vad målgruppen har för behov av biblioteksverksamhet och är öppen för att inkludera målgruppen i planeringen.
-
-Som person är du glad, nyfiken och driven och har en förmåga att se utveckling som en möjlighet. Du behöver ha lätt att knyta kontakter med barn och deras vuxna och vara bra på att skapa förtroendefulla relationer.
+ - Praktiskt ansvara för våra byggnader och dess inre och yttre miljö
+ - Felanmälan och felsökning
+ - Reparationer
+ - Tillsyn och skötsel
 
 Övrigt
-Arbetstid enligt schema. Kvälls- och helgtjänstgöring ingår.
+Vi söker dig som är serviceinriktad, noggrann och kommunikativ. Du trivs med att arbeta med människor, har ett professionellt bemötande och ser till att våra hyresgäster alltid får bästa möjliga service. I denna rekrytering lägger vi stor vikt vid personliga egenskaper.
 
-Vi kommer lägga stor vikt vid personlig lämplighet och vid erbjudande om anställning behöver du lämna ett utdrag ur polisens belastningsregister.
 
-https://polisen.se/tjanster-tillstand/belastningsregistret/
-
-Vänta inte med din ansökan, intervjuer sker löpande!
 
 Har du skyddade personuppgifter ska du INTE söka via systemet utan kontakta rekryteringsansvarig för hantering av din ansökan.
-
-
-För att underlätta rekryteringsarbetet ber vi dig att bifoga relevanta intyg och betyg för tjänsten du söker samt vid eventuell intervju ha möjlighet att uppvisa giltig ID-handling. Vi har endast möjlighet att ta emot ansökningar via Varbi.
 
 
 Vi strävar efter en jämn könsfördelning och ser mångfald som en styrka och välkomnar därför sökande med olika bakgrund.
@@ -54,173 +38,169 @@ Vi använder e-rekrytering för att effektivisera och kvalitetssäkra rekryterin
 Dina personuppgifter behandlas i Varbi under rekryteringsprocessen och i den utsträckning detta är nödvändigt för att uppfylla lagstiftningen. Ansökan raderas 24 månader efter avslutande av rekrytering. Om du har ett Varbi-konto kan du använda redigeringen av din profil för att radera, ladda upp och redigera information. Kontakta annars Ale kommun.
 
 
-Vi vill upplysa om att din ansökan är en offentlig handling enligt offentlighetsprincipen.Vi söker dig som vill vara med och forma morgondagens Ale. Hos oss är du med och levererar service och tjänster av bästa kvalitet till Aleborna. Tillsammans skapar 2 500 medarbetare ett Ale, kommunen som fokuserar på invånarna och deras behov. Bli en av oss!
-
-
-
-
-Om arbetsplatsen
-Ale bibliotek består av huvudbiblioteket i Nödinge samt av närbiblioteken i Skepplanda, Surte och Älvängen.
-
-Tillsammans är vi 12 bibliotekarier som gör vårt bästa för att erbjuda relevant och intressant biblioteksverksamhet till alla Alebor och besökare. Ale bibliotek är en del av Bibliotek i väst (BIV) som består av sju kommuner i närområdet. Vi hoppas att du vill bli en av oss!
-
-Arbetsuppgifter
-Vill du arbeta med tillgänglighet ur ett biblioteksperspektiv med hela Ale som målgrupp? I så fall har vi jobbet för dig! Vi söker nu en bibliotekarie med fokus tillgänglighet, som arbetar uppsökande och kreativt med att leverera bibliotekstjänster till Alebor i alla åldrar. Möjliga samverkansparter kan vara den anpassade grundskolan, SFI och/eller föreningslivet. Du kommer att arbeta utifrån bibliotekets uppdrag att erbjuda biblioteksverksamhet till de prioriterade målgrupper som nämns i bibliotekslagen. Ytterligare en viktig aspekt av ditt uppdrag är att stötta alla bibliotek i Ale så att både verksamheten och lokalerna blir mer lättillgängliga.
-
-En del av din tjänst kommer att innebära samarbete med IT-bibliotekarien i dennes uppdrag där du exempelvis ingår i olika IT-nätverk och delar på systemansvaret i det dagliga arbetet.
-
-Du kommer att utgå från Ale bibliotek, Nödinge men du kommer samverka med samtliga närbibliotek och behöver kunna resa mellan dessa (kollektivt eller med bil).
-
-Kvalifikationer
-Examen i biblioteks- och informationsvetenskap.
-
-Du har vana av att arbeta målgruppsinriktat och du har en god förmåga att nå resultat. Du behöver kunna arbeta självständigt utifrån givna ramar, men även kunna samarbeta med kollegor både inom organisationen och med civilsamhället.
-
-Du kommer även att bemanna informationsdisken och tillsammans med övriga kollegor planera och genomföra aktiviteter och programverksamhet. Ett krav för att erbjudas tjänsten är därför att du har erfarenhet av arbete på folkbibliotek, gärna med tyngdpunkt på uppsökande arbete. Rollen kräver många kontakter och nära samarbeten vilket förutsätter att du är inkluderande, tillitsfull och är bra på att skapa förtroendefulla relationer.
-
-Du är nyfiken, driven, modig och vågar tänka nytt. Du har ett gott bemötande och är intresserad av människor.
-
-Du behöver ha vana av att arbeta i bibliotekssystem och vara öppen för att arbeta med andra IT-relaterade arbetsuppgifter.
-
-Övrigt
-Arbetstid enligt schema. I tjänsten ingår kvälls- och helgtjänstgöring.
-
-Vi kommer lägga stor vikt vid personlig lämplighet och vid erbjudande om anställning behöver du lämna ett utdrag ur polisens belastningsregister.
-
-https://polisen.se/tjanster-tillstand/belastningsregistret/
-
-Vänta inte med din ansökan, intervjuer sker löpande!
-
- 
-
-Har du skyddade personuppgifter ska du INTE söka via systemet utan kontakta rekryteringsansvarig för hantering av din ansökan.
-
-
-För att underlätta rekryteringsarbetet ber vi dig att bifoga relevanta intyg och betyg för tjänsten du söker samt vid eventuell intervju ha möjlighet att uppvisa giltig ID-handling. Vi har endast möjlighet att ta emot ansökningar via Varbi.
-
-
-Vi strävar efter en jämn könsfördelning och ser mångfald som en styrka och välkomnar därför sökande med olika bakgrund.
-
-
-Inför rekryteringsarbetet har vi tagit ställning till rekryteringskanaler och marknadsföring. Vi undanber oss därför bestämt kontakt med mediesäljare, rekryteringssajter och liknande.
-
-
-Vi använder e-rekrytering för att effektivisera och kvalitetssäkra rekryteringsarbetet. Alla dina uppgifter sparas på ditt CV-konto och du kan enkelt logga in och uppdatera dina uppgifter när du vill. Fyll därför i dina uppgifter så omsorgsfullt som möjligt för att ge en rättvisande bild av dig själv. 
-
-
-Dina personuppgifter behandlas i Varbi under rekryteringsprocessen och i den utsträckning detta är nödvändigt för att uppfylla lagstiftningen. Ansökan raderas 24 månader efter avslutande av rekrytering. Om du har ett Varbi-konto kan du använda redigeringen av din profil för att radera, ladda upp och redigera information. Kontakta annars Ale kommun.
-
-
-Vi vill upplysa om att din ansökan är en offentlig handling enligt offentlighetsprincipen.Vi söker dig som vill vara med och forma morgondagens Ale. Hos oss är du med och levererar service och tjänster av bästa kvalitet till Aleborna. Tillsammans skapar 2 500 medarbetare ett Ale, kommunen som fokuserar på invånarna och deras behov. Bli en av oss!
-
-
-
-
-Om arbetsplatsen
-Ale bibliotek består av huvudbiblioteket i Nödinge samt av närbiblioteken i Skepplanda, Surte och Älvängen.
-
-Tillsammans är vi 12 bibliotekarier som gör vårt bästa för att erbjuda relevant och intressant biblioteksverksamhet till alla Alebor och besökare. Ale bibliotek är en del av Bibliotek i väst (BIV) som består av sju kommuner i närområdet. Vi hoppas att du vill bli en av oss! 
-
-Arbetsuppgifter
-Brinner du för att sprida läsglädje till barn och unga? Vill du vara med och driva den dagliga verksamheten på Älvängens närbibliotek? I så fall har vi jobbet för dig!
-
-Större delen av din arbetstid är förlagd till närbiblioteket i Älvängen. Där är du drivande i allt som rör barnverksamheten så som aktiviteter, arrangemang och medieplanering. Du kommer att ta emot grupper av barn på biblioteksbesök och du samverkar med skolan, BVC och andra verksamheter. I allt praktiskt arbete på Älvängens bibliotek samarbetar du med en kollega som har ansvar för vuxenverksamheten.
-
-En del av din arbetstid kommer att förläggas på huvudbiblioteket i Nödinge där du har informationspass och ingår i den övergripande barn- och ungagruppen tillsammans med fyra andra kollegor. Ni planerar och genomför programverksamhet tillsammans på kommunens samtliga bibliotek.
-
-Du kommer som en del i ditt uppdrag att ingå i gruppen som sköter sociala medier och du ansvarar för att skapa marknadsföringsmaterial till barn- och ungdomsarrangemang.
-
-Kvalifikationer
-Examen i biblioteks- och informationsvetenskap.
-
-Du har erfarenhet av att arbeta på folkbibliotek och ett starkt intresse av att arbeta med läsfrämjande verksamhet för barn. Det är meriterande om du har arbetat som barnbibliotekarie och gärna på närbibliotek.
-
-Du är lika bekväm med att arbeta självständigt som i grupp och du har vana av och tycker om att prata inför grupper av barn och unga. Du är nyfiken på att ta reda på vad målgruppen har för behov av biblioteksverksamhet och är öppen för att inkludera målgruppen i planeringen.
-
-Som person är du glad, nyfiken och driven och har en förmåga att se utveckling som en möjlighet. Du behöver ha lätt att knyta kontakter med barn och deras vuxna och vara bra på att skapa förtroendefulla relationer.
-
-Övrigt
-Arbetstid enligt schema. Kvälls- och helgtjänstgöring ingår.
-
-Vi kommer lägga stor vikt vid personlig lämplighet och vid erbjudande om anställning behöver du lämna ett utdrag ur polisens belastningsregister.
-
-https://polisen.se/tjanster-tillstand/belastningsregistret/
-
-Vänta inte med din ansökan, intervjuer sker löpande!
-
-Har du skyddade personuppgifter ska du INTE söka via systemet utan kontakta rekryteringsansvarig för hantering av din ansökan.
-
-
-För att underlätta rekryteringsarbetet ber vi dig att bifoga relevanta intyg och betyg för tjänsten du söker samt vid eventuell intervju ha möjlighet att uppvisa giltig ID-handling. Vi har endast möjlighet att ta emot ansökningar via Varbi.
-
-
-Vi strävar efter en jämn könsfördelning och ser mångfald som en styrka och välkomnar därför sökande med olika bakgrund.
-
-
-Inför rekryteringsarbetet har vi tagit ställning till rekryteringskanaler och marknadsföring. Vi undanber oss därför bestämt kontakt med mediesäljare, rekryteringssajter och liknande.
-
-
-Vi använder e-rekrytering för att effektivisera och kvalitetssäkra rekryteringsarbetet. Alla dina uppgifter sparas på ditt CV-konto och du kan enkelt logga in och uppdatera dina uppgifter när du vill. Fyll därför i dina uppgifter så omsorgsfullt som möjligt för att ge en rättvisande bild av dig själv. 
-
-
-Dina personuppgifter behandlas i Varbi under rekryteringsprocessen och i den utsträckning detta är nödvändigt för att uppfylla lagstiftningen. Ansökan raderas 24 månader efter avslutande av rekrytering. Om du har ett Varbi-konto kan du använda redigeringen av din profil för att radera, ladda upp och redigera information. Kontakta annars Ale kommun.
-
-
-Vi vill upplysa om att din ansökan är en offentlig handling enligt offentlighetsprincipen.Vi söker dig som vill vara med och forma morgondagens Ale. Hos oss är du med och levererar service och tjänster av bästa kvalitet till Aleborna. Tillsammans skapar 2 500 medarbetare ett Ale, kommunen som fokuserar på invånarna och deras behov. Bli en av oss!
-
-
-
-
-Om arbetsplatsen
-Ale bibliotek består av huvudbiblioteket i Nödinge samt av närbiblioteken i Skepplanda, Surte och Älvängen.
-
-Tillsammans är vi 12 bibliotekarier som gör vårt bästa för att erbjuda relevant och intressant biblioteksverksamhet till alla Alebor och besökare. Ale bibliotek är en del av Bibliotek i väst (BIV) som består av sju kommuner i närområdet. Vi hoppas att du vill bli en av oss!
-
-Arbetsuppgifter
-Vill du arbeta med tillgänglighet ur ett biblioteksperspektiv med hela Ale som målgrupp? I så fall har vi jobbet för dig! Vi söker nu en bibliotekarie med fokus tillgänglighet, som arbetar uppsökande och kreativt med att leverera bibliotekstjänster till Alebor i alla åldrar. Möjliga samverkansparter kan vara den anpassade grundskolan, SFI och/eller föreningslivet. Du kommer att arbeta utifrån bibliotekets uppdrag att erbjuda biblioteksverksamhet till de prioriterade målgrupper som nämns i bibliotekslagen. Ytterligare en viktig aspekt av ditt uppdrag är att stötta alla bibliotek i Ale så att både verksamheten och lokalerna blir mer lättillgängliga.
-
-En del av din tjänst kommer att innebära samarbete med IT-bibliotekarien i dennes uppdrag där du exempelvis ingår i olika IT-nätverk och delar på systemansvaret i det dagliga arbetet.
-
-Du kommer att utgå från Ale bibliotek, Nödinge men du kommer samverka med samtliga närbibliotek och behöver kunna resa mellan dessa (kollektivt eller med bil).
-
-Kvalifikationer
-Examen i biblioteks- och informationsvetenskap.
-
-Du har vana av att arbeta målgruppsinriktat och du har en god förmåga att nå resultat. Du behöver kunna arbeta självständigt utifrån givna ramar, men även kunna samarbeta med kollegor både inom organisationen och med civilsamhället.
-
-Du kommer även att bemanna informationsdisken och tillsammans med övriga kollegor planera och genomföra aktiviteter och programverksamhet. Ett krav för att erbjudas tjänsten är därför att du har erfarenhet av arbete på folkbibliotek, gärna med tyngdpunkt på uppsökande arbete. Rollen kräver många kontakter och nära samarbeten vilket förutsätter att du är inkluderande, tillitsfull och är bra på att skapa förtroendefulla relationer.
-
-Du är nyfiken, driven, modig och vågar tänka nytt. Du har ett gott bemötande och är intresserad av människor.
-
-Du behöver ha vana av att arbeta i bibliotekssystem och vara öppen för att arbeta med andra IT-relaterade arbetsuppgifter.
-
-Övrigt
-Arbetstid enligt schema. I tjänsten ingår kvälls- och helgtjänstgöring.
-
-Vi kommer lägga stor vikt vid personlig lämplighet och vid erbjudande om anställning behöver du lämna ett utdrag ur polisens belastningsregister.
-
-https://polisen.se/tjanster-tillstand/belastningsregistret/
-
-Vänta inte med din ansökan, intervjuer sker löpande!
-
- 
-
-Har du skyddade personuppgifter ska du INTE söka via systemet utan kontakta rekryteringsansvarig för hantering av din ansökan.
-
-
-För att underlätta rekryteringsarbetet ber vi dig att bifoga relevanta intyg och betyg för tjänsten du söker samt vid eventuell intervju ha möjlighet att uppvisa giltig ID-handling. Vi har endast möjlighet att ta emot ansökningar via Varbi.
-
-
-Vi strävar efter en jämn könsfördelning och ser mångfald som en styrka och välkomnar därför sökande med olika bakgrund.
-
-
-Inför rekryteringsarbetet har vi tagit ställning till rekryteringskanaler och marknadsföring. Vi undanber oss därför bestämt kontakt med mediesäljare, rekryteringssajter och liknande.
-
-
-Vi använder e-rekrytering för att effektivisera och kvalitetssäkra rekryteringsarbetet. Alla dina uppgifter sparas på ditt CV-konto och du kan enkelt logga in och uppdatera dina uppgifter när du vill. Fyll därför i dina uppgifter så omsorgsfullt som möjligt för att ge en rättvisande bild av dig själv. 
-
-
-Dina personuppgifter behandlas i Varbi under rekryteringsprocessen och i den utsträckning detta är nödvändigt för att uppfylla lagstiftningen. Ansökan raderas 24 månader efter avslutande av rekrytering. Om du har ett Varbi-konto kan du använda redigeringen av din profil för att radera, ladda upp och redigera information. Kontakta annars Ale kommun.
-
-
-Vi vill upplysa om att din ansökan är en offentlig handling enligt offentlighetsprincipen."
+Vi vill upplysa om att din ansökan är en offentlig handling enligt offentlighetsprincipen.Estrella söker UH-tekniker till sin site i Göteborg. Har du ett teknikintresse samt erfarenhet av mekanik, maskin-el och automation, då är du rätt person för oss!
+
+Dina ansvarsuppgifter
+Som UH-tekniker hos Estrella arbetar du med förebyggande samt felavhjälpande underhåll av deras maskinpark och tillhörande produktionsutrustningen. Du kommer både att jobba med förebyggande underhållsarbete, ronderingar, ge support till linjeteamet samt akuta jobb. 
+Du kommer dagligen arbeta nära operatörerna där du med din tekniska kompetens och erfarenhet bidrar till en så säker och problemfri produktion som möjligt. 
+
+En förutsättning för att lyckas i den här tjänsten är en bred teknisk kompetens, du behöver god mekanisk kompetens, kompetens inom maskin-el samt erfarenhet av automation och felsökning. Som person behöver du vara både prestigelös och lösningsorienterad och ha lätt för att kommunicera och arbeta i grupp.
+
+Dina kvalifikationer
+- Bakgrund inom mekanik, el/elteknik, och automation.
+- God erfarenhet inom industriteknisk felsökning av maskiner och produktionsutrustning
+- God erfarenhet inom systematisk felsökning
+- God erfarenhet att läst el-schema
+- Erfarenhet av maskinelektriska och mekaniska reparationsarbeten
+- Ett tekniskt genuint intresse
+- Datakunskap inom Officepaketet
+- Svenska och engelska i tal och skrift
+
+Meriterande 
+- Utbildning eller erfarenhet inom livsmedelsproduktion
+- Kan svetsa och svarva 
+
+Omfattning:
+Detta är en direktrekrytering till kund, tjänsten är på heltid nattskift.
+
+Intervjuer hålls löpande och tjänsten kan komma att tillsättas innan sista ansökningsdag, skicka därför gärna in din ansökan redan nu. På grund av GDPR kan vi tyvärr inte ta emot ansökningar via e-post.
+
+Vid frågor om tjänsten är du välkommen att kontakta Mattias Molin 073–523 08 90
+
+Varmt välkommen med din ansökan!vill du jobba som solcellselektriker?
+Vi på Västkustsol AB söker just nu en elektriker till vårt härliga team!
+I rollen kommer du att arbeta med installation, felsökning och underhåll av solcells anläggningar. Arbetet innefattar både nyinstallationer och uppgraderingar av befintliga system.
+Tjänsten är baserad i Göteborg och arbetstiderna är från 07:00-16:00. '
+Förmånsbil ingår då du kommer att resa mellan olika regioner i tjänsten
+Vi är stolta över vårt driv och vår familjära företagskultur och lägger stor vikt vid dina personliga egenskaper. Därför söker vi en ansvarstagande och samarbetsvillig person som trivs med att arbeta både självständigt och i team.
+
+
+Vi söker dig som:
+Är utbildad elektriker
+Har erfarenhet av solcellsinstallationer
+Är noggrann, serviceinriktad och självgående
+Har B-körkort
+Behärskar svenska i både tal och skrift
+Låter det intressant? Hör av dig till oss så snackar vi vidare!På Nouryon skapar vårt globala team av Changemakers positiva förändringar varje dag för att nå högre tillsammans och individuellt. Vi skapar innovativa och hållbara lösningar för våra kunder för att möta samhällets behov – idag och i framtiden. 
+Vi söker teammedlemmar som skapar och driver nya idéer, kämpar för andra och samarbetar för att göra saker bättre. Låter det som dig? Nouryon söker nu en dagtidsoperatör till vår Hydrogen Peroxide Production-anläggning i Bohus.
+
+Om jobbet
+Som dagtidsoperatör kommer du att arbeta nära skiftoperatörer och vår Dayshift Supervisor för att säkerställa en effektiv och säker daglig produktion. Du kommer också att utföra lättare underhållsarbete och sanering av processutrustning samt hjälpa till att köra fram kemikalier till fabriken. Vid behov stöttar du även vår katalysatorfabrik. Säkerhet är en central del av vårt arbete och genomsyrar allt vi gör. Hos oss blir du en betydelsefull del av teamet och bidrar till vår gemensamma framgång!
+I din framtida roll som Dagtidsoperatör kommer du att
+  *  Ansvara för att veckoplanen blir utförd.
+  *  Arbeta med 5S
+  *  Köra fram kemikalier 
+  *  Vara delaktig i processkörning vid behov i vår katalystorfabrik 
+  *  Var den som leder jobbet vid Aloxbyte med inhyrd personal 
+Inventeringar av kemikalier
+
+Vi tror att du har med dig
+  *  Gymnasieutbildning från 3-åriga tekniska eller naturvetenskapliga programmen eller motsvarande erfarenhet
+  *  Goda kunskaper i svenska och grundläggande engelska
+  *  Goda datorkunskaper
+  *  B-körkort
+  *  Truckkort
+  *  Förmåga att arbeta i en miljö med höga säkerhetskrav
+Förmåga att arbeta självständigt efter veckoplanen
+
+Bra om du har
+  *  Mekanisk och teknisk fallenhet
+  *  Erfarenhet inom processindustri eller liknande industri
+  *  Erfarenhet av att arbeta i datasystemet SAP
+Arbetslivserfarenhet från kemiindustrin
+
+Vi tror att du är...
+en stabil och trygg person med en stark drivkraft att förbättra arbetsprocesser och bidra till ett positivt och öppet arbetsklimat. Du är lösningsorienterad och delar gärna med dig av din kunskap. Rollen kräver hög ansvarskänsla, god samarbetsförmåga, kvalitetsmedvetenhet och en förmåga att skapa förtroende bland kollegor och uppdragsgivare.
+Vi erbjuder dig 
+På Nouryon erbjuder vi inte bara en spännande roll och trevliga kollegor utan även förmåner utöver din lön. Nouryon har kollektivavtal med IF Metall, men utöver det erbjuder vi även förmåner som bonus, arbetstidsförkortning, friskvårdsbidrag, kostförmån och mycket mer.
+Har vi fångat ditt intresse? 
+Detta är en tillsvidareanställning på heltid med placeringsort Bohus. Du kommer att rapportera till Fredrik Lööv, Dayshift Supervisor.
+Vänligen ansök via vårt rekryteringsverktyg med ett jobbspecifikt CV. Vi tar inte emot ansökningar via e-post. När din ansökan nått oss kommer vi att granska för att se om vi har en matchning mellan din kompetens och rollen! För mer information om vår rekryteringsprocess, vänligen besök: nouryon.com/careers/how-we-hire/
+Vi ser fram emot din ansökan!
+Vi vill be dig som intern sökande att ansöka med din Nouryon email för att underlätta vårt arbete i rekryteringsprocessen.
+Om Nouryon
+Vi letar efter morgondagens Changemakers, idag!
+Om du letar efter din nästa möjlighet i karriären, ansök idag och gå med i Nouryons världsomspännande team av Changemakers för att tillhandahålla viktiga lösningar som våra kunder använder för att tillverka vardagsprodukter som personlig vård, rengöring, färger och beläggningar, jordbruk och livsmedel, läkemedel och byggprodukter. Våra medarbetare drivs av viljan att påverka och aktivt driva positiv förändring. Om det beskriver dig ger vi gärna plats för dina ambitioner. Från dag ett stödjer vi dig med din personliga tillväxt, genom utmanande positioner och omfattande lärande- och utvecklingsmöjligheter, i en dynamisk, internationell, mångsidig och proaktiv arbetsmiljö.
+Besök vår hemsida och följ oss på LinkedIn.
+Kontakt
+För ytterligare information om tjänsten, vänligen kontakta  
+Rekryterande chef Fredrik Lööv, Dayshift Supervisor, fredrik.loeoev@nouryon.com
+För mer information om rekryteringsprocessen, din ansökan eller om du behöver support, vänligen kontakta: Recruiting.SE@Nouryon.com
+
+För fackliga frågor:
+Akademikerna: Emma Schwartz +46709577595
+Unionen: Heléne Rosenlund +46708211839 
+IF Metall: Jonas Friggerdal +46701008001
+Ledarna: Sanna Backman +46709577103
+#WeAreNouryon #ChangemakersPå Nouryon letar vi efter ständigt efter nya Changemakers, personer som drivs av att göra skillnad. Är du en av dem? Vi söker just nu en Shift Operator för arbete i vår Kromasilfabrik där vi framställer material som används inom läkemedelsproduktion.
+Är du tekniskt kunnig och intresserad av processindustrin? Är du dessutom noggrann samt säkerhetsmedveten? Då ska du söka denna tjänst!
+
+I din framtida roll som Shift Operator kommer du att
+På vår site i Bohus har vi totalt fyra fabriker där en gemensam skiftledare ansvarar för personalen i samtliga fabriker, totalt 12-13 personer per skift, där man i tillägg till sin specifika placering i en fabrik också kommer att ta ansvar för gemensamma system och arbetsuppgifter på anläggningen under ledning av skiftledaren. Du kommer också att aktivt arbeta med kontinuerliga förbättringar samt problemlösning inom ditt eget arbetsområde.
+  *  Start och stoppa batcher i DeltaV och följa de recept som definierar processen
+  *  Sköta centrifuger för tvättning av material i produktionen och i DeltaV
+  *  Väga upp och sköta råvaror/ kemikaliesatsning till processen
+  *  Hantera en produktionsrobot för produktförflyttning 
+  *  Dokumentera resultat från varje Batch i MES system enligt GMP (Good Manufacturing Practice)
+  *  Utföra ronderingar samt dokumentera händelser och överföra information om driftförhållanden skriftligt i loggbok och muntligt vid skiftavlösning samt felanmälan brister.
+  *  Utföra erforderliga driftanalyser 
+  *  Var en del av sitens insatsstyrka vid händelse av brand, personskador eller annat nödläge. 
+
+Arbetstiden är heltid och arbetsformen kommer att vara kontinuerlig skiftgång (6-skift) med tolvtimmarsskift. Ett skiftlag består av 3 processoperatörer, vilka regelbundet växlar arbetsuppgifter under skiftet/perioden.
+Vi tror att du har med dig
+  *  Teknisk utbildning inom process/drift teknik
+  *  Goda kunskaper i svenska och engelska i tal och skrift
+
+Bra om du har
+  *  Goda datorkunskaper - Erfarenhet av DeltaV och IFix
+  *  Kunskap om Läkemedelsproduktion och GMP tillverkning
+  *  Erfarenhet av arbete med LEAN
+  *  Erfarenhet av SAP
+  *  Vidareutbildning inom process/driftverksamhet som t.ex. eftergymnasiala studier inom drift/processteknik eller högre studier med inriktning kemi/process alternativt arbetserfarenhet tidigare arbete som processoperatör
+
+Vi tror att du är
+En stabil och trygg person som aktivt strävar efter att förbättra arbetsprocesser och stärka skiftlagets kompetens samt bidra till ett öppet och positivt arbetsklimat. Du gillar att finna lösningar på problem och dela med dig av din kunskap till andra. Du är ansvarstagande och van vid gott samarbete. Du är också kvalitetsmedveten och innehar en förmåga att skapa förtroende bland dina kollegor och uppdragsgivare.
+Vi erbjuder
+På Nouryon erbjuder vi inte bara en spännande roll och trevliga kollegor utan även förmåner utöver din lön. Nouryon har kollektivavtal med IF Metall, men utöver det erbjuder vi även förmåner som bonus, arbetstidsförkortning, friskvårdsbidrag, kostförmån och mycket mer.
+Tycker du hållbarhet, innovation, säkerhet och samarbete är viktigt? Vill du växa tillsammans med ett företag som blickar framåt och ständigt förbättrar sitt arbetssätt? Våra medarbetare har idéer för en hållbar framtid, och drivkraft att förverkliga dem. De tror att integritet och långsiktiga relationer är nycklar till framgång. Om det stämmer in på dig, gör vi gärna plats för dina ambitioner och kan erbjuda många karriärmöjligheter. Från första dagen stöttar vi din personliga utveckling genom utmanande roller och omfattande möjligheter att lära och växa i en dynamisk, internationell och proaktiv arbetsmiljö med stor mångfald.
+Bra att veta
+Detta är en tillsvidareanställning på heltid med placeringsort I Bohus. Du kommer att rapportera till Shift Supervisor.
+Vänligen ansök via vårt rekryteringsverktyg med ett jobbspecifikt CV. Vi bryr oss om dina personuppgifter (GDPR) därför tar vi inte emot ansökningar via e-post, dessa ansökningar kommer inte hanteras.
+Vi ser fram emot din ansökan! När den väl nått oss kommer vi att granska för att se om vi har en matchning mellan din kompetens och rollen.
+Vi vill be dig som intern sökande att ansöka med din Nouryon email för att underlätta vårt arbete i rekryteringsprocessen.
+För ytterligare information om tjänsten, vänligen kontakta rekryterande chef Patrik Dennheden, Skiftledare, patrik.dennheden@nouryon.com
+För mer information om rekryteringsprocessen, din ansökan eller om du behöver support, vänligen kontakta Recruiting.SE@Nouryon.com
+För fackliga frågor:
+IF Metall: Jonas Friggerdahl, +46 701008001
+Akademikerklubben: Emma Schwartz, +46709577595
+Ledarna: Sanna Backman, +46709577103
+Unionen: Helene Rosenlund, +46 708 21 18 39Estrella söker UH-tekniker till sin site i Göteborg. Har du ett teknikintresse samt erfarenhet av mekanik, maskin-el och automation, då är du rätt person för oss!
+
+Dina ansvarsuppgifter
+Som UH-tekniker hos Estrella arbetar du med förebyggande samt felavhjälpande underhåll av deras maskinpark och tillhörande produktionsutrustningen. Du kommer både att jobba med förebyggande underhållsarbete, ronderingar, ge support till linjeteamet samt akuta jobb. 
+Du kommer dagligen arbeta nära operatörerna där du med din tekniska kompetens och erfarenhet bidrar till en så säker och problemfri produktion som möjligt. 
+
+En förutsättning för att lyckas i den här tjänsten är en bred teknisk kompetens, du behöver god mekanisk kompetens, kompetens inom maskin-el samt erfarenhet av automation och felsökning. Som person behöver du vara både prestigelös och lösningsorienterad och ha lätt för att kommunicera och arbeta i grupp.
+
+Dina kvalifikationer
+- Bakgrund inom mekanik, el/elteknik, och automation.
+- God erfarenhet inom industriteknisk felsökning av maskiner och produktionsutrustning
+- God erfarenhet inom systematisk felsökning
+- God erfarenhet att läst el-schema
+- Erfarenhet av maskinelektriska och mekaniska reparationsarbeten
+- Ett tekniskt genuint intresse
+- Datakunskap inom Officepaketet
+- Svenska och engelska i tal och skrift
+
+Meriterande 
+- Utbildning eller erfarenhet inom livsmedelsproduktion
+- Kan svetsa och svarva 
+
+Omfattning:
+Detta är en direktrekrytering till kund, tjänsten är på heltid, tvåskift.
+
+Intervjuer hålls löpande och tjänsten kan komma att tillsättas innan sista ansökningsdag, skicka därför gärna in din ansökan redan nu. På grund av GDPR kan vi tyvärr inte ta emot ansökningar via e-post.
+
+Vid frågor om tjänsten är du välkommen att kontakta Mattias Molin 073–523 08 90
+
+Varmt välkommen med din ansökan!"

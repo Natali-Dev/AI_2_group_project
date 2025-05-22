@@ -58,6 +58,26 @@ def map_chart(df: pd.DataFrame, title: str = "Antal lediga jobb per stad"):
     return fig
 
 
+# Detailed_overview: Metod för att få ut barplot, används i kolumn 1, workplace city, employer name, occupation
+def chart_top_occupations(current_df, sort_on):
+
+    df = current_df.groupby(sort_on)["vacancies"].sum().sort_values(ascending=False).reset_index()
+    bar = st.slider("Antal staplar att visa", min_value=10, max_value=20, step=1)
+
+    fig = px.bar(df.head(bar), x=sort_on, y="vacancies")
+    fig.update_layout(title_text=f"Top {bar} {sort_on}s with most vacancies in field: field")
+    return fig, df
+
+#Detaied_overview: Metod för att få ut pie-chart, används i kolumn 2, languages, duration, working hours type
+def general_pie_chart(current_df, sort_on,get_unique,detailed_sort):
+
+    df = current_df[current_df[detailed_sort] != 'ej angiven']
+    df = df[df[sort_on] == get_unique]
+    fig =  px.pie(df.groupby(detailed_sort)["vacancies"].sum().reset_index(), names=detailed_sort, values="vacancies", hole=0.2)
+    length = df["vacancies"].sum()
+    return fig, length
+
+
 
 
 
