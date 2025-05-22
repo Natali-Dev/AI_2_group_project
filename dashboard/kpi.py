@@ -5,12 +5,6 @@ import duckdb
 import streamlit as st
 
 
-working_directory = Path(__file__).parents[2]
-os.chdir(working_directory)
-with duckdb.connect("ads_data.duckdb") as connection:
-    df_mart = connection.execute("SELECT * FROM mart.mart_kropp_skonhet").df()
-
-
 # Count total number of vacancies
 def total_vacancies(df: pd.DataFrame):
         return df["vacancies"].sum()

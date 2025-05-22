@@ -1,6 +1,5 @@
 import streamlit as st
 from pages_ import home, detailed_overview, gemini
-from kropps_skonhetvard_dashboard import dashboard
 import os 
 import duckdb
 from pathlib import Path
