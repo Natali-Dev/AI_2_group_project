@@ -60,6 +60,11 @@ def run_pipeline(query, table_name, occupation_fields):
         print(f"Occupation field: {occupation_field}")
         print(load_info)
 
+# to work with dagster, we need to create a dlt source to include the dlt resource
+    @dlt.source
+    def jobads_source():
+        return jobsearch_resource(params)
+
 
 if __name__ == "__main__":
     working_directory = Path(__file__).parent
