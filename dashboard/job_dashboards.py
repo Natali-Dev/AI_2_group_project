@@ -14,7 +14,7 @@ def layout():
         "mart_kropp_skonhet": "mart_kropp_skonhet"
     }
     group = st.sidebar.radio("Välj yrkesgrupp", list(groups.keys()))
-    working_directory = Path(__file__).parents[2]
+    working_directory = Path(__file__).parents[1]
     os.chdir(working_directory)
     with duckdb.connect("ads_data.duckdb") as connection:
         df = connection.execute(f"SELECT * FROM mart.{group}").df()
