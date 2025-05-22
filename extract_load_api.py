@@ -44,6 +44,21 @@ def jobsearch_resource(params):
 
         offset += limit
 
+@dlt.source
+def jobads_source():
+    """
+    Returnerar en kombinerad källa med flera occupation-fields.
+    """
+    occupation_fields = ["yhCP_AqT_tns", "Uuf1_GMh_Uvw", "9puE_nYg_crq"]
+    
+    for field in occupation_fields:
+        params = {
+            "q": "",
+            "limit": 100,
+            "occupation-field": field
+        }
+        yield jobsearch_resource(params).with_name(f"job_ads_{field}")
+
 
 def run_pipeline(query, table_name, occupation_fields):
     pipeline = dlt.pipeline(
@@ -60,10 +75,7 @@ def run_pipeline(query, table_name, occupation_fields):
         print(f"Occupation field: {occupation_field}")
         print(load_info)
 
-# to work with dagster, we need to create a dlt source to include the dlt resource
-    @dlt.source
-    def jobads_source():
-        return jobsearch_resource(params)
+ 
 
 
 if __name__ == "__main__":
