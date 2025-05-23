@@ -1,32 +1,35 @@
 models:
   - name: fct_job_ads
-    description: "Fact table, containing ids that refers to dim-models, and other measurable data"
+    description: "Fact table for job ads analysis"
     columns:
       - name: occupation_id
-        description: "Foreign Key for dim_occupation"
         tests:
           - not_null
+          - relationships:
+              to: ref('dim_occupation')
+              field: occupation_id
+
       - name: employer_id
-        description: "Foreign Key for dim_employer"
         tests:
           - not_null
+          - relationships:
+              to: ref('dim_employer')
+              field: employer_id
+
       - name: auxilliary_attributes_id
-        description: "Foreign Key for dim_auxillary_attributes"
         tests:
           - not_null
-      - name: job_details_id
-        description: "Foreign Key for dim_job_details"
-        tests:
-          - not_null
+          - relationships:
+              to: ref('dim_auxilliary_attributes')
+              field: auxilliary_attributes_id
+
       - name: vacancies
-        description: "Contains values for vacancies amount"
         tests:
           - not_null
-      - name: relevance
-        description: "Contains value for relevance"
+          - dbt_utils.expression_is_true:
+              expression: '"vacancies" >= 1 AND "vacancies" <= 100'
+
+      - name: occupation_field
         tests:
-          - not_null
-      - name: application_deadline
-        description: "Contains information about last application date"
-        tests:
-          - not_null
+          - accepted_values:
+              values: ["Installation, drift, underhåll", "Kropps- och skönhetsvård", "Kultur, media, design"]

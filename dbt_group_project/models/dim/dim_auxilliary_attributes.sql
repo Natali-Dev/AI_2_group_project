@@ -8,4 +8,4 @@ select
     max(driving_license_required) as driving_license,
     max(access_to_own_car) as access_to_own_car
 from job_ads
-group by auxilliary_attributes_id
+group by 1
