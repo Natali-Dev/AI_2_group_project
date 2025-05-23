@@ -6,40 +6,37 @@ from pathlib import Path
 from kpi import (
     total_vacancies,
     top_occupations,
-    vacancies_per_city,
-    top_employers,
-    occupations_group_counts,
-    get_attributes_per_field,
+    # vacancies_per_city,
+    # top_employers,
+    # occupations_group_counts,
+    # get_attributes_per_field,
 )
 from chart import (
-    bar_chart, pie_chart, display_data_table, map_chart
+    bar_chart #, pie_chart, display_data_table, map_chart
 )
 
-def home_layout(df_kropp_skonhetsvard):
-    st.title("Kropp och Skönhet Dashboard")
-    # st.markdown("# Job Ads Dashboard - Kultur, Media, Design")
+def home_layout(current_df, field):
+
+    st.title(f"{field}")
     
     st.write(
-        "En Dashboard för att hjälpa rekryterare som jobbar inom Kultur, Media och Design att få en bra översikt över arbetsmarknaden just nu."
+        f"En Dashboard för att hjälpa rekryterare som jobbar inom {field.lower()} att få en bra översikt över arbetsmarknaden just nu."
     )
     
     st.header("Övergripande statistik")
-    col1, col2, col3 = st.columns(3)
+    col1, col2, col3, col4 = st.columns(4)
     st.write("------------------")
-    # labels = ["Totalt antal lediga jobb", "Totalt antal städer", "Totalt antal arbetsgivare"] 
-    # cols = st.columns(3)
-    # kpis = round(total_vacancies), total_citys, total_employers
-    # show_metric(labels, cols, kpis)
-    col1.metric("Totalt antal lediga jobb", total_vacancies(df_kropp_skonhetsvard))
-    col2.metric("Antal städer", df_kropp_skonhetsvard["workplace_city"].nunique())
-    col3.metric("Antal arbetsgivare", df_kropp_skonhetsvard["employer_name"].nunique())
+
+    col1.metric("Totalt antal lediga jobb", total_vacancies(current_df))
+    col2.metric("Antal städer", current_df["workplace_city"].nunique())
+    col3.metric("Antal arbetsgivare", current_df["employer_name"].nunique())
+    col4.metric("Totalt antal annonser", len(current_df))
 
     # Most requested occupations
-    # st.header("Mest efterfrågade yrken")
-    top_occ = top_occupations(df_kropp_skonhetsvard)
+    st.header("Mest efterfrågade yrken")
+    top_occ = top_occupations(current_df)
     top_occ = top_occ.rename(columns={"occupation": "Yrke", "count": "Antal"})
     st.plotly_chart(bar_chart(top_occ, "Yrke", "Antal", "Mest efterfrågade yrken"))
-    field = 'Kultur, Media, Design'
 
     # Total layout for sweden:
 
@@ -55,6 +52,6 @@ def home_layout(df_kropp_skonhetsvard):
 
     # st.markdown("### Topplista på yrken: ")
     
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    home_layout()
+#     home_layout()
