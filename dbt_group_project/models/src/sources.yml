@@ -4,5 +4,11 @@ sources:
     tables:
       - name: stg_ads
         identifier: job_ads
+        columns: 
+          - name: id
+            description: "Testing id for duplicates and null values"
+            tests:
+              - unique
+              - not_null
       - name: stg_must_have_languages
         identifier: job_ads__must_have__languages

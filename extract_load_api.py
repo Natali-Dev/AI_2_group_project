@@ -58,6 +58,7 @@ def jobads_source():
             "occupation-field": field
         }
         yield jobsearch_resource(params).with_name(f"job_ads_{field}")
+        
 
 
 def run_pipeline(query, table_name, occupation_fields):
