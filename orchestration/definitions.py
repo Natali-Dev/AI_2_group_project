@@ -16,8 +16,11 @@ from pathlib import Path
 #import a standalone dlt python script outside the orchestration working directory
 
 import sys 
-sys.path.insert(0, '../extract_load_api.py')
-from extract_load_api import jobsearch_resource #<----- osäker här
+sys.path.insert(0, str(Path(__file__).parents[1]))
+from extract_load_api import jobads_source
+
+dlt_source = jobads_source()
+
 
 # data warehouse directory
 
@@ -32,7 +35,7 @@ db_path = str(Path(__file__).parents[1] / "ads_data.duckdb")
 dlt_resource = DagsterDltResource()
 
 @dlt_assets(
-    dlt_source = jobsearch_resource(),
+    dlt_source=dlt_source, #<-------dlt source is the dlt source function defined above
     dlt_pipeline = dlt.pipeline(
         pipeline_name="jobads_hits",
         dataset_name="staging", #<-------titta på detta 
