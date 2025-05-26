@@ -8,3 +8,16 @@ sources:
         identifier: job_ads__must_have__languages
 
 
+version: 2
+
+sources:
+  - name: job_ads
+    description: "Rådata om jobbanonnser från arbetsförmedlingen"
+    schema: staging
+    tables:
+      - name: stg_ads
+        identifier: job_ads
+        description: "Innehåler en rad per unik jobbannons från källsystemet"
+      - name: stg_must_have_languages
+        identifier: job_ads__must_have__languages
+        description: "Kopplingstabell som specifierar vilka språk som är 'must have' krav flr varje"

@@ -12,6 +12,7 @@ with stg_job_ads as (
         relevance,
         application_deadline,
         occupation_field__label as occupation_field,
+        occupation__label,
         employer__workplace as employer_workplace,
         workplace_address__municipality as workplace_city,
         experience_required,

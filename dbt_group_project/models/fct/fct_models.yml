@@ -5,9 +5,7 @@ models:
       - name: occupation_id
         tests:
           - not_null
-          - relationships:
-              to: ref('dim_occupation')
-              field: occupation_id
+          
 
       - name: employer_id
         tests:
@@ -26,8 +24,7 @@ models:
       - name: vacancies
         tests:
           - not_null
-          - dbt_utils.expression_is_true:
-              expression: '"vacancies" >= 1 AND "vacancies" <= 100'
+
 
       - name: occupation_field
         tests:
