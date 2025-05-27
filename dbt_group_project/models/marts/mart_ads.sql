@@ -1,6 +1,6 @@
 with mart_ads AS ( 
     select  jb.headline, o.occupation, o.occupation_group, o.occupation_field, jb.description, 
-    jb.duration, jb.working_hours_type, jb.scope_of_work_min, jb.scope_of_work_max, f.number_of_vacancies, e.employer_name, 
+    jb.duration, jb.working_hours_type, jb.scope_of_work_min, jb.scope_of_work_max, f.vacancies, e.employer_name, 
     e.workplace_region, e.workplace_city, aa.experience_required, aa.driving_license, aa.access_to_own_car, jb.must_have_languages
     from {{ ref('fct_job_ads') }} f
     left join {{ ref('dim_occupation') }} o on f.occupation_id = o.occupation_id

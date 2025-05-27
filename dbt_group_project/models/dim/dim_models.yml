@@ -102,7 +102,8 @@ models:
         description: "occupation field, test for null values"
         tests:
           - not_null
-
+          - accepted_values:
+              values: ["Installation, drift, underhåll", "Kropps- och skönhetsvård", "Kultur, media, design"]
   - name: dim_auxilliary_attributes
     description: "Contains true/false values if license, experience or own car is needed for job ad"
     columns:
