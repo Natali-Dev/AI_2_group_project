@@ -19,16 +19,37 @@ def layout():
     with duckdb.connect("ads_data.duckdb") as connection:
         df = connection.execute(f"SELECT * FROM mart.{group}").df()
 
-    page = {
-        "Home": home.home_layout, 
+    
+    all_pages = {
+        "Home": home.home_layout,
         "Detailed overview": detailed_overview.overview_layout,
         "Ask Gemini": gemini.gemini_layout,
         "Ask Gemini with chunks and plots": gemini_chunks.gemini_chunks_layout,
         "Find the best ad - with embedding": embedding.embedding_layout
     }
-    choice_view = st.sidebar.radio("Välj vy", list(page.keys()))
-    
-    page[choice_view](df, field) 
+
+    # Steg 2: Bestäm vilka sidor som ska visas baserat på 'field'
+    if field == "Alla jobb":
+        # Om "Alla jobb" är valt, filtrera bort Gemini- och Embedding-sidorna
+        display_pages = {
+            key: value for key, value in all_pages.items()
+            if "Gemini" not in key and "Find the best ad" not in key
+        }
+    else:
+        # Annars, visa alla sidor
+        display_pages = all_pages
+
+
+    choice_view = st.sidebar.radio("Välj vy", list(display_pages.keys()))
+
+   
+    if choice_view in display_pages:
+        display_pages[choice_view](df, field)
+    else:
+        
+        home.home_layout(df, field)
+        st.sidebar.warning(f"Vyn '{choice_view}' är inte tillgänglig för 'Alla jobb'. Visar 'Home' istället.")
+
     
 
 if __name__ == "__main__":
