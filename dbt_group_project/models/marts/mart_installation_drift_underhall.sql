@@ -1,23 +1,14 @@
-{# with job_ads as (
-    select * from {{ ref('fct_job_ads') }}
-),
-occupation as (
-    select * from {{ ref('dim_occupation') }}
-)
+{{
+    config(
+        materialized='view',
+        schema='mart'
+    )
+}}
 
 select 
-    job_ads.*,
-    occupation.occupation_field
-from job_ads
-join occupation
-    on job_ads.occupation_id = occupation.occupation_id
-where occupation.occupation_field = 'Installation, drift, underhåll'
-#}
-
-with installation AS 
-(
-    select * from {{ ref('mart_ads') }}
-    where occupation_field = 'Installation, drift, underhåll'
-)
-
-select * from installation
+    workplace_city,
+    COUNT(*) as antal_platser,
+    AVG(vacancies) as genomsnittlig_platser_per_annons
+from {{ ref('mart_ads') }}
+where occupation_field = 'Installation, drift, underhåll'
+group by workplace_city
