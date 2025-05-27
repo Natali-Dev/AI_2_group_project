@@ -34,3 +34,15 @@ dbt_group_project:
 
   target: dev
 ```
+
+# DBT TESTS
+
+- Testing **not null** in all columns thru dim/dim_models.yml and fct/fct_models.yml
+- Testing **unique** in all ID in dim/dim_models.yml and fct/fct_models.yml
+
+## Scripted tests in /macros/tests
+- dim_row_count_match
+Ensuring that joins are correct with surrogate keys.
+
+## Scripted tests in folder /tests
+- validate_vacancies 
