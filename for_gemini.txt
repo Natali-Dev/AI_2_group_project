@@ -1,1230 +1,677 @@
 ,workplace_city,vacancies,description
-0,Stockholm,83,"Vill du vara med på Nordens största Hair & Beauty-äventyr?
+0,ej angiven,153,"Sveriges ledande artistförmedling söker nu Djś, musiker, rockband, skådespelare, artister och talanger.
+Läs mer om oss på www.swedeagency.se
+kontakt@swedeagency.se
+Öppen för alla
+Vi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.Role: Information Security Specialist
+Seniority Level: Senior
+Location: Gothenburg, Sweden
+Remote Work: 0% (On-site only)
+Workload: 100%
+Application Deadline: May 22, 2025
+Key Responsibilities:-
+Information Classification & Data Governance
+Lead the implementation and ongoing improvement of WirelessCar’s Information Classification Program.
+Develop classification guidelines aligned with regulatory and business requirements.
+Collaborate with stakeholders to ensure adoption and compliance with classification standards.
+Cybersecurity Governance & Compliance
+Support compliance initiatives aligned with standards like ISO 27001, NIST, and others.
+Participate in risk assessments, control implementation, and remediation processes.
+Align business operations with internal security policies and industry best practices.
+Business-Aligned Security Support
+Bridge communication between technical and non-technical teams.
+Support RFI/RFP (Rfx) processes by collaborating with Procurement and Legal.
+Conduct third-party risk assessments and vendor compliance evaluations.
+Cross-Functional Collaboration
+Work with IT, Engineering, Legal, Procurement, and Operations to ensure security practices are consistent and effective.
+Translate technical security requirements into business-relevant policies.
+Promote security awareness and training, especially around data handling and compliance.
+Required :-
+University degree and 8+ years of experience in information security or cybersecurity compliance.
+Proven ability to lead business-driven security initiatives.
+Experience in GRC functions and knowledge of compliance frameworks.
+Strong generalist understanding of cybersecurity principles.
+Familiarity with Rfx processes and vendor risk management.
+Excellent communication skills, both technical and non-technical.
+Relevant certifications (e.g., CISSP, CISA, CISM) are a plus.Join Relax as our Game Design Director!  
+Relax Gaming is on a mission: to create the most innovative and captivating games the industry has ever seen, both today and for the future. As our Director of Games, you’ll take the helm, steering our slot game strategy, driving game creation, and leading a talented team of creative innovators. Your leadership will be pivotal in ensuring Relax continues to deliver premium, industry-defining content. 
+If you’re still reading, we’ve got your attention—let’s see if we can seal the deal! 
+Your Role 
+As a leader in iGaming, you’ll direct and mentor our team of Product Owners and Gaming Mathematicians while collaborating closely with the Production Director, who oversees studio and production teams. You’ll be responsible for implementing the game roadmap strategy, delivering high-quality, engaging game products, and shaping new game features that elevate player experiences.
+Beyond game development, you’ll contribute to broader company strategies, providing vision and direction to align our products with Relax goals. 
+This is your opportunity to shape the future of iGaming by leading a talented team in a company that values creativity, innovation, and strategic vision. 
+Are you the unicorn we’re looking for? Let’s find out. 
+What We’re Looking For 
+We’re seeking a passionate, creative, and detail-oriented leader with:
+Proven Experience: A track record of working with Game Product Owners and Mathematicians to produce top-tier games for key markets. 
+Leadership Skills: The ability to inspire and motivate teams, confidently own decisions, and foster collaboration. 
+Industry Expertise: A solid understanding of responsible gambling, game mechanics, and the latest trends in iGaming. 
+Passion for Gaming: A love for slot game design and delivering unforgettable gaming experiences. 
 
-På Nikita Hair i Mall of Scandinavia arbetar ett superhärligt team som du har möjlighet att bli en del av! Vi söker nu frisörer som vill fortsätta utvecklas tillsammans med oss! 
+Key Responsibilities 
+Your areas of responsibilities (don’t worry, it will grow as you grow): 
+Creative Vision & Strategy: Define a cohesive creative vision for the Relax game portfolio, aligning it with market trends and business goals. Build and share strategic guidelines with teams to ensure consistent alignment in game development. 
+Game Development Oversight: Approve games during the line-up process, guide game ideation, and ensure a steady flow of high-quality games to market. Provide constructive feedback to teams to balance creativity with strategy. 
+Team Leadership: Lead, mentor, and expand a team of game designers and mathematicians, ensuring alignment with the Relax hiring standards and fostering a collaborative and innovative work environment. 
+Ideation & Feature Development: Facilitate workshops to generate ideas for games and features. Collaborate on feature concepts and cross-game functionality with the creative and UX teams to enhance the overall player experience. 
+Partner Collaboration: Provide strategic direction for co-productions with partners like Casino Daddy and Casino Grounds, ensuring successful collaborations. 
+Market Analysis & Data Utilization: Monitor competitive trends, player behaviour, and market needs to create games that resonate with target audiences. Use data and analytics to optimize game performance and engagement. 
+Roadmap Management: Develop and present short- and long-term roadmaps to internal stakeholders, including Marketing, Account Managers, and Executives. Provide input on quarterly roadmaps for Relax and Silver Bullet games. 
+Regulatory & Market Expertise: Maintain a clear understanding of business operations, regulated markets, and industry trends to maximize the potential of each game. 
+Cross-Department Collaboration: Work closely with Marketing, Account Managers, and the Production Director to ensure optimal game rollouts and product updates, including jackpot designs. 
 
-Vem är du?
+What You’ll Need 
+3+ years of experience leading teams of Game Product Owners and Mathematicians. 
+Previous experience as a Game Product Owner or a similar role. 
+Expertise in designing slot games for the iGaming industry. 
+A strong understanding of game mechanics and player engagement. 
+Fluency in English. 
 
+About Relax Gaming 
+Back in 2010, we kicked off our journey with a simple mission - to create outstanding games for the modern iGaming world. Fast forward to today, and we've grown to be one of the leading suppliers in the game, boasting an aggregation arm like no other. Despite our exponential growth, we've succeeded in staying true to our core values throughout the years, these are to be: Driven, Adaptable, Supportive, and Respectful. We live and breathe this ethos across our offices across the globe, namely in Malta, Estonia, Serbia, Finland, Sweden, and Gibraltar. 
+Life at Relax  
+This role is placed in Stockholm or Malmö, Sweden. 
+Relax is at a very exciting growth stage as a company; however, we cherish our informal and flexible core atmosphere where self-initiative, taking pride in what you do and ambition to deliver the best results are key components. For the right person, there are endless opportunities for personal and professional development.Interested in being part of a growing young organisation in a truly international environment with people from diverse backgrounds? Do you want to be close to the action in producing the next generation of high-quality Casino games?
+Job Summary
+We are looking for an experienced and knowledgeable Game Product Owner to join our team. In this role, you will oversee new game productions under the Relax brand.
+It combines market insights, game design, and commercial strategies to keep our portfolio competitive in the evolving gaming industry.
+In this position, you will lead the creation of unique slot games from concept to launch, ensuring every feature, mechanic, and detail is executed precisely. You will be responsible for creating the vision, directing the team, and making essential decisions to turn concepts into successful games. Your leadership will coordinate the efforts of artists, developers, and animators.
+If you excel in a creative and dynamic environment and wish to contribute directly to the development of record-breaking slot games with distinctive ideas, themes, and innovative mechanics that stand out in the market, this role is for you!
+Responsibilities
+Creating unique game concepts with innovative mechanics to meet our gaming strategy
+Creating and owning cross-game ideas that can be used consistently across all our games
+Overseeing the quality, design, mechanics, production and delivery of the end game products, both network and custom games
+Producing high-end casino game content that matches the Relax Gaming Strategic ambitions
+Ensuring requirements for studios are correct, accurate and prioritized
+Ensuring a successful release to the market
+Collaborating with a variety of stakeholders, including mathematicians, marketing, compliance, and commercial
+Researching our key target markets and the competitive landscape to stay ahead of the curve and applying this to games
+Guide and give feedback on all game productions
+Working closely with the BI team to identify valuable data to enhance player journey and decision-making
+Actively represent Relax as an ambassador and present games to external stakeholders
 
-• Utbildad frisör (gymnasial eller privat utbildning)
-• Serviceinriktad med kunden i fokus
-• Stor passion för frisöryrket
+Requirements
+You live and breathe slot game design and must have:
+Excellent and proven game production experience within iGaming industry
+Experience in creating new and innovative mechanics with an in-depth understanding of game statistics and their impact on gameplay experience
+Excellent communication, presentation and collaboration skills
+Strong understanding of the slots market and keeping up with trends.
+Proactive can-do attitude, ability to take initiative, accountability
+Be a team player who inspires, aligns, and keeps projects running smoothly.
+Natural talent for problem-solving
+Excellent eye for detail
 
-Vad erbjuder vi dig?
+Bonus points for…
+5+ years working in the same role
+Experience of mentoring others
+Experience in working in an international environment
+Experience working with jackpot systems
 
+About Relax
+Back in 2010, we kicked off our journey with a simple mission - to create outstanding games for the modern iGaming world. Fast forward to today, and we've grown to be one of the leading suppliers in the game, boasting an aggregation arm like no other. Despite our exponential growth, we've succeeded in staying true to our core values throughout the years, these are to be: Driven, Adaptable, Supportive, and Respectful. We live and breathe this ethos across our offices across the globe, namely in Malta, Estonia, Serbia, Finland, Sweden, and Gibraltar. Keen to find out more? Learn about us here: https://relax-gaming.com/careers/life-at-relax.
+Life at Relax
+This role can be placed in Malta, Stockholm or Malmö.
+Relax Gaming is just more than a workplace, it’s a community. We have a nice and cozy office, provided with snacks & soft drinks whenever you need one. We’re having lots of fun together, whether it’s team events, poker tournaments, movie nights, sports competitions or our endless refined jokes in Slack. There’s something for everyone.
+Despite the substantial growth, we will always cherish our informal and flexible core atmosphere, where self-initiative, pride in what you do, and ambition to deliver the best results are key components. For the right person, there are endless opportunities for an amazing personal growth experience. And what’s super important—there’s always a top-notch team around you who will support you in everything you do!
+We are starting with interviews right away, so be quick to apply!
+We handle all applications confidentiallySveriges Radios uppdrag är att sända radio i allmänhetens tjänst och vi har 7,4 miljoner lyssnare i veckan. Över hälften av befolkningen tar del av vårt utbud i någon form varje dag. Antingen i direktsänd linjär radio eller on-demand, i FM, på våra egna digitala plattformar eller hos andra aktörer. Vi erbjuder trovärdig kunskap, fördjupning, sällskap och förströelse. Att jobba på Sveriges Radio innebär därför att du, oavsett roll, är en värdefull del i ett viktigt uppdrag. 
 
-• God arbetsmiljö med stort fokus på trivsel och teamkänsla
-• Goda lönevilkor och personalförmåner (OB, sjuklön och semesterersättning enligt kollektivavtal)
-• Vi hjälper dig med del-och gesällprov och står dessutom för kostnaden!
-• Personalrabatter och Friskvårdsbidrag
-• Karriärmöjligheter i Sverige och Norge
-• Utbildningar och personlig utveckling
-• Teamaktiviteter och gemenskap!
+Appen Sveriges Radio Play är en digital nyhetsdestination med ljudet i fokus. Appen och sajten erbjuder en bred mix av linjära kanalsändningar, intressanta poddar och aktuella nyheter. För att stärka det lokala nyhetserbjudandet, och nå ut ännu bättre till den digitala P4-publiken, finns numera en digital deskorganisation med ansvar för det lokala nyhetsinnehållet, Digitala Hubben. 
 
-Varmt välkommen med din ansökan redan idag!
+Digitala Hubben har sina medarbetare utspridda på 25 orter – från Luleå till Malmö, från Uddevalla till Visby. Vi jobbar tillsammans som en gemensam organisation och håller löpande kontakt digitalt. Alla som jobbar i Digitala Hubben har digitalt fokus och jobbar med optimering av Lokalt-sidorna, nyhetsbevakning och sociala medier-publicering. 
 
-#SverigesbästafrisörarbetsplatsVi växer och söker en ny kollega till vårt team på Sankt Eriksplan!
-Till en början erbjuder vi arbete tre dagar i veckan, med möjlighet att utöka till fyra eller fem dagar.
-Innan anställning erbjuds en obligatorisk introduktionsutbildning som kombinerar teori och praktik. Om du redan har genomgått den längre utbildningen till Fasciaspecialist behöver du inte gå introduktionsutbildningen.
+Nu söker vi digitala redaktörer för två vikariat. Ett vikariat sträcker sig från så snart som möjligt fram till årsskiftet och det andra från 1 september fram till 31 maj-26. Placeringsort är vid något av Sveriges Radios 25 lokala radiohus runt om i landet. Man behöver vara på plats regelbundet med möjlighet att jobba hemifrån ibland. Schemat kommer även innefatta kvälls- och helgjobb.
 
+Tjänsten och ansvarsområden
 
-----------------
+ - Sätta rubriker och skriva artikeltext utifrån digitala ljudklipp
+ - Publicera innehåll i sociala medier och moderera kommentarer
+ - Optimera nyhetsflödet, bygga puffpaket och skicka nyhetspushar
+ - Bevaka händelsenyheter för alla 25 P4-kanaler
+ - Kommunicera med lokala kollegor kring pågående nyhetshändelser
+ - Delta i digitala utvecklingsprojekt kring olika områden
+Vi söker dig som har: 
 
+ - Journalistisk      högskoleutbildning eller motsvarande yrkeserfarenhet
+ - Erfarenhet      av att jobba med digitala publiceringar i redaktionell verksamhet
+Det är också meritande om du har: 
 
-Erfarenhet av fysisk, terapeutisk verksamhet är meriterande, men inget krav. Vi söker framför allt dig som är nyfiken på att lära, värdesätter service och brinner för att hjälpa människor att må bra.
-Du kommer att spela en viktig roll i att hjälpa våra kunder att återfå sin rörlighet och livskvalitet genom att arbeta med Fasciabehandling.
-Vi erbjuder löpande fortbildning.
+ - Erfarenhet av att jobba med sociala medier-innehåll 
+ - Erfarenhet av att jobba med Breaking News-bevakning
+Frågor och kontaktuppgifter 
 
+Frågor om tjänsten: Erik Sjölander, redaktionschef, erik.sjolander@sr.se samt Mari Stenström, biträdande redaktionschef, mari.stenstrom@sr.se. Frågor om rekryteringen: Marianne Jansson, HR-partner, marianne.jansson@sr.seFackliga kontakter: Kalle Kovacs, SJF, kalle.kovacs@sr.se, Lars-Peter Hielle, Unionen, lars-peter.hielle@sr.se samt Saco som nås via saco@sr.se. 
 
-Vi söker dig som..
-… vill hjälpa andra att uppnå sin fulla potential
-… drivs av att hjälpa människor att må bättre
-… vill arbeta med likasinnade och utvecklas tillsammans
-… vill öka rörlighet och livskvalitet för kunder
+Sista ansökningsdag den 30 maj 2025.
+Varmt välkommen med din ansökan!
 
+Företagsbeskrivning gömd på alla jobb på hela kontot. Kontakta Jobylon för att visa igen.Job description
+We are looking for a creative and passionate Web Designer to join our dynamic team at Raise. If you 
+master the principles of modern design, know how to combine aesthetics and functionality, and have 
+a strong UX/UI sensitivity, this opportunity is made for you!
 
-----------------
+. Create attractive and functional web mock-ups and interfaces 
+. Improve the UX and UI of our existing platforms 
+. Collaborate closely with the product, development, and marketing teams 
+. Ensure visual consistency of our brand identity across all digital channels 
+. Design responsive web pages that meet current standards 
 
+Requirements
+. Proven experience in web design / UI-UX design
+. Proficiency in Figma, Adobe XD, or other design tools
+. Solid understanding of web constraints (responsive design, performance, accessibility)
+. Strong web culture and keen eye for graphic details
+. Autonomous, creative, and meticulous
 
-Hur en behandling går till:
-https://fasciaclinics.com/se/behandling
+Training provided
+Onboarding to the team and the company. 
+Each manager is responsible for training the new recruit within their respective team. The training will 
+be based on the recruit's job description as well as an introduction to the world of trading. 
 
+Any assistance with accommodation/relocation
+We regret to inform you that we do not provide assistance with accommodation or relocation.
 
-En Fasciabehandling är ett effektivt sätt att öka rörlighet och avslappning, förbättra cirkulationen och öka vätskeflödet.
-Behandling sker med moderna patenterade behandlingsverktyg, optimerade för skonsam och effektiv behandling av hela kroppen.
-De beprövade behandlingsprocesserna bygger på över 10 års samlad erfarenhet från manuella terapeuter från olika yrkesgrupper och på den senaste forskningen inom fascia.
+Any other benefits
+We offer access to a gym, weekly team events, and breakfast on Monday mornings. Additionally, we 
+have a very flexible leave policy to accommodate our employees' needs.
 
+Salary
+?30,000 to ?40,000 per year.
 
-----------------
+How will the interviews be held 
+The first interview will be conducted online, and if successful, the second interview will take place 
+online with the manager responsible for the respective position.
 
+To apply
+CVs and a covering email are to be sent by email to eures.recruitment.jobsplus@gov.mt and should 
+be written in English. Please quote the vacancy name and number 417936  in your emailSpråkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
+Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
+Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
+Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Please note that we seek a Manding speaker from The Gambia.
+The job entails
+·       carrying out and recording interviews for dialect analysis,
+·       listening to recorded speech and using a specific template to report the details of the dialect spoken.
+The work will be carried out remotely via audio link.
+Verified AB is one of the largest companies in Europe to provide language analysis. Our clients are primarily authorities concerned with asylum matters. The analyses support the authorities in determining the background of asylum seekers. In each case, a language analyst with a specific linguistic and areal competence is involved. The native speaker analysts work together with Verified’s linguists.
+To work as a language analyst for Manding, you should
+- speak Manding as spoken in The Gambia
+- have in-depth knowledge of the area where Manding is spoken (born and raised/long-term residence) and be well acquainted with the social, cultural and political situation there
+- be familiar with dialectal variation in Manding and its relationship to neighbouring languages
+-  be aware of current developments in the Manding community in The Gambia
+- be able to express yourself clearly and correctly in English (or Swedish)
+- have good computer skills
+We value punctuality, orderliness and dependability among our analysts.
+There are presently only a few requests per year for analysis of Manding and work will be assigned on a case-by-case basis. This job is suitable as a sideline for a language enthusiast.
+Please write your application in English/Swedish and include a curriculum vitae (CV). Make sure that the CV shows your educational background and employment history.
+The successful applicant must submit a clean criminal record prior to employment.Please note that we seek a native speaker of one of the varieties of Arabic spoken in Saudi Arabia. The job entails
+·       carrying out and recording interviews for dialect analysis,
+·       listening to recorded speech and using a specific template to report the details of the dialect spoken.
+The work will be carried out remotely via audio link.
+Verified AB is one of the largest companies in Europe to provide language analysis. Our clients are primarily authorities concerned with asylum matters. The analyses support the authorities in determining the background of asylum seekers. In each case, a language analyst with a specific linguistic and areal competence is involved. The native speaker analysts work together with Verified’s linguists.
+To work as a language analyst with Uyghur
+- be a native speaker of Uyghur.
+- have in-depth knowledge of the Uyghur community in Asia and be well acquainted with its social, cultural and political situation
+- be familiar with dialectal variation in Uyghur
+- maintain close contacts with the Uyghur-speaking community in Asia
+- be able to express yourself clearly and correctly in English (or Swedish)
+- have good computer skills.
+We value punctuality, orderliness and dependability among our analysts.
+There are presently rather few requests for analysis of Uyghur, and work will be assigned on a case-by-case basis. This job is suitable on the sideline for a language enthusiast.
+Please write your application in English and include a curriculum vitae (CV). Make sure that the CV shows your educational background and employment history. Please submit your application at jobb@verified.se
+The successful applicant must submit a clean criminal record prior to employment.Om Barncancerfonden
+Barncancerfonden kämpar för en framtid där alla barn som drabbas av cancer överlever, och gör det utan medicinska eller sociala men för livet.
+Så är det inte idag. Varje dag insjuknar ett barn i cancer, vissa av dem kommer att vara helt chanslösa inför sin diagnos. Och långt fler än varannan överlevare har komplikationer livet ut.
+Vi vägrar acceptera att det finns chanslösa barn. Därför satsar vi på världsledande forskning som botar utan att skada, och som kan besegra de obotliga barncancerformerna. Därför hjälper vi politiken att förstå och ta ansvar för de drabbades situation. Därför erbjuder vi akut och långsiktigt stöd för barn, familjer och överlevare. För barn och cancer hör inte ihop.
+Tack vare generösa bidrag från privatpersoner, företag och organisationer är Barncancerfonden den enskilt största finansiären av barncancerforskning i Sverige. Barncancerfonden är godkänd av Svensk Insamlingskontroll och har ett 90-konto, vilket garanterar att pengarna går till rätt ändamål.
+Var med och påverka nu och i framtiden för barn med cancer!
+Vill du vara med om att bidra till en barncancerrevolution? Då är detta ett uppdrag för dig.
+Barncancerfonden består av sex lokala föreningar och ett riksförbund. I ditt uppdrag kommer du arbeta med utgångspunkt i Barncancerfonden Östras verksamhet, men även med föreningsgemensamma uppdrag. Barncancerfonden Östra bedriver verksamhet i Östergötlands och Kalmar län. Föreningens syfte är att stödja cancersjuka barn och dess familjer, skapa trivsamma förhållanden på sjukhusen och sprida information om barncancer.
+Ditt huvuduppdrag är att arbeta med kommunikation, administration, styrelsestöd och stöd till företag och samarbetspartners. I uppdraget har du ett nära samarbete med Barncancercentrum och kommer därigenom möta drabbade barn, familjer och personal regelbundet. Föreningsinformatören ska utforma och verkställa arbetsuppgifter på ett produktivt och effektivt sätt utifrån gällande målsättningar och strategier.
+Dina uppgifter
+Planering, produktion och uppföljning av kommunikationsinsatser om föreningens verksamhet i olika kanaler (bl a sociala medier och nyhetsbrev), samt innehållsansvar för föreningens webbsida.
+Arbeta tillsammans med andra informatörer på enheten och kollegor på kommunikationsenheten för att säkerställa att Barncancerfonden har en samlad och effektfull kommunikation genom hela organisationen.
+Operativt ansvara för föreningens administrativa processer, exempelvis faktura- och utläggshantering, medlemsregister, medlemsservice, texter till förvaltningsberättelse och processer kopplat till föreningens rekreationsboenden.
+Upprätthålla föreningens rutiner kring personuppgiftsbehandling och löpande rapportera om verksamheten till Barncancerfondens dataskyddsombud.
+Ge stöd till föreningsstyrelsen. I det ingår att bereda underlag, verkställa och återkoppla på beslut och att ge annat stöd utefter behov.
+Agera som kansliets kontaktperson för företag och externa samarbetspartners. I det ingår att vårda relationer och ge praktiskt stöd vid insamlings- och eventinitiativ. 
+Vara föreningens kontaktperson för det stöd som föreningen ger på region-/hemsjukhus. 
+I samarbete med gruppledaren för koordinatorer arbeta med föreningens volontärverksamhet i enlighet med den föreningsgemensamma volontärstrategin och styrelsens önskemål. Det kan även innefatta projektledning av aktiviteter som föreningen genomför med hjälp av anställd personal, med eller utan volontärer till stöd. I det ingår planering, genomförande och effektmätning. 
 
-Ansökan skickas till:
-marcus@fasciaklinikerna.se
+ Din profil
+Eftergymnasial utbildning för tjänsten relevant område, eller arbetslivserfarenhet som arbetsgivaren bedömer som likvärdig.
+Erfarenhet av att planera, producera och utvärdera kommunikationsinsatser i flertalet olika kanaler, så som webb och sociala medier.
+Dokumenterat god förmåga att uttrycka dig i skrift samt god känsla för målgruppsanpassad kommunikation.
+Erfarenhet av faktura- och utläggshantering samt arbete i ekonomi- och medlemssystem med stora krav på noggrannhet.
+Ha god förmåga att bemanna och besvara ärenden från medlemmar, givare och allmänhet via mejl och telefon.
+Ha en mycket god förståelse för vad det innebär att arbeta i en medlemsstyrd ideell verksamhet och kunskap kring vilket stöd en styrelse behöver.
 
+ Egenskaper
+Trygg, öppen och empatisk person med mycket stor omdömesgillhet.
+Stort självledarskap med god förmåga att kunna planera och avgränsa ditt arbete.
+Fokuserad på mål, resultat och lösning.
+Handlingskraftig, flexibel och prestigelös. 
 
-För mer information om Fasciaklinikerna:
-https://fasciaclinics.com/se/
-
-
-----------------
-
-
-Varmt välkommen med din ansökan!Vill du bli en del av Rapide-familjen och påbörja din karriär inom skönhet? 
-Vi söker just nu en Assistant Brow Bar Manager till vår salong i Stockholm. Ingen erfarenhet krävs sedan tidigare bara att du har ett stort intresse för skönhet, utveckling och service. 
-Rapide Brow and Lash Bar är den ledande skönhetskedjan med 18 barer runt om i Sverige. Vi specialiserar oss på trådning och vår passion är att framhäva ögonen med unika produkter och behandlingar.
-Nyckelord för dig vi letar efter: Professionell, driven, nyfiken, flexibel och ansvarstagande.
-Vi söker dig som:
- Brinner för skönhet
- Gillar ett högt tempo
- Älskar kundmöten och att ge bra service
- Noggrann och ansvarfrull
+ Vi erbjuder
+Barncancerfonden är en arbetsplats med cirka 90 engagerade medarbetare som varje dag strävar efter att göra skillnad. Vi erbjuder en arbetsplats präglad av engagemang, framtidstro och gemenskap. Tillsammans gör vi skillnad för drabbade barn och deras närstående, på kort och lång sikt. På Barncancerfonden vill vi vara en arbetsplats präglad av en mångfald som speglar det samhälle vi är en del av.
+På Barncancerfonden ska vi göra allt som står i vår makt för att vår verksamhet ska vara trygg och säker för våra barn. En bakgrundskontroll när du söker jobb sker därför alltid i slutet av en rekrytering hos Barncancerfonden, som ett sista steg innan du får ett jobberbjudande. 
+Tjänsten är en tillsvidareanställning, som inleds med en provanställning om 6 månader. Vi önskar tillträde 1 oktober 2025.
+Du kommer att vara placerad på ett kontor i Linköping. För denna tjänst gäller målstyrd arbetstid där heltid motsvarar 38 h/vecka. Vi har möjlighet till 50 procent arbete på kontoret respektive 50 procent distansarbete – om det är möjligt utifrån verksamhetens behov. I tjänsten ingår resor både inom föreningens region och till andra platser i Sverige, t ex vid personalsammankomster. Vi erbjuder ett generöst friskvårdsbidrag och vi har kollektivavtal via Fremia med bland annat tjänstepension och försäkringar.
+ Ansökan
+Välkommen med din ansökan! Urval och intervjuer sker efter sista ansökningsdag 31 maj 2025. Om du vill ha mer information, kontakta gruppledare Lena Hedlund, lena.hedlund@barncancerfonden.se.
+Facklig representant – kontakt: Elin Bernhard, elin.bernhard@barncancerfonden.seArkeologicentrum söker framtida nyckelperson
+I dag finns många arkeologiföretag. Men inget som Arkeologicentrum. Vi startade för 25 år sedan och byggde en arbetsplats där vi själva vill jobba. Och ett konsultföretag vi själva skulle vilja köpa tjänster av. Ett med fokus på effektiv och rättssäker hantering av kulturmiljöärenden, snabba resultatleveranser, en hög servicenivå och hushållning med kundernas, våra och jordens resurser. Vi utför uppdrag med stor bredd men med tonvikten inom hållbar energiproduktion. Nu behöver vi förstärka med ytterligare en resurs som vi tänker oss är en framtida nyckelperson i verksamheten.
  
-Vi utbildar alla våra anställda inom våra behandlingar och produkter och service.
-Rapide Academy är en grundutbildning på 4 dagar som hålls på servicekontoret i Stockholm och stylisterna utbildas utav vår Education Manager.
-Vi erbjuder dig:
- Utbildning i våra behandlingar samt vårat koncept och produkter
- En fantastisk arbetsplats
- Utveckling
- Ett yrke i världens mest växande bransch
- Chans till att klättra inom bolaget
+Vad innebär jobbet?
+En dag på jobbet kan innefatta möten med medarbetare och kunder, ofta via Teams, projektplanering, kostnadsberäkningar och sammanställning av offerter, textproduktion för underlag för samrådsunderlag, för bemötanden av kompletteringskrav gällande ansökningshandlingar, för inlagor till mark- och miljödomstolar, sammanställning av kulturmiljöanalyser med stor bredd, som regel för underlag för ansökningshandlingar enligt miljöbalken och miljökonsekvensbeskrivningar, lektörs- och korrekturläsning, biblioteks- och arkivresor, platsbesök och fältarbeten som ofta är i form av arkeologisk inventering, syn med mark- och miljödomstol, möten och konferenser, rådgivning och en del oväntade och oförutsägbara arbetsuppgifter som blir rena överraskningarna!
  
-Arbetsuppgifterna innefattar:
-Att utföra frans-och brynbehandlingar som vi erbjuder, försäljning utav Rapide Cosmetic och följa de hygienregler, strukturer och policys som Rapide står för. Här får du chansen att arbeta kreativt med händerna och skapa bryn och fransar i världsklass samtidigt som du jobbar med försäljning av Rapide Cosmetics. Du är även Brow Bar Managerns högra hand, med insikt i budget, coachning av personal etc. 
-Tjänsten är 75% och en provanställning på 6 månader som löper vidare till en tillsvidareanställning om inget annat sägs inom de 6 månaderna.
-Är du den vi söker? – Sök redan idag!
-Rekrytering sker löpande. 
-Varma hälsningar,
-Stephanie WedholmBehöver frisör som kan jobba heltid från och med 1 juni 
-Måste vara en professionell herrfrisör med erfarenhetMeet a Student är en jobbplattform för juniora talanger.
-
-
-
-För kunds räkning har vi publicerat denna annons, vill du komma i kontakt med den slutgiltiga arbetsgivaren kan du klicka dig vidare till annonsen:
-
-
-Är du en ansvarsfull och serviceinriktad person med intresse för människor, skönhet och hälsa? Vill du arbeta i en exklusiv och trivsam klinikmiljö där du får hjälpa kunder att uppnå sina skönhets- och hälsomål? Vår klinik söker nu en engagerad klinikmedarbetare & behandlare till vårt team på deltid.
-
-Omfattning: 10-30 timmar/vecka.
-
-Arbetstid: 15.00-20.00 samt i behov.
-
-Om tjänsten
-
-Som klinikmedarbetare och behandlare kommer du att arbeta med EMS-behandlingar, kroppsbehandlingar och ansiktsbehandlingar samt bidra till en förstklassig kundupplevelse. Vi söker en person som brinner för skönhet och hälsa, har ett professionellt bemötande och vill vara en del av en klinik där resultat och kundnöjdhet står i fokus.
-
-EMS behandlingar innebär att kunder bränner upp till 2000 kalorier per behandling där de behöver hjälp att få på sig EMS dräkten samt bli uppkopplad mot maskinen. Våra kroppsbehandlingar som vi har är inom bland annat laser, ultraljud och radiofrekvens. Gällande ansiktsbehandlingar erbjuder vi hjälp med huduppstramning, fettminskning, hudrengöring mm.
-Arbetsuppgifter:
-
-
-Utföra EMS-behandlingar, kroppsbehandlingar och ansiktsbehandlingar enligt klinikens protokoll.
-
-Vägleda och informera kunder om behandlingarna samt rekommendera skräddarsydda upplägg.
-
-Ringa upp kunder för tidsbokning och hjälpa de med frågor.
-
-Säkerställa att varje kund får en professionell och trygg upplevelse.
-
-Bistå med dagliga rutiner på kliniken, såsom kundbokningar och lättare administrativa uppgifter.
-
-Skapa och bibehålla långsiktiga kundrelationer.
-
-Se kontinuerligt till att kliniken är organiserad och presentabel.
-
-
-
-Vi söker dig som:
-
-
-Bra på att kommunicera.
-
-Ha ett försäljningstänk.
-
-Har god känsla för service och bemötande
-
-Är strukturerad.
-
-Är flexibel, ansvarstagande och självgående.
-
-Har en positiv och lösningsorienterad attityd.
-
-Meriterande om du också vill jobba med sociala medier och har erfarenhet av detta.
-
-Har erfarenhet att jobba med människor är meriterande.
-
-Trivs med att arbeta i ett team men också självständigt
-
-
-
-Vi erbjuder:
-
-
-En inspirerande arbetsmiljö i en modern och professionell klinik på Östermalm
-
-Utbildning inom samtliga behandlingar samt försäljning. (Värde 50.000 kr)
-
-Möjlighet att utvecklas inom avancerade kropps- och skönhetsbehandlingar.
-
-Ett trevligt team med passion för hälsa och skönhet
-
-Förmåner och rabatter på behandlingar
-
-Konkurrenskraftig lön baserad på erfarenhetNu söker vi i Rapide-familjen en ny ledare till två av våra salonger i Stockholm!
-Rapide Brow and Lash Bar är den ledande skönhetskedjan med 17 barer runt om i Sverige. Vi specialiserar oss på trådning och vår passion är att framhäva ögonen med unika produkter och behandlingar.
-Vi söker en ledare som har ett affärssinne och höga ambitioner att hela tiden utvecklas som ledare.
-För att lyckas i rollen som Brow Bar Manager på Rapide ska du ha förmågan att inspirera och motivera dina medarbetare att alltid bli lite bättre inom försäljning och kundmötet för varje dag som går. Du som ledare längst fram i ledet och visar vägen dit, du ska vara en förebild och vinna förtroende för dina medarbetare. Tydlighet och en flexibel kommunikation till varje medarbetare krävs för att driva resultat tillsammans som ett team. Barens framgång bygger på din förmåga att coacha andra att uppnå sin fulla potential.
-Du ansvarar för att alla kunder som gästar oss möts av välmotiverade, professionella och tillgängliga stylister som vill göra ögonbryn av högsta kvalitet.
-Du sätter och följer upp försäljningsmål, säkerställa att kampanjer och aktiviteter genomförs enligt marknadsplan och tillsammans med dina medarbetare säkerställa att dina enheter är och andas Rapides vision. Den bästa skönhetsupplevelsen och den bästa arbetsupplevelse.
-Här får du chansen att arbeta kreativt med händerna och skapa bryn och fransar i världsklass samtidigt som du coacha och utbildar din egen personal. Du har fullt budgetansvar samt andra administrativa uppgifter.
-Du kommer få driva en flagship-bar samt en mindre browbar i Malmö området. 
-Nyckelord för dig vi letar efter: Professionell, driven, nyfiken, flexibel och ansvarstagande
-Vi söker dig som:
-· Brinner för skönhet
-· Vill leda personal till framgång
-· Är en lagspelare
-· Vill göra karriär
-· Drivs av ägandeskap
-· Brinner för utmaningar
-· Älskar att arbeta med utveckling av andra människor
-· Tänker utanför boxen och tar initiativ
-· Älskar kundmöten
-Krav på tidigare erfarenhet inom någon typ av ledarskap eller med försäljnings strategier.
-Vi utbildar alla våra anställda inom våra behandlingar och produkter och sälj i Stockholm på en 6 dagars utbildning. Du kommer lära dig allt om den bästa skönhetsupplevelsen.
-Rapide Academy utbildas utav vår Education Manager
-Vi erbjuder dig:
-· Utbildning i behandlingar samt vårt koncept
-· Utbildning i ledarskap
-· En fantastisk arbetsplats
-· Utveckling som ledare
-· Chans till att klättra
-Tjänsten är heltid-100% och en provanställning på 6 månader som löper vidare till en tillsvidareanställning om inget annat sägs inom de 6 månaderna.
-Är du den vi söker – Sök redan idag!
-Rekrytering sker löpande.
-
-
-Varma hälsningar
-Philippa Ottenfalk
-Area ManagerMeet a Student är en jobbplattform för juniora talanger.
-
-
-
-För kunds räkning har vi publicerat denna annons, vill du komma i kontakt med den slutgiltiga arbetsgivaren kan du klicka dig vidare till annonsen:
-
-Är du en ansvarsfull och serviceinriktad person med intresse för människor, skönhet och hälsa? Vill du arbeta i en exklusiv och trivsam klinikmiljö där du får hjälpa kunder att uppnå sina skönhets- och hälsomål? Vår klinik söker nu en engagerad klinikmedarbetare & behandlare till vårt team på deltid.
-
-Omfattning: 10-30 timmar/vecka.
-
-Arbetstid: 15.00-20.00 samt i behov.
-
-Om tjänsten
-
-Som klinikmedarbetare och behandlare kommer du att arbeta med EMS-behandlingar, kroppsbehandlingar och ansiktsbehandlingar samt bidra till en förstklassig kundupplevelse. Vi söker en person som brinner för skönhet och hälsa, har ett professionellt bemötande och vill vara en del av en klinik där resultat och kundnöjdhet står i fokus.
-
-EMS behandlingar innebär att kunder bränner upp till 2000 kalorier per behandling där de behöver hjälp att få på sig EMS dräkten samt bli uppkopplad mot maskinen. Våra kroppsbehandlingar som vi har är inom bland annat laser, ultraljud och radiofrekvens. Gällande ansiktsbehandlingar erbjuder vi hjälp med huduppstramning, fettminskning, hudrengöring mm.
-
-Arbetsuppgifter:
-
-Utföra EMS-behandlingar, kroppsbehandlingar och ansiktsbehandlingar enligt klinikens protokoll.
-
-Vägleda och informera kunder om behandlingarna samt rekommendera skräddarsydda upplägg.
-
-Ringa upp kunder för tidsbokning och hjälpa de med frågor.
-
-Säkerställa att varje kund får en professionell och trygg upplevelse.
-
-Bistå med dagliga rutiner på kliniken, såsom kundbokningar och lättare administrativa uppgifter.
-
-Skapa och bibehålla långsiktiga kundrelationer.
-
-Se kontinuerligt till att kliniken är organiserad och presentabel.
-
-
-Vi söker dig som:
-
-Bra på att kommunicera.
-
-Ha ett försäljningstänk.
-
-Har god känsla för service och bemötande
-
-Är strukturerad.
-
-Är flexibel, ansvarstagande och självgående.
-
-Har en positiv och lösningsorienterad attityd.
-
-Meriterande om du också vill jobba med sociala medier och har erfarenhet av detta.
-
-Har erfarenhet att jobba med människor är meriterande.
-
-Trivs med att arbeta i ett team men också självständigt
-
-
-Vi erbjuder:
-
-En inspirerande arbetsmiljö i en modern och professionell klinik på Östermalm
-
-Utbildning inom samtliga behandlingar samt försäljning. (Värde 50.000 kr)
-
-Möjlighet att utvecklas inom avancerade kropps- och skönhetsbehandlingar.
-
-Ett trevligt team med passion för hälsa och skönhet
-
-Förmåner och rabatter på behandlingar
-
-Konkurrenskraftig lön baserad på erfarenhetVi söker just nu dig som är redo att ta dig an en ny utmaning, och ingen tidigare erfarenhet krävs. 
-Vill du bli en del av Rapide-familjen och påbörja din karriär inom skönhet?
-Vi söker nya stjärna som vill utvecklas tillsammans med oss och som vill börja arbeta på vår enhet i Stockholm!
-Rapide Brow and Lash Bar är den ledande skönhetskedjan med 17 barer runt om i Sverige. Vi specialiserar oss på trådning och vår passion är att framhäva ögonen med unika produkter och behandlingar.
-Nyckelord för dig vi letar efter: Professionell, driven, nyfiken, flexibel och ansvarstagande.
-Vi söker dig som:
- Brinner för skönhet
- Gillar ett högt tempo
- Älskar kundmöten och att ge bra service
- Noggrann och ansvarfrull
+Vem söker vi?
+För att kunna hantera arbetsuppgifterna behövs en gedigen akademisk examen, så klart med museiämnen men troligen också GIS, företagsekonomi och projektledning. En flexibel läggning och en hög integritet. Körkort B. Lång branscherfarenhet och god – nej, superb – kännedom om lagstiftningen inom vårt fackområde (MB, PBL, KML).
  
-Krav för rollen: Fyllt 18 år, och att du är redo att lära dig något nytt inom hantverket vi arbeta med och försäljning. Vi utbildar alla våra anställda inom våra behandlingar och produkter och sälj i Stockholm på en 4 dagars utbildning. Du kommer lära dig allt om den bästa skönhetsupplevelsen.
-Rapide Academy utbildas utav vår Education Manager.
-Vi erbjuder dig:
- Utbildning i våra behandlingar samt vårat koncept och produkter
- En fantastisk arbetsplats
- Utveckling
- Ett yrke i världens mest växande bransch
- Chans till att klättra inom bolaget
+Vad får du hos oss?
+Av oss får du fast anställning, heltid eller deltid, med tjänstepension och försäkringar enligt kollektivavtal, en flexibel vardag med stor frihet och tillit, en arbetskultur där stöttning, trygghet och trivsel är prioriterade områden, kollegor som värdesätter dig och en möjlighet att vara med och forma en verksamhet så som den borde vara. Det kan till och med vara så, att du är Arkeologicentrums nästa ägare och styrelseordförande. Sannolikt jobbar du från hemmakontoret och träffar oss andra främst på Teams eller i fält. Men vi utesluter inte möjligheten av en reguljär arbetsplats, troligen i Visby eller Östersund.
  
-Arbetsuppgifterna innefattar:
-Att utföra frans-och brynbehandlingar som vi erbjuder, försäljning utav Rapide Cosmetic och följa de hygienregler, strukturer och policys som Rapide står för.
-Tjänst: 20-60 % - provanställning. 
-Rekryteringen sker löpande med start när vi hittat den rätte för jobbet.
-
-Varma hälsningar,
-Stephanie Wedholm och Philippa OttenfalkVi söker just nu dig som vill arbeta i sommar och ingen tidigare erfarenhet krävs. 
-Vill du bli en del av Rapide-familjen och påbörja din karriär inom skönhet?
-Vi söker nya stjärna som vill utvecklas tillsammans med oss och som vill börja arbeta på våra salonger i Stockholm under sommaren.
-Rapide Brow and Lash Bar är den ledande skönhetskedjan med 17 barer runt om i Sverige. Vi specialiserar oss på trådning och vår passion är att framhäva ögonen med unika produkter och behandlingar.
-Nyckelord för dig vi letar efter: Professionell, driven, nyfiken, flexibel och ansvarstagande.
-Vi söker dig som:
- Brinner för skönhet
- Gillar ett högt tempo
- Älskar kundmöten och att ge bra service
- Noggrann och ansvarfrull
- 
-Krav för rollen: Fyllt 18 år, och att du är redo att lära dig något nytt inom hantverket vi arbeta med och försäljning. Vi utbildar alla våra anställda inom våra behandlingar och produkter och sälj i Stockholm på en 4 dagars utbildning. Du kommer lära dig allt om den bästa skönhetsupplevelsen.
-Rapide Academy utbildas utav vår Education Manager.
-Vi erbjuder dig:
- Utbildning i våra behandlingar samt vårat koncept och produkter
- En fantastisk arbetsplats
- Utveckling
- Ett yrke i världens mest växande bransch
- Chans till förlängning efter sommaren
- 
-Arbetsuppgifterna innefattar:
-Att utföra frans-och brynbehandlingar som vi erbjuder, försäljning utav Rapide Cosmetic och följa de hygienregler, strukturer och policys som Rapide står för.
-Tjänst: 20-75% - provanställning / visstidsanställning Varma hälsningar,
-Stephanie Wedholm och Philippa OttenfalkÅhléns varuhus är den plats där vi möter kunden och guidar till noga utvalda produkter och lösningar för livets alla dagar. Vi vill att våra kunder alltid ska känna sig inspirerade och välkomna hos oss. Nu söker vi en erfaren, stilmedveten och passionerad Diskansvarig/Makeupartist till Guerlains exklusiva och nya disk på Åhléns City Stockholm! 
-
-
-
-Vi erbjuder dig
-
-Sedan 1828 har Guerlain skapat skönhetsprodukter med exceptionellt hantverk inom doft och hudvård. Huset kombinerar fransk parfym och skönhetsarv med banbrytande innovation och en känsla av lyx. Idag kombinerar Guerlain tradition med modern forskning och är engagerad i hållbarhet genom miljövänliga förpackningar och ansvarsfulla ingredienser.
-
-Hos oss får du en unik möjlighet att arbeta med samtliga kategorier inom Guerlains exklusiva portfölj (hudvård, doft & makeup) och deras prestigedofter som enbart kommer att säljas på Åhléns City Stockholm. 
-I rollen ansvarar du för den dagliga driften och säkerställer att disken speglar Guerlains exklusiva identitet i varje detalj. Du leder och inspirerar ett mindre team på plats och arbetar själv aktivt med försäljning, kundmöten och att bygga starka kundrelationer. Du är vårt ansikte utåt mot kunden och representerar både Guerlain och Åhléns med ett professionellt och passionerat affärssinne.
-
-Exempel på arbetsuppgifter:
-
- - Att aktivt sälja och ge personligt anpassad service inom makeup, hudvård och doft
- - Ansvar för varuplock, diskuppföljning och kommersiell drift
- - Leda teamet i det dagliga arbetet på disken
- - Demonstrera produkter och skapa inspirerande kundupplevelser
- - Delta i kampanjer, event och aktiviteter på avdelningen
- - Samarbete med andra skönhetsdiskar och interna kontaktytor på Åhléns
-Som säljande Diskansvarig/Makeupartist på Åhléns är ditt uppdrag att bidra till försäljningen på vår skönhetsavdelning och att leverera den bästa kundupplevelsen för alla – alltid. I rollen som Makeupartist behöver du ständigt vara uppdaterad inom ditt expertområde för att kunna ge värdefulla tips och råd till våra kunder. Du jobbar i team tillsammans med övriga avdelningar och andra roller i varuhuset kan till exempel vara Visual Merchandiser som ansvarar för varuhusets totala säljmiljö och Säljare på andra avdelningar. 
-Till oss tar du med dig: 
-
- - Utbildning som makeupartist, hudterapeut och/eller inom doft
- - Erfarenhet av försäljning av skönhet inom premium eller lyxsegment
- - Ett stort intresse för skönhet och trender samt våra produkter
- - Har ett naturligt sätt att bemöta kunder med stil, service och förtroende
- - Erfarenhet av ledarskap där du coachat och utbildat andra säljare 
-För att lyckas i rollen och trivas på Åhléns ser vi att du motiveras av försäljning lika mycket som vi och har en hög servicekänsla. Du är trygg i säljrollen och van att leverera mot mål. Du tycker om att arbeta i team och att uppnå resultat genom samarbete. Du är flexibel och trivs med att arbeta i ett högt tempo. Du är nyfiken på kunden och delar med dig av dina kunskaper och idéer. Vidare är du en god kommunikatör och kommunicerar obehindrat på svenska och engelska. 
-
-Tjänsten är en tillsvidareanställning på 30h i veckan med inledande provanställning. Anställningen ligger hos Åhléns och arbetstiderna kan variera mellan 08:00-20:05. Du jobbar på schema som sträcker sig över helger och vardag. Vi ser gärna att du kan börja hos oss så snart som möjligt.
-
-Urval och intervjuer sker löpande, skicka därför in din ansökan redan idag. 
-
-Varmt välkommen till Åhléns – och Guerlain!
-
-Familjeföretaget Åhléns grundades 1899 i Insjön och är idag ett av Sveriges starkaste varumärken, med 47 varuhus i Sverige och e-handel via åhlens.se. Åhléns är den naturliga mötesplatsen, som ger kunden mervärde och inspirerar till nya upptäckter och möten samt erbjuder en engagerande mix av kvalitetsvarumärken inom kläder, inredning, barnartiklar och skönhet. Åhléns omsätter 4,7 miljarder och varje år tar våra ca 3 000 skickliga medarbetare emot 60 miljoner besökare. Åhléns Outlet och Designtorget är dotterbolag. 
- 
- www.ahlens.seTessinparkens Hudotek har funnits sedan 2009. Vi är en mysig, personlig hudvårdssalong med mycket stamkunder. Salongen ligger vid Tessinparken i Stockholm.
-Behandlingar: Vi gör ansiktsbehandlingar med Dermalogica, Neostrata/Exuviance och Cliniccare, frans och brynfärg, Lashlift/browlift, kemiska peelingar, PRX-t33, mesoduo, microneedling, microslipning, LPG, RF maskiner, vaxning och massage.
-Vi söker dig som är glad, social, tillmötesgående, ärlig, fokuserad, lättlärd, noggrann, stresstålig och som gillar att jobba självständigt.
-Vi erbjuder allt från topp till tå men våra mest vanliga behandlingar är ansiktsbehandlingar, färgning av fransar och bryn, massage och LPG behandlingar.
-Du ska kunna jobba vardagar, kvällar och varannan helg.
-meriterande om du kan något av våra märken samt LPG.
-Tjänsten är på 75% med möjlighet till 100%.
-Vänligen Ellen Forss.Vi är ett gäng på 4 frisörer som  söker en Kreativ och utåtriktad frisör som brinner för Frisöryrket.
-Tveka inte att höra av dig om du vill jobba i globen shopping med oss.
-Vi söker dig frisör / Trainee med minst 1-3 års utbildning på skola
-skicka gärna ditt CV & Personligt brev till capillus0@gmail.comHårstylisterna söker en erfaren herr- och damfrisör. Salongen är stor och rymlig och belägen på Hornsgatan 57, nära till bussar och Södra stations pendeltågsstation. Salongen har funnits på samma adress i 20 år och är således en naturlig plats att klippa sig på för såväl unga som gamla. Atmosfären är gemytlig och arbetsglädjen är stor. Vi söker nu en erfaren, alert och kundorienterad frisör som tycker om att klippa, färga och sälja hårvårdsprodukter.Nyrenoverad salong i Dalens Centrum vid Sandborgs T- bana.
-Samma ägare sen 1979, har en fast kundkrets
-Vi söker en frisör eller trainee för hel eller deltidsanställning .
-Platsen är ledig för omgående tillträde .
-Alla behandlingar förekommer. Vi söker ingen barberare
-Lön efter överenskommelse. Semester i sommar.Vi på Be Harmony söker en passionerad Spa-hudterapeut och en laser terapeut till vårt team i vår klinik i Hägersten.
-
-
-Idag arbetar vi med olika moderna maskiner och erbjuder olika tjänster inom Skönhet, såsom:
-
-
-Avancerad hudvård, microneedling, plasmapen,laserhårborttagning, Spa behandlingar, massage, vaxning.
-
-
-Vi erbjuder en familjär arbetsmiljö och jobbar för att ge förstklassig service till våra kunder.
-
-
-Vi vill gärna att du utvecklas och växer inom skönhet och hudvård hos oss.
-
-
-Därför strävar vi efter att skapa en positiv och vänlig arbetsplats för alla.
-
-
-Vi söker:
-1 Spa-Hudterapeut -
-1 Laser terapeut
-
-
-Vi söker dig som har:
-Spa-Hudterapeut utbildning / Nagelterapeut utbildning
-Professionalism och älskar hudvård. 
-Bra kommunikationsförmåga för att effektivt engagera dig med kunder. 
-Förmåga att leverera differentierade tjänster och är självgående. 
-Trivs med att utföra massage
-Trivs med att utföra spa behandlingar
-Det är viktigt att du talar bra Svenska. 
-
-
-
-
-
-Tjänsten kan vara:
-Anställning / konsult / inhyrd / deltid / heltid.
-Extra / Timasntällning.
-Helgarbete förekommer
-provision av försäljning av produkter. 
-
-
-
-Kotakt endast på email:
-Skicka ditt CV med bild till: brazilianharmony@gmail.comÄr du i början av din frisörkarriär och vill utvecklas i en kreativ och inspirerande miljö? Då kan Headzone vara rätt plats för dig!
-Vi på Headzone är en etablerad och trendig salong med två frisörsalonger i hjärtat av Stockholm. Nu söker vi en juniorfrisör/trainee som är redo att ta nästa steg och växa tillsammans med oss!
-Vi söker dig som:
-✅ Har nyligen avslutat din frisörutbildning
- ✅ Är passionerad kring hår, färg och form
- ✅ Vill lära dig mer och utvecklas under handledning
- ✅ Är social, serviceinriktad och älskar kundkontakt
- ✅ Talar svenska eller engelska
-Vi erbjuder dig:
-✨ Inspirerande salonger i Stockholms city
- ✨ Möjlighet att växa med erfarna kollegor som gärna delar med sig av sin kunskap
- ✨ En rolig och stödjande arbetsmiljö
- ✨ Bra utvecklingsmöjligheter och vägen till att bli en fullfjädrad frisör
-Är det dig vi beskriver?
-Skicka din ansökan till jobb@headzone.se eller skicka ett DM till oss på Instagram – vi längtar efter att höra från dig! 💇‍♀️✨Vi söker en hudterapeut för anställning. Vi söker dig som har ett stort servicekunnande gentemot kund, ansvarstagande och en vilja att alltid ge en hög kvalité på tjänster. Vi har ett krav att du är medlem i SHR.
- 
-Vi söker dig som alltid sätter kundens behov i fokus och har förmågan att förmedla en upplevelse till andra. För att passa för tjänsten är det viktigt att du är exceptionellt serviceinriktad samtidigt som du tar ansvar och är engagerad. Vi ställer stora krav på din yrkesskicklighet.
- 
-Du kan antingen vara nyutexaminerad hudterapeut eller med erfarenhet. Arbetsuppgifterna är hudvårdsbehandlingar, hårborttagning med laser, vaxning, fettreducering, massage samt pedikyr och försäljning av produkter. Gå gärna in på vår hemsida för mer information, www.hudterapeuten.com.
-
-
-Vi kan erbjuda dig en trivsam och avslappnad miljö att arbeta i samt trevliga medarbetare.
- 
-Arbetstiderna är varierande och vi vill att du arbetar minst ett par lördagar i månaden. Tillträdesdag är snarast eller enligt överenskommelse. Ellies Hudvårdssalong ligger i Vasastan på Rådmansgatan 84 i Stockholm.
- 
-Är du intresserad är du välkommen att skicka CV och personligt brev till ellie@hudterapeuten.com.Åhléns varuhus är den plats där vi möter kunden och guidar till noga utvalda produkter och lösningar för livets alla dagar. Vi vill att våra kunder alltid ska känna sig inspirerade och välkomna hos oss. Nu söker vi en erfaren, stilmedveten och passionerad Makeupartist/Hudterapeut till Guerlain till Åhléns City Stockholm! 
-
-Vi erbjuder dig
-
-Sedan 1828 har Guerlain skapat skönhetsprodukter med exceptionellt hantverk inom doft och hudvård. Huset kombinerar fransk parfym och skönhetsarv med banbrytande innovation och en känsla av lyx. Idag kombinerar Guerlain tradition med modern forskning och är engagerad i hållbarhet genom miljövänliga förpackningar och ansvarsfulla ingredienser.
-
-Som Säljande Makeupartist/Hudterapeut hos oss får du en unik möjlighet att arbeta med samtliga kategorier inom Guerlains exklusiva portfölj (hudvård, doft & makeup) och deras prestigedofter som enbart kommer att säljas på Åhléns City Stockholm. Ditt uppdrag är att representera Guerlain  i varje detalj vad kommer till kundmöte och försäljning. Du är vårt ansikte utåt mot kunden, bygger starka relationer och representerar både Guerlain och Åhléns med ett professionellt och passionerat affärssinne.
-
-Exempel på arbetsuppgifter:
-
- - Att aktivt sälja och ge personligt anpassad service inom makeup, hudvård och doft
- - Demonstrera produkter och skapa inspirerande kundupplevelser
- - Delta i kampanjer, event och aktiviteter på avdelningen
- - Tillsammans med teamet ansvara för varuplock
-Som säljande Makeupartist / hudterapeut på Åhléns är ditt uppdrag att bidra till försäljningen på vår skönhetsavdelning och att leverera den bästa kundupplevelsen för alla – alltid. I rollen som Makeupartist behöver du ständigt vara uppdaterad inom ditt expertområde för att kunna ge värdefulla tips och råd till våra kunder. Du jobbar i team tillsammans med övriga avdelningar och andra roller i varuhuset kan till exempel vara Visual Merchandiser som ansvarar för varuhusets totala säljmiljö och Säljare på andra avdelningar. 
-Till oss tar du med dig: 
-
- - Utbildning som makeupartist, hudterapeut och/eller inom doft
- - Erfarenhet av försäljning av skönhet inom premium eller lyxsegment
- - Ett stort intresse för skönhet och trender samt våra produkter
- - Har ett naturligt sätt att bemöta kunder med stil, service och förtroende
-För att lyckas i rollen och trivas på Åhléns ser vi att du motiveras av försäljning lika mycket som vi och har en hög servicekänsla. Du är trygg i säljrollen och van att leverera mot mål. Du tycker om att arbeta i team och att uppnå resultat genom samarbete. Du är flexibel och trivs med att arbeta i ett högt tempo. Du är nyfiken på kunden och delar med dig av dina kunskaper och idéer. Vidare är du en god kommunikatör och kommunicerar obehindrat på svenska och engelska. 
-
-Vi har två tjänster som är en tillsvidareanställning på 30h/v respektive en helgtjänst på 10h/v. Anställningen ligger hos Åhléns och arbetstiderna kan variera mellan 08:00-20:05. Du jobbar på schema som sträcker sig över helger och vardag. Vi ser gärna att du kan börja hos oss så snart som möjligt.
-
-Urval och intervjuer sker löpande, skicka därför in din ansökan redan idag.
-
-Varmt välkommen till Åhléns!
-
-Familjeföretaget Åhléns grundades 1899 i Insjön och är idag ett av Sveriges starkaste varumärken, med 47 varuhus i Sverige och e-handel via åhlens.se. Åhléns är den naturliga mötesplatsen, som ger kunden mervärde och inspirerar till nya upptäckter och möten samt erbjuder en engagerande mix av kvalitetsvarumärken inom kläder, inredning, barnartiklar och skönhet. Åhléns omsätter 4,7 miljarder och varje år tar våra ca 3 000 skickliga medarbetare emot 60 miljoner besökare. Åhléns Outlet och Designtorget är dotterbolag. 
- 
- www.ahlens.seRaw Hair By Adriana Kuhl Östermalm är en stor härlig salong på Sibyllegatan, som andas lyx med en avslappnad atmosfär.
-Vi är störst i Sverige på hårförlängningar och jobbar även väldigt mycket med färgbehandlingar, Olaplex och keratinbehandlingar.
-Vår kundkrets ökar nu i snabb takt och söker därmed fler frisörer som vill ingå i vårat glada gäng!
-
-
-VI ERBJUDER:
-✔ Trygghet med bra grundlön + provision.
-✔ Erfaren frisör snittlön 28 000-35 000kr/mån.
-✔ Inspirerande arbete med mestadels långa behandlingar
-✔ Personalrabatter på löshår, Raw Athletics, HIPKINI och Bia Brazil
-✔ Ej fördröjd månadslön. Första lönen betalas alltså ut den 25e samma månad du anställs.
-
-
-
-
-DIG VI SÖKER:
-✔ Utbildad frisör
-✔ Älskar att jobba med färg och löshår
-✔ Entusiastisk och positiv
-✔ Bidrar till en fantastisk teamkänsla
-
-
-
-
-INFORMATION OM TJÄNSTEN:
-✔ Grundlön + provision. Erfaren frisör snittlön 28 000-35 000kr/mån.
-✔ Tillträde omgående
-✔ Tillsvidareanställning med inledande provanställning
-✔ Heltid, deltid eller helger
-
-
-ANSÖKAN:
-
-
-Ansökan skickas till adriana.kuhl@hotmail.com
-Bifoga gärna ett foto på dig själv.
-
-
-Besök vår hemsida www.rawhair.se för mer information om salongerna och hur vi jobbar.Vi söker en positiv och driven medarbetare till vår salong i Stockholm. Vi erbjuder kunder det bästa inom professionell manikyr.
-Det är viktigt att den sökande är serviceinriktad, stresstålig och noggrann.
-Du skall arbeta med de moment som ingår i yrket.
-Det innebär bland annat att du skall arbeta med naglar och både använda dig av gel och akryl.
-Du skall utföra manikyr och pedikyr. Du skall hålla ordning och reda på din arbetsplats. Vara tillmötesgående och serviceinriktad gentemot kunderna.
-Du skall ha erfarenhet eller motsvarande utbildning inom yrket. Du skall vara lätt lärd för nya moment och kunskaper inom branschen.
-Att kunna Vietnamesiska är meriterande.
+Hur söker du?
+Vi tror att din lämplighet avslöjas av din tidigare verksamhet. Du behöver inte skriva långa brev till oss, och berätta sådant som jobbsökartips anger som väsentligt. Skicka CV till jobba@arkeologicentrum.se och var beredd på att i ett senare skede styrka uppgifterna du lämnar där. Välkommen att höra av dig!
+Och ja, då kanske vi ses?
+(Och nej tack, vi köper inga rekryteringstjänster. Bara så ni andra vet.)Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
+Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
+Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
+Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Talar du flytande oromo och svenska? Sök idag! 
+Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
+Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
+Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
+Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Talar du flytande samiska och svenska? Sök idag! 
+Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
+Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
+Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
+Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Talar du flytande Malajiska och/eller Indonesiska och svenska? Sök idag! 
+Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
+Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
+Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
+Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Talar du flytande Arabi Yuba eller Anuak och svenska? Sök idag! 
+Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
+Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
+Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
+Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Please note that we seek a speaker of a particular variety of Arabic, known as Hassaniya, as spoken in Western Sahara.
+The job entails
+·       carrying out and recording interviews for dialect analysis,
+·       listening to recorded speech and using a specific template to report the details of the dialect spoken.
+The work will be carried out remotely via audio link.
+Verified AB is one of the largest companies in Europe to provide language analysis. Our clients are primarily authorities concerned with asylum matters. The analyses support the authorities in determining the background of asylum seekers. In each case, a language analyst with a specific linguistic and areal competence is involved. The native speaker analysts work together with Verified’s linguists.
+To work as a language analyst for Hassaniya, you should
+·       be a mother-tongue speaker of Hassaniya (mandatory)
+·       be familiar with dialectal variation in Hassaniya and nearby dialects of Arabic
+·       have in-depth knowledge of the area where Hassaniya is spoken (born and raised/long-term residence) and be well acquainted with its social, cultural and political situation
+·       maintain close contacts with the Hassaniya community in Western Sahara and be aware of current developments
+·       be able to express yourself clearly and correctly in English (or Swedish)
+·       have good computer skills
+We value punctuality, orderliness and dependability among our analysts.
+There are presently only a few requests per year for analysis of Hassaniya and work will be assigned on a case-by-case basis. This job is suitable as a sideline for a language enthusiast.
+Please write your application in English and include a curriculum vitae (CV). Make sure that the CV shows your educational background and employment history.
+The successful applicant must submit a clean criminal record prior to employment.Fotograf, ett drömyrke för dig?
+Vi söker nu fler fotografer till vår fotografkår i Hässleholm med omnejd. Exakta Photo är Sveriges bästa skolfotoleverantör med mer än 60 års erfarenhet. Exakta Photo finns i hela Sverige och tillsammans fotograferar vi 900 000 elever varje år.
+Vi söker dig med ett genuint fotointresse som vill kombinera det med ett kul arbete bland barn och ungdomar. Vi värdesätter dina goda egenskaper som social förmåga, och att kunna jobba med eget ansvar under ordning och reda. Men även en estetisk ""blick"" för bild och form. Erfarenhet från barn- och ungdomsverksamhet är en stor merit.
+Du kommer att få tillgång till en digital fotoutrustning, vilket kräver god datorvana. Vi erbjuder dig en professionell fotoutbildning v32 i Nyköping men även en onlinekurs innan skolstarten i augusti.
+Tjänsten kräver att du har körkort samt tillgång till bil.
+Arbetsperiod i första hand v34 till v40 med möjlighet till förlängning.
+Tidigare branscherfarenhet inom foto/skolfoto är inget krav men är självklart en merit. Vi ser gärna ett samarbete med redan etablerade fotografer.
+Passa på att söka till vår glada fotografkår och berätta lite om dig själv samt bifoga ditt Cv och några bilder. (Eller länk).
+Välkommen med din ansökan!
+Övrigt
+För att arbeta med barn och ungdomar så behöver du visa upp ett godkänt utdrag ur belastningsregistret.
 Om anställningen
 Lön
-Lönetyp: Fast månads- vecko- eller timlön
-Var ligger arbetsplatsen?
-Ringvägen 116
-11661 Stockholm
-Arbetsgivaren
-THY NAILS & SPA AB
-Kontakt
-
-
-Thuyen Nguyen Thi
-nthuyen576@gmail.com
-0727 08 28 80
-
-Öppen för alla
-Vi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.Hudterapeut/ Massageterapeut sökes till 
-Söders Spa
-Heltid alt. deltid 
-I ditt möte med kunden och i dina arbetsuppgifter ska du vara professionell,
-ambitiös , organiserad och med känsla för god service .
-Känns det att det passar in på dig är du välkommen att skicka in din ansökan till
-Info@sodersspa.se4Ever Young Beauty är en väletablerad skönhetssalong vid Odenplan i centrala Stockholm. Vi söker nu en engagerad och noggrann fransstylist som vill bli en del av vårt team.
-Vi söker dig som:
-Har erfarenhet av fransförlängning (singel, hybrid och volym)
-Eller är ny i yrket men villig att utvecklas – vi erbjuder upplärning
-Är noggrann, professionell och brinner för att ge kunder bästa möjliga upplevelse
-Talar svenska eller engelska på en nivå som gör att du kan kommunicera med kunder
-
-Vi erbjuder:
-Heltidstjänst, ca 40 timmar/vecka
-Arbete enligt salongens öppettider
-
-
-
-Ansökan:
-Skicka ditt CV samt gärna bilder på ditt arbete (eller länk till Instagram) till:
-linndq.bt@gmail.comHej vi på Salong Torsgatan söker en duktig, trevlig och engagerad damfrisör.
-Är du kunnig och kan ta hand om kunderna tveka inte att kontakta oss.
-Vid intresse kontakta mig på : 0762510510
-Mejl: Salongtorsgatan@gmail.com4Ever Young Beauty är en väletablerad skönhetssalong vid Odenplan i centrala Stockholm. Vi söker nu en engagerad och noggrann fransstylist som vill bli en del av vårt team.
-Vi söker dig som:
-Har erfarenhet av fransförlängning (singel, hybrid och volym)
-Eller är ny i yrket men villig att utvecklas – vi erbjuder upplärning
-Är noggrann, professionell och brinner för att ge kunder bästa möjliga upplevelse
-Talar svenska eller engelska på en nivå som gör att du kan kommunicera med kunder
-
-Vi erbjuder:
-Heltidstjänst, ca 40 timmar/vecka
-Arbete enligt salongens öppettider
-
-
-
-Ansökan:
-Skicka ditt CV samt gärna bilder på ditt arbete (eller länk till Instagram) till:
-linndq.bt@gmail.comSöderlings frisersalong är en etablerad frisörsalong i Vällingby centrum med många kunder som kan komma både med och utan tidsbokning. Vi behöver anställa mer personal och letar efter en erfaren frisör som kan arbeta hos oss, inklusive helgarbete. Vi söker någon som kan utföra dam- och herrklippningar samt kemiska behandlingar som färgning och slingor. Det kan bli aktuellt med en provanställning, och det är viktigt att du behärskar svenska språket. Endast seriösa ansökningar beaktas. Tack för att du respekterar företagets önskemål!Bli en del av DASHL-familjen och skapa skönhetsmagi med oss!
-Är du en passionerad skönhetsproffs som brinner för service och resultat? Då har vi drömjobbet för dig – just nu!
-Vi bygger vårt stjärnteam i Stockholm och söker omgående efter talangfulla individer inom naglar, lash- och browlift.
-Är du redo att ta nästa steg i din karriär? Vänta inte – skicka in ditt CV och personliga brev direkt! Vi intervjuar kandidater löpande och ser fram emot din ansökan.
-Bli en del av vårt team – nu! 
-Hos Dashl får du:
- Erbjuda kvalitetsbehandlingar inom naglar, bryn och fransar till våra glada kunder.
- Bli en skönhetsinspiratör för kunderna genom att dela din passion för våra produkter.
- Möjligheten att utvecklas och växa i en dynamisk och inspirerande miljö med fokus på gemenskap och trivsel.
- Bli en del av ett fantastiskt team i en snabbt växande skönhetskedja med flera Beauty Bars i Stockholm och Göteborg.
- Konkurrenskraftig lön och goda anställningsvillkor.
- Utbilda dig kontinuerligt och hålla dig i framkant med de senaste trenderna. 
- 
-Vi söker dig som:
- Har en certifierad utbildning som nagelteknolog, samt behärskar minst basic nailart och har god kunskap om skonsamma nagelbehandlingar.
- Eller har en certifierad utbildning som lash- och browlift, samt behärskar trådning av bryn.
- Har tidigare erfarenhet av produktförsäljning.
- Har en passion för att ge fantastisk service och skapa goda kundrelationer.
- Älskar att uppnå mål och drivs av att ständigt utvecklas.
- Är självständig, utåtriktad och noggrann.
- Har god kommunikationsförmåga och trivs i både team- och självständigt arbete.
- Är en lösningsorienterad ""do-er"" med en positiv attityd. 
- 
-Är DU den vi söker? Bli då en del av vårt team och bidra med din kompetens. Vi ser fram emot din ansökan!
-Ta gärna en titt på våra sidor nedan: Vår hemsida: www.dashl.se Vår shopsida: www.dashlbeauty.com/sv Vår beauty skola: www.beautyacademy.se
-Dashl.se är Sveriges snabbast växande skönhetstjänst. Vi erbjuder en härlig miljö för våra anställda att jobba i och kunder kommer till oss för vår expertis samt det kvalitet vi erbjuder.Hej
-Jag söker en frisör som har erfarenhet inom frisering,särskild herrklippning 
-Erfarenhet inom damklippning är merit .
-Svenska är en krav,engelska är en merit ,då många av våra kunder är engelska talande .
-Som person ,behöver en social ,kreativ ,glad och professionell .
-Öppen för alla
-Vi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.Åhléns varuhus är den plats där vi möter kunden och guidar till noga utvalda produkter och lösningar för livets alla dagar. Vi vill att våra kunder alltid ska känna sig inspirerade och välkomna hos oss. Nu söker vi en erfaren, stilmedveten och passionerad Makeupartist/Hudterapeut till Pradas första beautydisk i Sverige och detta på Åhléns City Stockholm! 
-
-Vi erbjuder dig
-
-Prada, grundat 1913 i Milano, är ett italienskt modehus känt för sin sofistikerade och nyskapande design.  Prada Beauty, en naturlig förlängning av varumärkets arv, erbjuder en exklusiv kollektion av makeup och dofter som speglar Pradas ikoniska stil och kompromisslösa kvalitet. Som Säljande Makeupartist/Hudterapeut hos oss får du en unik möjlighet att vara med från starten när ett av världens mest ikoniska varumärken lanseras inom beautysegmentet i Sverige. 
-
-I rollen som Säljare är ditt uppdrag att spegla Pradas exklusiva identitet i varje detalj vad kommer till kundmöte och försäljning. Du är vårt ansikte utåt mot kunden, bygger starka relationer och representerar både Prada och Åhléns med ett professionellt och passionerat affärssinne.
-
-Exempel på arbetsuppgifter:
-
- - Att aktivt sälja och ge personligt anpassad service inom makeup, hudvård och doft
- - Demonstrera produkter och skapa inspirerande kundupplevelser
- - Delta i kampanjer, event och aktiviteter på avdelningen
- - Tillsammans med teamet ansvara för varuplock
-Som säljande Makeupartist på Åhléns är ditt uppdrag att bidra till försäljningen på vår skönhetsavdelning och att leverera den bästa kundupplevelsen för alla – alltid. I rollen som Makeupartist behöver du ständigt vara uppdaterad inom ditt expertområde för att kunna ge värdefulla tips och råd till våra kunder. Du jobbar i team tillsammans med övriga avdelningar och andra roller i varuhuset kan till exempel vara Visual Merchandiser som ansvarar för varuhusets totala säljmiljö och Säljare på andra avdelningar. 
-Till oss tar du med dig: 
-
- - Utbildning som makeupartist, hudterapeut och inom doft
- - Erfarenhet av försäljning av skönhet inom premium eller lyxsegment
- - Ett stort intresse för skönhet och trender samt våra produkter
- - Har ett naturligt sätt att bemöta kunder med stil, service och förtroende
-För att lyckas i rollen och trivas på Åhléns ser vi att du motiveras av försäljning lika mycket som vi och har en hög servicekänsla. Du är trygg i säljrollen och van att leverera mot mål. Du tycker om att arbeta i team och att uppnå resultat genom samarbete. Du är flexibel och trivs med att arbeta i ett högt tempo. Du är nyfiken på kunden och delar med dig av dina kunskaper och idéer. Vidare är du en god kommunikatör och kommunicerar obehindrat på svenska och engelska. 
-
-Vi har två tjänster som är tillsvidareanställningar på 30h samt 8h i veckan med inledande provanställning. Anställningen ligger hos Åhléns och arbetstiderna kan variera mellan 08:00-20:05. Du jobbar på schema som sträcker sig över helger och vardag. Vi ser gärna att du kan börja hos oss så snart som möjligt.
-
-Urval och intervjuer sker löpande, skicka därför in din ansökan redan idag! 
-
-Varmt välkommen till Åhléns – och till Pradas första beautydisk i Sverige.
-
-Familjeföretaget Åhléns grundades 1899 i Insjön och är idag ett av Sveriges starkaste varumärken, med 47 varuhus i Sverige och e-handel via åhlens.se. Åhléns är den naturliga mötesplatsen, som ger kunden mervärde och inspirerar till nya upptäckter och möten samt erbjuder en engagerande mix av kvalitetsvarumärken inom kläder, inredning, barnartiklar och skönhet. Åhléns omsätter 4,7 miljarder och varje år tar våra ca 3 000 skickliga medarbetare emot 60 miljoner besökare. Åhléns Outlet och Designtorget är dotterbolag. 
- 
- www.ahlens.seÅhléns varuhus är den plats där vi möter kunden och guidar till noga utvalda produkter och lösningar för livets alla dagar. Vi vill att våra kunder alltid ska känna sig inspirerade och välkomna hos oss. Nu söker vi en erfaren, stilmedveten och passionerad Diskansvarig/Makeupartist till Pradas första beautydisk i Sverige och detta på Åhléns City Stockholm! 
-
-
-
-Vi erbjuder dig
-
-Prada, grundat 1913 i Milano, är ett italienskt modehus känt för sin sofistikerade och nyskapande design.  Prada Beauty, en naturlig förlängning av varumärkets arv, erbjuder en exklusiv kollektion av makeup och dofter som speglar Pradas ikoniska stil och kompromisslösa kvalitet. Som Säljande Diskansvarig/Makeupartist hos oss får du en unik möjlighet att vara med från starten när ett av världens mest ikoniska varumärken lanseras inom beautysegmentet i Sverige. 
-
-I rollen ansvarar du för den dagliga driften och säkerställer att disken speglar Pradas exklusiva identitet i varje detalj. Du leder och inspirerar ett mindre team på plats och arbetar själv aktivt med försäljning, kundmöten och att bygga starka kundrelationer. Du är vårt ansikte utåt mot kunden och representerar både Prada och Åhléns med ett professionellt och passionerat affärssinne.
-
-Exempel på arbetsuppgifter:
-
- - Att aktivt sälja och ge personligt anpassad service inom makeup, hudvård och doft
- - Ansvar för varuplock, diskuppföljning och kommersiell drift
- - Leda teamet i det dagliga arbetet på disken
- - Demonstrera produkter och skapa inspirerande kundupplevelser
- - Delta i kampanjer, event och aktiviteter på avdelningen
- - Samarbete med andra skönhetsdiskar och interna kontaktytor på Åhléns
-Som säljande Diskansvarig/Makeupartist på Åhléns är ditt uppdrag att bidra till försäljningen på vår skönhetsavdelning och att leverera den bästa kundupplevelsen för alla – alltid. I rollen som Makeupartist behöver du ständigt vara uppdaterad inom ditt expertområde för att kunna ge värdefulla tips och råd till våra kunder. Du jobbar i team tillsammans med övriga avdelningar och andra roller i varuhuset kan till exempel vara Visual Merchandiser som ansvarar för varuhusets totala säljmiljö och Säljare på andra avdelningar. 
-Till oss tar du med dig: 
-
- - Utbildning som makeupartist, hudterapeut och inom doft
- - Erfarenhet av försäljning av skönhet inom premium eller lyxsegment
- - Ett stort intresse för skönhet och trender samt våra produkter
- - Har ett naturligt sätt att bemöta kunder med stil, service och förtroende
- - Erfarenhet av ledarskap där du coachat och utbildat andra säljare 
-För att lyckas i rollen och trivas på Åhléns ser vi att du motiveras av försäljning lika mycket som vi och har en hög servicekänsla. Du är trygg i säljrollen och van att leverera mot mål. Du tycker om att arbeta i team och att uppnå resultat genom samarbete. Du är flexibel och trivs med att arbeta i ett högt tempo. Du är nyfiken på kunden och delar med dig av dina kunskaper och idéer. Vidare är du en god kommunikatör och kommunicerar obehindrat på svenska och engelska. 
-
-Tjänsten är en tillsvidareanställning på 30h i veckan med inledande provanställning. Anställningen ligger hos Åhléns och arbetstiderna kan variera mellan 08:00-20:05. Du jobbar på schema som sträcker sig över helger och vardag. Vi ser gärna att du kan börja hos oss så snart som möjligt.
-
-Urval och intervjuer sker löpande, skicka därför in din ansökan redan idag! 
-
-Varmt välkommen till Åhléns – och till Pradas första beautydisk i Sverige.
-
-Familjeföretaget Åhléns grundades 1899 i Insjön och är idag ett av Sveriges starkaste varumärken, med 47 varuhus i Sverige och e-handel via åhlens.se. Åhléns är den naturliga mötesplatsen, som ger kunden mervärde och inspirerar till nya upptäckter och möten samt erbjuder en engagerande mix av kvalitetsvarumärken inom kläder, inredning, barnartiklar och skönhet. Åhléns omsätter 4,7 miljarder och varje år tar våra ca 3 000 skickliga medarbetare emot 60 miljoner besökare. Åhléns Outlet och Designtorget är dotterbolag. 
- 
- www.ahlens.seiO Studio söker hudterapeut
-
-
-Vill du bli en del av ett varmt och professionellt team som brinner för holistisk hälsa och naturlig hudvård?
-Nu söker vi på iO Studio en hudterapeut till vårt växande team!
-
-
-Om iO Studio:
-iO är en studio för hud- och kroppsvård där vi arbetar med naturliga produkter, holistiska behandlingar och alltid sätter individen i fokus. Vi erbjuder en plats för lugn, återhämtning och genuin omtanke – både för våra kunder och för varandra som team.
-
-
-Om tjänsten:
-Vi söker dig som är glad, engagerad och ansvarstagande, med ett brinnande intresse för hudvård, kroppsvård och hälsa. Du bör trivas med att arbeta både självständigt och i nära samarbete med andra.
-
-
-Vi söker dig som kan erbjuda behandlingar inom:
-• Ansiktsbehandlingar
-• Kroppsbehandlingar
-• Massage
-(Extra plus om du har utbildning i lymfmassage!)
-
-
-Du bör ha ett intresse och förståelse för holistisk hälsa och vilja lära dig iO Studios signaturbehandlingar.
-
-
-Omfattning & arbetstider:
-Tjänsten är på extra-/deltid till att börja med, med främst arbete kvällstid och helger. Möjlighet till fler tider längre fram.
-
-
-Vi söker dig som är:
-• Certifierad och utbildad hudterapeut
-• Serviceinriktad, positiv och professionell
-• Ansvarsfull och organiserad
-• Flytande i svenska och/eller engelska
-• En person som vill vara en del av ett tryggt och kreativt team
-
-
-Anställningsform:
-• Egenanställd med timlön
-eller
-• Egenföretagare med F-skatt och fakturering månadsvis
-
-
-Ansökan:
-Skicka din ansökan till emely@iostudios.co
-Urval och intervjuer sker löpande – vänta inte med att höra av dig!🌟 Vi söker en erfaren hudterapeut till rollen som utbildare & kundsupport 🌟
-Vill du vara med och inspirera andra inom hudvård, skapa utbildningsmaterial och bygga starka kundrelationer? Då är det här tjänsten för dig!
-
-
-Om oss
-Vi är en väletablerad agentur inom professionell hudvård som arbetar med högkvalitativa produkter och utbildningar riktade till salonger och kliniker i Sverige. Nu söker vi en självständig och engagerad hudterapeut till vårt team!
-
-
-Din roll
-Som utbildare och kundsupport blir du en viktig del av vårt ansikte utåt – både för våra befintliga kunder och i vår utbildningsverksamhet.
-Du kommer att:
-Hålla i kurser, utbildningar och workshops
-Skapa eget utbildningsmaterial, presentationer och innehåll
-Ha löpande kundkontakt och support via telefon, mejl och fysiska besök
-Följa upp och stötta våra återförsäljare
-Arbeta både självständigt och i team
-
-
-
-🧠 Vem är du?
-Vi söker dig som är:
-Auktoriserad hudterapeut med några års erfarenhet
-Initiativtagande och självgående – du ser vad som behöver göras och gör det
-Handlingskraftig och flexibel – du trivs i en föränderlig vardag och gillar att ta ansvar
-En trygg och inspirerande kommunikatör – både muntligt och skriftligt
-Van att skapa eget material och presentera inför grupp
-Har B-körkort (ett stort plus!)
-
-
-
-💬 Vi erbjuder
-En varierad och utvecklande roll
-Ett kreativt och drivet team
-Möjlighet att påverka och utveckla rollen
-Produkter och varumärken av hög kvalitet
-
-
-
-📍 Plats:
-Utgångspunkt från vårt kontor, med möjlighet till resor inom Sverige.
-📅 Omfattning:
-Heltid, tillsvidare med inledande provanställning.4Ever Young Beauty, en väletablerad salong belägen vid Odenplan i Stockholm, söker nu en fransstylist med erfarenhet för en heltidstjänst med omgående start.
-Kvalifikationer:
-Du har dokumenterad erfarenhet av fransförlängning: singel och volym
-Du kan gärna även erbjuda lashlift och browlift
-Du är noggrann, ansvarsfull och har ett professionellt bemötande
-Du kan kommunicera på svenska eller engelska
-Du brinner för skönhet och god kundservice
-
-
-
-Plats:
-4Ever Young Beauty
-Odenplan, Stockholm
-Ansökan:
-Skicka ditt CV och gärna bilder på ditt arbete (eller länk till din Instagram) till:
- linndq.bt@gmail.comOm jobbet
-Vi på Hair Lounge Västermalmsgallerian söker nu en härlig kollega till vårat team!
-Vi har funnits i samma lokaler i 15 år och har en stabil kundkrets. 
-Vi söker en utbildad frisör som såklart är grym på att klippa, färga och styla hår men som också ser möjligheterna utöver det. Kanske fixa hår inför event.
-
-
-Tjänsten är en tillsvidareanställning med inledande provanställning, förslagsvis på 40 timmar i veckan men vi är öppna för förslag! 
-Väldigt bra Fast lön + provision
-Vem är du? 
-Vi söker dig som vill vara med och skapa en upplevelse utöver det vanliga för varje kund. Dig som vill hänga med, umgås och lära känna våra kunder på djupet. Dig som älskar skönhet, älskar att dela med dig av dina idéer och som vill att varje kund möts av en WOW-upplevelse. Du är utbildad frisör , trygg i din yrkesroll och håller dig uppdaterad kring nya trender inom branschen.
-
-
-Ansök redan idag då urvalet görs löpande, dock allra senast den 31 maj 2025! Har du frågor så kontakta oss
-
-
-Instagram: @hairlounges
-Hemsida : www.hairlounge.seVi på Beautylounge Stockholm söker just nu efter drivna och professionella hudterapeuter, vaxterapeuter för anställning.
-Vi vaxar och gör fotvård periodvis väldigt mycket på salongen. Så vi ser helst att det är något du brinner för. Du kommer att få arbeta med intimvaxning/Brasiliansk vaxning så det är meriterande om du redan kan utföra den behandlingen samt kan vaxa med socker, men det är ej ett krav. Vidare utbildning inom sockervax och intimvax detta finnas kommer att erbjudas.
-Som Hudterapeut kommer du att få göra sedvanliga arbetsuppgifter på en salong, städ, reception, ta hand om kunder/bokningar. Flertalet behandlingar så som ansiktsbehandlingar, fotvård (viktigt att du kan hantera credo och skalpell i fotvården, kunna ta bort mindre liktornar) Klassisk helkroppsmassage, lash lift, brow lift mm vi har även dermapen 4, PRX-T33, Velashape 3, Diodlaser för permanent hårborttagning och spraytan. Samt övriga spa eller kroppsbehandlingar.
-Du kommer att ingå i ett fantastiskt team med andra hudterapeuter, nagelterapeuter och fransstylister. Vi erbjuder flera olika behandlingar hos oss och det finns även stora möjlighet till vidare utbildningar.
-Salongen ligger centralt på Kungsholmen, hantverkargatan.
-Vi söker både heltid och deltidsanställda samt extra vid helger & kvällar med tillträde omgående eller efter överenskommelse. Arbetstider 10-19 på vardagar och 9-17 helg. Kan bli undantag vid sommartider och högtider mm.
-Om du har ett öppet sinne, trivs med ett högt snabbt arbetstempo och brinner för att ta hand om kunder och kollegor och samtidigt intresserad av att utvecklas, har hög service anda kan vara självgående då är det här jobbet för dig.
-Låter det spännande, ta steget och skicka in ett personligt brev och CV till:
-Elisabeth Bexter
-info@beautylounge.se
-www.beautylounge.se
-
-
-Öppen för alla
-Vi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.Sabbatsbergs Ryggcentrum är en privat och landstingsansluten mottagning belägen centralt i Vasastan, precis intill Sabbatsbergs sjukhus. Vi är tre leg. sjukgymnaster, tre dipl. medicinska fotvårdsspecialister och en receptionist.
-Vi behöver nu en vikarie för att täcka upp våra ordinarie fotvårdares semestrar och söker därför en medicinsk fotvårdsspecialist med en utbildning som är godkänd i Sverige. Meriterande är om du är utbildad undersköterska eller liknande. Vi lägger stor vikt vid ansvarskänsla och empatiskt professionellt bemötande.
-Vi tar emot patienter i alla möjliga åldrar och det är viktigt för oss att alla känner sig välkomna och bemötta med tålamod och hjälpsamhet.
-Tjänsten är heltid från 2025-06-30 - 2025-08-08.4Ever Young Beauty, en etablerad skönhetssalong belägen vid Odenplan i Stockholm, söker nu en erfaren fransstylist för en heltidstjänst med omgående start.
-Om tjänsten
-Vi söker dig som har ett genuint intresse för skönhet, är noggrann i ditt arbete och har erfarenhet inom:
-Fransförlängning (singel & volym)
-Lashlift & browlift (meriterande)
-
-Du kommer att arbeta i en professionell och trivsam miljö där kundservice, kvalitet och kreativitet står i centrum.
+Lönetyp: Fast månads- vecko- eller timlönVi är en modern tolkförmedling som bokar och förmedlar tolkar genom vår webb och app.
+Nu söker vi tolkar i Norska över hela Sverige.
+Vi söker tolkar på alla nivåer. Auktoriserade specialister, auktoriserade och utbildade. Har du mycket goda språkfärdigheter, men saknar utbildning, erbjuder vi dig en kostnadsfri onlineutbildning.
+Du ska, förutom goda språkkunskaper, ha god samhällsuppfattning, vara serviceinriktad och kan röra dig i många miljöer och sammanhang. Att vara tolk är ett roligt arbete, och kräver att du har hög integritet, är noggrann, mycket ansvarsfull och kan passa tider.
+Vi utför tolkuppdrag både på plats hos kunder och via telefon samt video
+Körkort och bil krävs ej men är en fördel för uppdrag på plats
+Arbetet är vid behov och alla bokningar sker genom webben eller mobilen. Via telefon eller video kan du få uppdrag i hela Sverige.
+ANSÖK PÅ: https://rekrytering.digitaltolk.se/Vi är en modern tolkförmedling som bokar och förmedlar tolkar genom vår webb och app.
+Nu söker vi tolkar i Telegu över hela Sverige.
+Vi söker tolkar på alla nivåer. Auktoriserade specialister, auktoriserade och utbildade. Har du mycket goda språkfärdigheter, men saknar utbildning, erbjuder vi dig en kostnadsfri onlineutbildning.
+Du ska, förutom goda språkkunskaper, ha god samhällsuppfattning, vara serviceinriktad och kan röra dig i många miljöer och sammanhang. Att vara tolk är ett roligt arbete, och kräver att du har hög integritet, är noggrann, mycket ansvarsfull och kan passa tider.
+Vi utför tolkuppdrag både på plats hos kunder och via telefon samt video
+Körkort och bil krävs ej men är en fördel för uppdrag på plats
+Arbetet är vid behov och alla bokningar sker genom webben eller mobilen. Via telefon eller video kan du få uppdrag i hela Sverige.
+ANSÖK PÅ: https://rekrytering.digitaltolk.se/Vi är en modern tolkförmedling som bokar och förmedlar tolkar genom vår webb och app.
+Nu söker vi tolkar i Acoli över hela Sverige.
+Vi söker tolkar på alla nivåer. Auktoriserade specialister, auktoriserade och utbildade. Har du mycket goda språkfärdigheter, men saknar utbildning, erbjuder vi dig en kostnadsfri onlineutbildning.
+Du ska, förutom goda språkkunskaper, ha god samhällsuppfattning, vara serviceinriktad och kan röra dig i många miljöer och sammanhang. Att vara tolk är ett roligt arbete, och kräver att du har hög integritet, är noggrann, mycket ansvarsfull och kan passa tider.
+Vi utför tolkuppdrag både på plats hos kunder och via telefon samt video
+Körkort och bil krävs ej men är en fördel för uppdrag på plats
+Arbetet är vid behov och alla bokningar sker genom webben eller mobilen. Via telefon eller video kan du få uppdrag i hela Sverige.
+ANSÖK PÅ: https://rekrytering.digitaltolk.se/Vi är en modern tolkförmedling som bokar och förmedlar tolkar genom vår webb och app.
+Nu söker vi tolkar i Dinka över hela Sverige.
+Vi söker tolkar på alla nivåer. Auktoriserade specialister, auktoriserade och utbildade. Har du mycket goda språkfärdigheter, men saknar utbildning, erbjuder vi dig en kostnadsfri onlineutbildning.
+Du ska, förutom goda språkkunskaper, ha god samhällsuppfattning, vara serviceinriktad och kan röra dig i många miljöer och sammanhang. Att vara tolk är ett roligt arbete, och kräver att du har hög integritet, är noggrann, mycket ansvarsfull och kan passa tider.
+Vi utför tolkuppdrag både på plats hos kunder och via telefon samt video
+Körkort och bil krävs ej men är en fördel för uppdrag på plats
+Arbetet är vid behov och alla bokningar sker genom webben eller mobilen. Via telefon eller video kan du få uppdrag i hela Sverige.
+ANSÖK PÅ: https://rekrytering.digitaltolk.se/Vi är en modern tolkförmedling som bokar och förmedlar tolkar genom vår webb och app.
+Nu söker vi tolkar i Visaya/ Cebuano.
+Vi söker tolkar på alla nivåer. Auktoriserade specialister, auktoriserade och utbildade. Har du mycket goda språkfärdigheter, men saknar utbildning, erbjuder vi dig en kostnadsfri onlineutbildning.
+Du ska, förutom goda språkkunskaper, ha god samhällsuppfattning, vara serviceinriktad och kan röra dig i många miljöer och sammanhang. Att vara tolk är ett roligt arbete, och kräver att du har hög integritet, är noggrann, mycket ansvarsfull och kan passa tider.
+Vi utför tolkuppdrag både på plats hos kunder och via telefon samt video
+Körkort och bil krävs ej men är en fördel för uppdrag på plats
+Arbetet är vid behov och alla bokningar sker genom webben eller mobilen. Via telefon eller video kan du få uppdrag i hela Sverige.
+ANSÖK PÅ: jobb.digitaltolk.seJob description 
+About the role:
+We broadcast 24/7/365 in more than 15 languages from our broadcasting studios. At the core of our floor operations are our Game Presenters and Game Hosts, who lead the game in front of the camera, and our Shufflers, who prepare the cards.
+
+We are looking for Game Presenters who want to work in a fast-paced and international work environment for our studio in Malta. As a Game Presenter, you will spend most of your time in front of the camera leading games and interacting with our live players to provide an engaging and rewarding experience
+
+Requirements
+. To have fluent knowledge and understanding of the Language that you are applying for. 
+. The desire to provide exceptional customer service
+. To be a mature and hardworking individual who can work well as part of a team
+. Good communication skills
+. Positive, pro-active approach to work, with a flexible, can-do attitude
+. A sense of responsibility and aspire to be the best at what you do
+. The ability to work as part of a wider team and be adaptable to changing business needs - this could include changing shift patterns and providing cover for colleagues
+. To be an entertainer at heart
+. Previous international experience with a right to work in the EU is a plus but not necessary
+
+Training provided
+Three weeks paid training (You will get to spend up to your first three weeks of your journey with us in our Evolution Academy where we teach you game technique and all that you need to know to be camera-ready & be able to provide an excellent service to our clients while constantly maintaining the highest professional standards. All this while getting paid.)
+
+Any assistance with accommodation/relocation
+. Relocation package including flights & accommodation for the first 20 nights in Malta (if applicable)
+. Dedicated Employee Experience team who will support during the relocation
+
+Any other benefits
+. A competitive salary
+. Monthly performance bonuses
+. Free night shift taxi service to & from the studio
+. Free gym membership
+. Individual development and career progression opportunities
+. Opportunities to attend entertainment, make-up, modelling, healthy living, presentation skills, industry 
+knowledge, and communication workshops
+
+Salary
+Eur 18,000 - 23,500
+
+How will the interviews be held: Online 
+
+Any other information
+We do not require any specific work experience or skills for this role, but we need you to have good English, a strong work ethic, be open to learning new things, and ideally have worked at least part-time for a year or two, preferably with service-related tasks.
+
+To apply
+CV and a covering email are to be sent by email to eures.recruitment.jobsplus@gov.mt and should be written 
+in English. Please quote the vacancy name and number in your email.Role: Construction Designer – Cable Ducts
+ Seniority Level: Senior
+Workload: Full-time (100%), onsite in Karlskrona minimum 3 days/week
+ Location: Karlskrona, Sweden
+ Remote Work: 50% (Minimum 3 days onsite/week)
+ Application Deadline: 21 May 2025
+Key Responsibilities:
+Design and plan the harbor section to accommodate cable duct infrastructure
+Create construction drawings and 3D models for structural and civil engineering components
+Perform structural analysis including point load and ground load calculations
+Coordinate with other disciplines to define interfaces and site-specific requirements
+Develop and maintain a schedule for all project activities
+Ensure all documentation meets technical and safety standards
+
+Requirements:
+Bachelor's degree in Civil/Structural Engineering or equivalent
+Minimum 5 years of experience in construction and infrastructure projects
+Proficient in CAD software and other design tools
+Experience in civil engineering, particularly groundworks and structural support
+Skilled in producing 3D models and technical drawings
+Strong analytical and problem-solving skills
+Excellent communication and teamwork capabilitiesTalar du flytande Kirgiziska och svenska? Sök idag! 
+Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
+Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
+Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
+Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Är du arkivarie som vill arbeta med e-arkiv? Eller är du kanske arkivarie som vill vidareutveckla din kunskap inom utveckling och digitalisering? 
+ArkivIT är ett konsultbolag med expertis inom digital arkiv- och informationshantering med tjänster inom våra områden Arkiv & Registratur, Dataskydd, Informationssäkerhet och E-arkiv. Företaget startades 2010, sedan dess har tjänsterna blivit fler, kompetensen bredare och vi fortsätter att växa. Våra konsulter är hängivna sitt yrke och bidrar med sin specialistkompetens till kunder runt om i hela Sverige. Vår ambition är att ta hand om och värna om det digitala kulturarvet, och samtidigt stärka våra kunder inom modern e-förvaltning och informationshantering. 
+Om rollen Nu söker ArkivIT konsulter med särskilt intresse för e-arkiv och utveckling. Du ska ha en bakgrund som arkivarie/e-arkivarie. 
+Inom e-arkivgruppen arbetar vi bland annat med införande, utveckling och förvaltning av system för e-arkivering med allt som det medför i form av förstudie, kravanalys, funktionsspecifikation, implementation, systemavställning med mera. För att klara av detta behövs både (e-)arkivarier, systemutvecklare och projektledare. En e-arkivarie kan också ha uppdrag som inte inkluderar arbete med e-arkiv utan i stället mer traditionellt arkivariearbete med pappersarkiv.
+Våra kunder finns främst inom offentlig sektor och kan vara allt från kommuner till större myndigheter men de finns även representerade inom privat sektor och då främst inom bank och finans. 
 Kvalifikationer
-Minst 1 års erfarenhet som fransstylist
-Certifikat/diplom inom fransförlängning
-God kommunikationsförmåga på svenska eller engelska
-Ansvarstagande, punktlig och serviceinriktad
-Meriterande om du även kan erbjuda andra behandlingar
-
-Ansökan
-Välkommen att skicka ditt CV, ett kort personligt brev samt bilder på ditt arbete (eller länk till din Instagram) till:
- 📩 linndq.bt@gmail.com
-Vi ser fram emot att höra från dig!We are a nail salon in Vasastan.
-We offer customers the best quality and services.
-We do not work with acrylic. 
- We are looking for you who has at least two years of experience and is meticulous, responsible, and flexible.
-Your tasks are manicures, pedicures, and nail sculpting. 
-You will keep the workplace tidy.
-We are looking for someone with 2- 4 years of experience.Jag driver en frisör- och skönhetssalong i Stockholm] och söker nu en person som kan arbeta som hjälp i salongen.
-
-
-Arbetsuppgifterna består bland annat av att:
-• Tvätta kunders hår
-• Hålla salongen ren och organiserad
-• Hjälpa till vid förberedelser inför behandlingar
-• Lära sig att förbereda hårslingor till keratinförlängning (jag lär ut detta från grunden)
-
-
-Öppen för alla
-Vi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.Är du en skicklig fransstylist med passion för skönhet? Vill du arbeta i en väletablerad salong i centrala Stockholm? Då är detta en möjlighet för dig!
-Vi söker dig som:
-✔️ Har erfarenhet av fransförlängning (singel & volym).
- ✔️ Kan utföra lashlift och browlift (meriterande men inget krav).
- ✔️ Är noggrann, professionell och har öga för detaljer.
- ✔️ Sätter kundens upplevelse i fokus och ger högkvalitativa behandlingar.
- ✔️ Är flexibel och kan arbeta heltid eller deltid.
-Vi erbjuder:
-✨ En trivsam och professionell arbetsmiljö vid Odenplan i centrala Stockholm.
- ✨ Möjlighet att arbeta med ett växande kundunderlag.
- ✨ Konkurrenskraftig ersättning baserat på erfarenhet och prestation.
-Ansökan:
-Är du intresserad? Skicka ditt CV och bilder på ditt arbete till linndq.bt@gmail.com. Har du en Instagramprofil? Bifoga gärna en länk!
-Vi ser fram emot att höra från dig!Är du en skicklig fransstylist med passion för skönhet och kundservice? Då kan du vara den vi söker! 4Ever Young Beauty, belägen vid Odenplan i centrala Stockholm, letar efter en erfaren och engagerad fransstylist för att stärka vårt team.
-Vi söker dig som:
-✔️ Har erfarenhet av fransförlängning (både singel- och volymteknik).
-✔️ Kan utföra lashlift och browlift (meriterande men inget krav).
-✔️ Är noggrann, effektiv och har ett öga för detaljer.
-✔️ Har god kundservice och alltid sätter kunden i fokus.
-✔️ Kan arbeta självständigt och ta eget ansvar.
-✔️ Är flexibel och kan arbeta både vardagar och helger.
-Vi erbjuder:
-✨ En professionell och trivsam arbetsmiljö i centrala Stockholm.
-✨ Möjlighet att utvecklas inom skönhetsbranschen och bygga en bred kundkrets.
-✨ Ett trevligt team att arbeta tillsammans med.
-Ansökan:
-Är du den vi söker? Skicka ditt CV och gärna bilder på ditt arbete till linndq.bt@gmail.com. Har du en Instagramprofil? Bifoga gärna en länk så vi kan se mer av ditt arbete.
-Vi ser fram emot att höra från dig!4Ever Young Beauty, belägen vid Odenplan i centrala Stockholm, söker nu en duktig och engagerad fransstylist för att stärka vårt team.
-Om rollen:
-Som fransstylist hos oss kommer du att arbeta med kunder som förväntar sig hög kvalitet och service. Du bör vara kunnig inom olika tekniker och ha en passion för skönhet.
-Vi söker dig som:
-Har erfarenhet av fransförlängning (både singel- och volymteknik).
-Kan utföra lashlift och browlift (meriterande men inget krav).
-Är noggrann, effektiv och har ett öga för detaljer.
-Har god kundservice och alltid sätter kunden i fokus.
-Är flexibel och kan arbeta både vardagar och helger.
-
-Vi erbjuder:
-En professionell och trivsam arbetsmiljö i centrala Stockholm.
-Möjlighet att utvecklas inom skönhetsbranschen och bygga en bred kundkrets.
-Ett härligt team att arbeta tillsammans med.
-
-Ansökan:
-Är du den vi söker? Skicka ditt CV och gärna bilder på ditt arbete till linndq.bt@gmail.com. Har du en Instagramprofil? Bifoga gärna en länk så att vi kan se mer av ditt arbete.
-Vi ser fram emot att höra från dig!4Ever Young Beauty, belägen vid Odenplan i centrala Stockholm, söker nu en professionell och skicklig nagelterapeut med gedigen erfarenhet. Vi letar efter dig som brinner för nagelvård och alltid strävar efter att ge kunderna den bästa upplevelsen.
-
-
-Vi söker dig som:
-Har minst 3 års erfarenhet av nagelvård, inklusive manikyr och pedikyr.
-Är skicklig på att arbeta med både gelé naglar.
-Kan utföra avancerade tekniker som fransk manikyr, ombre och nagelförlängning.
-Är noggrann, effektiv och levererar högkvalitativt arbete.
-Har en professionell och serviceinriktad attityd.
-Kunskaper inom andra behandlingar som lashlift, browlift eller vaxning är meriterande men inget krav.
-
-
-Vi erbjuder:
-En trevlig och professionell arbetsmiljö på en populär salong i centrala Stockholm.
-Möjlighet att utvecklas och arbeta med en bred kundkrets.
-
-
-Ansökan:
-Är du intresserad? Skicka ditt CV och gärna bilder på ditt arbete till linndq.bt@gmail.com. Har du en Instagramprofil? Bifoga gärna en länk så att vi kan se mer av ditt arbete.
-
-
-Vi ser fram emot din ansökan och hoppas att du vill bli en del av vårt team!Elite Beauty Care ligger vid Odenplan och erbjuder professionell massage och skönhetsvård.
-Nu söker vi efter kollegor som vill börja hos oss. Du kan vara nybörjare som är nyfiken på att lära dig eller mera erfaren.
-Elite Beauty Care is located at Odenplan and offers professional massage and beauty care.
-We are now looking for colleagues who want to join us. You can be a beginner who is curious to learn or a more experienced professional.
-Öppen för alla
-Vi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.Raw Hair By Adriana Kuhl Odenplan är en härlig salong med sex stolar, som andas lyx med en avslappnad atmosfär.
-Vi är störst i Sverige på hårförlängningar och jobbar även väldigt mycket med färgbehandlingar, Olaplex och keratinbehandlingar.
-Vår kundkrets ökar nu i snabb takt och söker därmed fler frisörer som vill ingå i vårat glada gäng!
-
-
-VI ERBJUDER:
-✔ Trygghet med bra grundlön + provision.
-✔ Erfaren frisör snittlön 28 000-35 000kr/mån
-✔ Inspirerande arbete med mestadels långa behandlingar
-✔ Personalrabatter på löshår, Raw Athletics, HIPKINI och Bia Brazil
-✔ Ej fördröjd månadslön. Första lönen betalas alltså ut den 25e samma månad du anställs.
+ Högskoleutbildning inom arkivvetenskap med minst 60 hp eller motsvarande utbildning på högre nivå
+ Flerårig erfarenhet som arkivarie, e-arkivarie, IT-arkivarie eller motsvarande roll
+ Talar och skriver på svenska obehindrat 
  
+Personliga förmågor Som person trivs du med att vara en del av en arbetsgrupp, har lätt för att kommunicera och att samarbeta. Du behöver kunna ta initiativ och komma med lösningsförslag. Att vara konsult hos oss innebär även att du arbetar hos våra kunder, därför behöver du även vara flexibel, lyhörd och ödmjuk. Vi lägger stor vikt vid dina personliga egenskaper. 
+Vårt erbjudande till dig ArkivIT är ett kompetensbolag, vilket innebär att vi värnar om din utveckling och ger dig många möjligheter att öka dina kunskaper. Vi ser till att du utbildas årligen genom en kompetenspott och samlar alla medarbetare med jämna mellanrum, både fysiskt och digitalt, till kompetensforum där vi delar erfarenheter och inspirerar varandra. Dina kollegor är erfarna inom branschen och som arbetsgivare ser vi till att samla alla vid årliga events som sommarfest, julfest, påskfest, kick-offer och andra roliga händelser inom bolaget. I denna roll, har du en flexibel vardag där du lägger upp din egna arbetstid utifrån kundens behov.
+Vi är måna om dig som medarbetare och värnar om en lärande miljö med öppet klimat och avsätter tid för reflektion och feedback. 
+Ansökan Vänta inte med din ansökan, vi intervjuar löpande och tjänsten kan komma att tillsättas när vi hittat rätt kandidat. Vid frågor kring rollen eller företaget, är du välkommen att kontakta tom.jonsson@arkivit.se. 
+ Start: Enligt överenskommelse Omfattning: 100%, heltid Placering: Enligt överenskommelse (vi finns i hela Sverige och välkomnar sökande från hela landet)
+Välkommen in med din ansökan!Exakta Photo är en av Sveriges största skolfotoleverantörer. Vi finns över hela landet och fotograferar cirka 900 000 elever varje år. Nu söker vi dig som vill ha ett säsongsbaserat uppdrag som skolfotograf!
+Vem är du?
+Vi tycker om en variation av människor men för att lyckas i tjänsten behöver du:
+Ha ett genuint fotointresse. Du behöver inte ha arbetat som skolfotograf men vi ser gärna att du är en redan etablerad fotograf. Detta är dock inte ett krav utan så länge du brinner för fotografering så kan du vara rätt person för oss.
+Du är utåtriktad och positiv. När du står bakom kameran så påverkar du det som sker framför. Du behöver inte vara komiker, men genom att vara glad och bjuda på dig själv så kan du få andra att slappna av inför kameran.
+Vara stresstålig och välorganiserad då det kan förekomma arbetsdagar med högt tempo.
+God datorvana då datorn kommer att bli ett viktigt arbetsredskap vid sidan om kameran.
+Ha körkort och tillgång till bil då du utför uppdragen på olika skolor och förskolor.
+Kunna arbeta heltid från mitten av augusti till mitten av oktober och vill ha Sveriges roligaste jobb!
+Har du arbetat med barn och ungdomar tidigare så är det en fördel, men det är inte avgörande!
+
+
+
+Vad erbjuder vi?
+Hos oss får du ett roligt och utvecklande säsongsjobb.
+Vi håller en obligatorisk utbildning vecka 32. Efter denna vecka kommer du först att arbeta tillsammans med en annan fotograf så du ska känna dig trygg innan du gör ditt första jobb själv!
+Arbetsperiod i första hand v34 till v40 med möjlighet till förlängning.
+Vi tillhandahåller all fotoutrustning du behöver.
+Du behöver inte oroa dig för det tekniska. Vi har tagit fram fasta inställningar, mått och rutiner så vare sig du använt Nikon, Sony eller varför inte Canon tidigare så är det enda du behöver tänka på hos oss är att få fram det där lilla extra hos personerna framför dig.
+Du utgår från ditt hem till angiven ort och erhåller milersättning för de sträckor du kör.
+Vill du fakturera eller bli anställd? Du väljer!
+Antingen har du redan ett eget bolag och skickar faktura för utförda jobb. Vi har även ett samarbete med Frilans Finans som gör det enkelt för dig att fakturera trots att du inte har ett eget bolag idag. Vi ger dig all information som behövs för detta. Om inget av ovan passar dig kan du även välja att bli säsongsanställd. Vi kör på det som passar dig och din livssituation bäst!
+Vad händer nu?
+Nu vill vi ha din ansökan såklart! Skicka in denna omgående via vår ansökningssida Exakta Photo AB - Jobba hos oss (exaktafoto.se).
+Vi hoppas att du vill bli en del av oss och får en oförglömlig höst!
+Övrigt
+För att arbeta med barn och ungdomar så behöver du visa upp ett godkänt utdrag ur belastningsregistret.
+Om anställningen
+Lön
+Lönetyp: Fast månads- vecko- eller timlönTalar du flytande Singalesiska och svenska? Sök idag! 
+Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
+Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
+Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
+Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.The Role:
+As a Java developer with integration expertise, you will be crucial in stabilizing current systems, making architectural changes to future-proof them, and creating an efficient foundation for the development work related to the new agricultural policy. This is a significant and exciting opportunity to shape the future of these critical systems.
+Responsibilities:
+You will join one of the development teams within the Development and Digitization Department. Depending on needs, other internal assignments may also be relevant. The working language is Swedish.
+Required Skills (Level 4):
+The consultant should meet the criteria for Level 4, indicating:
+ * Knowledge: High generalist competence or very high competence in the specific role.
+ * Experience: Several years of experience with complex assignments in the current role and delivering high-quality consulting services (typically 9-12 years of experience).
+ * Leadership: Takes responsibility for large parts of the assignment.
+ * Independence: Very high level of independence.
+Specific Competency Requirements:
+The consultant must have experience and very good knowledge in:
+ * Integration work
+ * Java (Backend) and Java/Jakarta EE as a platform
+ * System design
+ * Agile values, experience with agile methodologies and Scrum
+ * JPA (Hibernate)
+ * Git
+ * Integration platform Camel 3
+ * ActiveMQ Artemis
+Beneficial Skills:
+ * Development of administrative case management systems
+ * Domain-Driven Design (DDD)
+ * PostgreSQL
+ * OpenID Connect and OAuth 2.0
+ * Angular
+ * Maven
+ * Eclipse/IntelliJ
+ * JBoss / Wildfly
+ * JavaScript/TypeScript (Frontend)
+ * Jenkins
+ * Docker
+ * JMS
+ * BDD (Behavior Driven Development) or TDD (Test-Driven Development)
+ * Java 11+ SQL queries
+ * REST
+ * HTML
+ * CSS
+ * Jira
+ * OpenAPI
+ * Regression and monitoring tests, and test strategies
+ * Camel Quarkus
+Essentially, they are looking for an experienced Java developer with a strong background in integration technologies to help stabilize and modernize their agricultural policy systems. The role requires someone who is self-driven, can handle complex tasks, and is comfortable working in an agile environment. Fluency in Swedish is a must.Fotograf, ett drömyrke för dig?
+Vi söker nu fler fotografer till vår fotografkår i Halmstad med omnejd. Exakta Photo är Sveriges största skolfotoleverantör med mer än 60 års erfarenhet. Exakta Photo finns i hela Sverige och tillsammans fotograferar vi 900 000 elever varje år.
+Vi söker dig med ett genuint fotointresse som vill kombinera det med ett kul arbete bland barn och ungdomar. Vi värdesätter dina goda egenskaper som social förmåga, och att kunna jobba med eget ansvar under ordning och reda. Men även en estetisk ""blick"" för bild och form. Erfarenhet från barn- och ungdomsverksamhet är en stor merit.
+Du kommer att få tillgång till en digital fotoutrustning, vilket kräver god datorvana. Vi erbjuder dig en professionell fotoutbildning v32 i Nyköping men även en onlinekurs innan skolstarten i augusti.
+Tjänsten kräver att du har körkort samt tillgång till bil.
+Arbetsperiod i första hand v34 till v40 med möjlighet till förlängning.
+Tidigare branscherfarenhet inom foto/skolfoto är inget krav men är självklart en merit. Vi ser gärna ett samarbete med redan etablerade fotografer.
+Passa på att söka till vår glada fotografkår och berätta lite om dig själv samt bifoga ditt Cv och några bilder. (Eller länk).
+Välkommen med din ansökan!
+Övrigt
+För att arbeta med barn och ungdomar så behöver du visa upp ett godkänt utdrag ur belastningsregistret.
+Om anställningen
+Lön
+Lönetyp: Fast månadsVi söker nu svensktalande Game Presenters till vår kunds spelstudio i Bukarest, Rumänien. Vill du arbeta i en dynamisk och internationell miljö där du blir företagets ansikte utåt? Då kan detta vara jobbet för dig!
+Tjänst: Game Presenter & Shuffler (Svenska)
+Plats: Bukarest, Rumänien
+Anställningsform: Heltid
+Ersättning: Grundlön + prestationsbaserade bonusar (inklusive flyg och boende)
+ANSVARSOMRÅDEN
+Vara ”företagets ansikte utåt” genom att leverera expertkunskap och förstklassig spelupplevelse.
+Representera och upprätthålla företagets varumärke genom att följa riktlinjer för presentation och klädpolicy.
+Presentera alla spel på ett professionellt och engagerande sätt i enlighet med företagets förväntningar.
+Skapa en interaktiv och engagerande spelupplevelse för spelarna.
+Upprätthålla hög teknisk skicklighet inom alla spel och säkerställa att din prestation alltid överensstämmer med företagets varumärkesriktlinjer.
+Delta aktivt i företagets kontinuerliga förbättringsarbete och bidra till företagets framtida tillväxt.
 
+KVALIFIKATIONER
+Flytande svenska (C2-nivå), både i tal och skrift.
+Mycket goda kunskaper i engelska (C1-nivå).
+Utmärkta presentationsfärdigheter med förmåga att fånga och engagera en publik.
+Entusiastisk, positiv och utåtriktad personlighet.
+Förmåga att hålla hög energi under längre perioder vid spel som kräver det..
+Flexibilitet att arbeta skift enligt ett 24/7-schema.
+Pålitlig och punktlig, med god närvaro och tidshantering.
+Uppmärksam på detaljer och med utmärkt social kompetens – en självklarhet i en kundnära roll.
+Förmåga att tänka snabbt och hantera stressiga situationer samtidigt som du bibehåller noggrannhet, disciplin och diskretion.
 
+VI ERBJUDER
+Konkurrenskraftig lön baserad på erfarenhet, färdigheter och prestation.
+Möjlighet att arbeta i ett dynamiskt och internationellt team med en positiv och vänlig arbetsmiljö.
+Betald utbildning och alla verktyg du behöver för att nå din fulla potential.
+Prestationsbaserade bonusar.
+Privat sjukförsäkring.
+Gratis taxitjänst under nattskift till och från studion.
+Gratis gymmedlemskap.
+Relocationstöd – inklusive flyg och boende.
 
 
-DIG VI SÖKER:
-✔ Utbildad frisör
-✔ Älskar att jobba med färg och löshår
-✔ Entusiastisk och positiv
-✔ Bidrar till en fantastisk teamkänsla
 
-
-
-
-INFORMATION OM TJÄNSTEN:
-✔ Grundlön + provision. Erfaren frisör snittlön 28 000-35 000kr/mån.
-✔ Tillträde omgående
-✔ Tillsvidareanställning med inledande provanställning
-✔ Heltid, deltid eller helger
-
-
-ANSÖKAN:
-
-
-Ansökan skickas till adriana.kuhl@hotmail.com
-Bifoga gärna ett foto på dig själv.
-
-
-Besök vår hemsida www.rawhair.se för mer information om salongerna och hur vi jobbar.What We're Looking For
-We are seeking a skilled and passionate therapist who:
-Has relevant training and certification in beauty, scalp care, or wellness therapies.
-
-
-Experience in head spa or scalp-focused treatments is preferred.
-
-
-Is comfortable working with modern beauty equipment and understands the principles behind advanced skin and hair treatments.
-
-
-Is detail-oriented, customer-focused, and committed to providing high-quality service.
-
-
-Has a positive attitude and thrives in a collaborative, creative team environment.
-
-We are especially interested in candidates who are excited to grow with us and contribute to building a new premium spa concept in Sweden.Vill du jobba på en av Stockholms mest populära frisörkedjor med ett kreativt team?
-Vi söker nu 1-2 nagelteknologer  till vårt team i Odenplan.
-Salongen ligger centralt belägen på Odenplan, ca 50 meter från Åhlens och Max hamurgerkedja samt ett stenkast från pendelstation och tunnelbana. Vi är en väletablerad kedja som behöver utöka duktiga nagelteknologer för förstklassiga behandlingar. Vi sitter i mycket fina lokaler och idag är det åtta stycken som jobbar på salongen.
-Vi har sedan starten lyckats att attrahera mängder av kunder, då nuvarande nagelteknolog är i princip fullbelagda behöver vi nu utöka personalgruppen för att kunna ta emot alla nya kunder som strömmar till Vasastans populäraste salong.
-Vi jobbar mest med färgbehandlingar, klippningar och keratinbehandlingar samt naglar. Vi har ett tätt samarbete med Schwarzkopf och utbildar oss alltid inom senaste teknikerna tillsammans med tekniker från schwarzkopf.
-Nu utökar vi med ännu fler medarbetare på våra innerstadssalonger i Stockholm.
-
-
-Vi söker dig som har erfarenhet av  nagelförlängningar , manikyr samt pedikyr
-
-
-Är du intresserad av att arbeta med ett glatt gäng frisörer på en trevlig arbetsplats är du välkommen med din sökning
-
-
-maila din sökning :
-harklippet.odenplan@hotmail.comVi söker en leg. fotvårdare till en av våra kliniker i centrala Stockholm.
-Om tjänsten
-Som medicinsk fotvårdsterapeut i primärvården arbetar du med remisspatienter med särskilda behov av medicinsk fotvård. Dina arbetsuppgifter består av fotvårdsbehandlingar, journalföring och övriga administrativa uppgifter som rör patientens vård. Det är ett självständigt arbete där du som fotvårdare är en viktig del i samarbetet med vårdcentralerna. 
-Tjänsten är på 80% förlagt över 3 dagar i veckan på kliniken och 1 dag i veckan med hembesök. Tjänsten kan omvandlas till 100% till sommaren om man skulle önska det.
-Kvalifikationer
-Som person är du noggrann, lyhörd, effektiv och flexibel samtidigt som du kan ge ett lugnt, förtroendeingivande och gott bemötande. Du kan arbeta självständigt och är trygg i en roll med ett stort eget ansvar. 
-Vi söker dig som är utbildad medicinsk fotvårdsterapeut och som gått fördjupningskursen: Diabetes 1 & 2. Erfarenhet från arbete med journalsystemet Takecare är meriterande men inte ett krav.
-Söka tjänsten
-Skicka ett personligt brev och ett CV till carmenholmgren@gmail.com. Urval och intervjuer sker löpande under ansökningstiden. 
-Välkommen med din ansökan!Vi söker kreativa och drivna frisörer till vårt team!
-Är du en passionerad frisör eller barberare som älskar att skapa och utvecklas i ditt yrke? Då har vi platsen för dig!
-Vi är en modern barbershop på Kungsholmen samt en frisörsalong i Bromma, och vi letar nu efter fler talangfulla och engagerade medarbetare.
-Älskar du att ta dig an nya utmaningar, sätter kunden i första rummet och har en passion för att skapa fantastiska frisyrer och stilar? Då vill vi gärna höra från dig!
-Om du känner igen dig i beskrivningen eller vet någon som skulle passa in i vårt team, tveka inte att kontakta oss. Vi ser fram emot att få veta mer om dig!
-Kontakta oss för mer information:
-• Maila oss på [ange e-postadress]
-• Ring oss direkt på 073-487 90 19
-Vi ser fram emot att höra av dig! ✨Vi söker just nu dig som vill arbeta i sommar och ingen tidigare erfarenhet krävs. 
-Vill du bli en del av Rapide-familjen och påbörja din karriär inom skönhet?
-Vi söker nya stjärna som vill utvecklas tillsammans med oss och som vill börja arbeta på våra salonger i Stockholm under sommaren.
-Rapide Brow and Lash Bar är den ledande skönhetskedjan med 17 barer runt om i Sverige. Vi specialiserar oss på trådning och vår passion är att framhäva ögonen med unika produkter och behandlingar.
-Nyckelord för dig vi letar efter: Professionell, driven, nyfiken, flexibel och ansvarstagande.
-Vi söker dig som:
- Brinner för skönhet
- Gillar ett högt tempo
- Älskar kundmöten och att ge bra service
- Noggrann och ansvarfrull
- 
-Krav för rollen: Fyllt 18 år, och att du är redo att lära dig något nytt inom hantverket vi arbeta med och försäljning. Vi utbildar alla våra anställda inom våra behandlingar och produkter och sälj i Stockholm på en 4 dagars utbildning. Du kommer lära dig allt om den bästa skönhetsupplevelsen.
-Rapide Academy utbildas utav vår Education Manager.
-Vi erbjuder dig:
- Utbildning i våra behandlingar samt vårat koncept och produkter
- En fantastisk arbetsplats
- Utveckling
- Ett yrke i världens mest växande bransch
- Chans till förlängning efter sommaren
- 
-Arbetsuppgifterna innefattar:
-Att utföra frans-och brynbehandlingar som vi erbjuder, försäljning utav Rapide Cosmetic och följa de hygienregler, strukturer och policys som Rapide står för.
-Tjänst: 20-75% - provanställning / visstidsanställning Varma hälsningar,
-Stephanie Wedholm och Philippa OttenfalkVi söker diplomerade massageterapeuter för arbete på företag. Massagen sker på kontor/ arbetsplatser och du har fasta företagskunder som du återkommer till och lär känna. Massagebänk, bänkpapper och tillbehör finns på plats så du behöver inte själv ta med dig något. Vi vill att du har ett stort intresse för att hjälpa människor med både massagebehandlingen och motivera för ett hälsosamt liv. Du ska tala flytande svenska.Om tjänsten
-Vi söker en person med erfarenhet inom ett eller flera av följande områden:
-	•	Frisör – Klippning, färgning och styling.
-	•	Nagelvård – Manikyr, pedikyr och nagelförlängning.
-	•	Fransstylist – Fransförlängning och franslyft.
-	•	Hudvård – Ansiktsbehandlingar och hudvårdsrådgivning.
-
-
-Arbetet innebär att ta emot kunder, utföra professionella behandlingar och ge service av högsta kvalitet.Fasciaklinikerna växer snabbt och söker fler terapeuter!
-Jag heter Frida Olsson, är franchisetagare för Fasciaklinikerna och ska öppna en Fasciaklinik i Vällingby, juni 2025. Just nu bygger jag mitt drömteam – och kanske är det du som blir en del av att skapa något riktigt bra tillsammans med mig och Fasciaklinikerna!
-Som Fasciaspecialist kommer du ha en viktig roll i att hjälpa människor att återfå sin rörlighet och förbättra sin livskvalitet. Vi erbjuder utbildning och fortbildning som en del av anställningen.
-
-
-Vem söker vi?
-Du brinner för att hjälpa människor.
-Servicekänsla är avgörande.
-Viktigare hur du är som person än vad ditt CV innehåller.
-Behandlingserfarenhet är en fördel men inget krav.
-
-
-
-Vad innebär tjänsten?
-
-
-Vara en ambassadör för vår vision.
-Ta hand om dina kunder och kollegor.
-Bidra till en positiv arbetsmiljö.
-
-
-
-Varför jobba hos oss?
-
-
-Utbildning och fortbildning ingår.
-6 timmars arbetsdag som standard.
-Flexibla avtal för hel- och deltid.
-Bra kollegor och utvecklingsmöjligheter.
-
-
-
-Ingen tidigare erfarenhet krävs. Kostnadsfri utbildning till Fasciaspecialist erbjuds vid anställning.
-
-
-Anställningsvillkor
-Vi har öppet 7 dagar i veckan mellan kl. 07.30 och 20.30.
-Du bör kunna arbeta kvällar och helger.Vill du bli expert på att behandla problemhy? Vi söker dig som vill växa med oss.
-Vi söker dig som är nyfiken, driven och vill ta nästa steg i din karriär som hudterapeut.
-Hos oss blir du inte bara en del av ett team – du blir en del av ett system. Vi utbildar dig djupare i problemhy, extraktionsteknik, acneprotokoll och avancerad resultatinriktad hudvård.
-Det här är inte en roll för dig som vill stå still. Det här är för dig som vill bli riktigt bra – på riktigt. 
- Vad vi erbjuder dig:
- Tillsvidareanställning (med provanställning 6 månader)
- Heltid – vardagar & helg 
- Fullt friskvårdsbidrag
- Internt utbildningsprogram: acne, rosacea, milier, CO2-laser, microneedling m.m.
- Möjlighet att jobba på våra tre kliniker: Östermalm, Södermalm & Sundbyberg
- En trygg arbetsplats med 30+ kollegor – som älskar hudproblem
-
- Vad jobbet innebär:
-Som hudterapeut hos oss får du jobba både med klassiska behandlingar (portömning, ansiktsbehandlingar) och avancerade metoder som laser, IPL, kemisk peeling och CO2.
-Du kommer:
- Utföra hudkonsultationer
- Skapa behandlingsplaner
- Följas av kunder under hela deras hudresa
- Utföra många extraktioner (detta är inte en “spa-roll”)
- Jobba resultatinriktat – med före/efter-fokus
- Använda klinikens system: SkinStory
- 
-Vi fokuserar på problemhy: acne, rosacea, pormaskar, milier och perioral dermatit & Hudproblem som bl.a pigmenfläckar, ytliga kärl, oönskad hårväxt och ärr
-Du kommer få stöd, utbildning och vägledning för att snabbt bli trygg och självsäker i rollen – även om du är ny i branschen. 
- Vem vi söker:
-
-  Hudterapeuter (SHR/Cidesco-certifierade)
- Sjuksköterskor (svensk. legitimerade) 3. Läkare med intresse för estetiska/dermatologiska behandlingarErfarenhet är ett plus, men inställning är viktigast. Vi utbildar dig i våra metoder och protokoll för problemhy.
-  Du är nyutexaminerad eller i början av karriären – men taggad
- Du är trygg, noggrann, lyhörd och gillar struktur
- Du vill jobba långsiktigt och utvecklas i ett starkt team
- Du har servicekänsla, driv och ett stort hjärta 
-  Lönen?
-Vi betalar mer än genomsnittet – och belönar både engagemang och resultat.
-Grundlön + bonus + förmåner = en karriär som går att leva på.
-
- Ansök nu:
- Skicka din ansökan via länken nedan (CV + personligt brev):
-https://skonhetsgruppen.teamtailor.com
-
- Frågor? Hör av dig till cazzandra på:
-info@skonhetsgruppen.se
-
- Lär känna oss:
- www.acnespecialisten.se
- www.sverigesskonhetscenter.seÄr du en passionerad och kompetent hudterapeut som söker en utmanande och spännande arbetsplats? 
-Vi på AcneSpecialisten & Sveriges skönhetscenter söker nu efter nya kollegor som vill bli en del av vårt framgångsrika och dynamiska team. Vi erbjuder en unik möjlighet att arbeta med resultatinriktade och avancerade behandlingar i en miljö där arbetsglädje, hög kompetens och kundens välbefinnande står i centrum.
- 
-Om oss:
-Sveriges Skönhetscenter och AcneSpecialisten är ledande inom skönhet, problemhy och hudvårdsbehandlingar med tre kliniker i Stockholm belägna på Östermalm, Södermalm och Sundbyberg. Sedan grundandet 1994 har vi vuxit till över 30 kollegor och fokuserar på att erbjuda våra kunder det absolut bästa inom behandlingar och produkter.
- 
-Dina arbetsuppgifter:
-Som hudterapeut hos oss kommer du att arbeta med en rad olika behandlingar, allt från avancerade maskinbehandlingar som IPL, laser och kemisk peeling till mer traditionella behandlingar såsom ansiktsbehandlingar i form av acnebehandlingar och portömningar. Du kommer att utföra individuellt anpassade hudkonsultationer och skapa skräddarsydda behandlingsplaner som passar varje kunds unika behov.
-På våra kliniker, Sveriges Skönhetscenter och AcneSpecialisten, ligger fokus på att behandla problemhy, vilket innebär att vi utför en stor mängd portömningar och acnebehandlingar. I dessa behandlingar arbetar vi aktivt med att klämma ut inflammationer och pormaskar för att förbättra hudens hälsa och utseende. Som en del av vårt team kommer du att bli en expert på att hantera dessa hudproblem och erbjuda effektiva, skräddarsydda lösningar för att hjälpa våra kunder att uppnå en förbättrad hudkvalitet och ökat välbefinnande.
- Vi erbjuder:
-  Tillsvidareanställning med 6 månaders provanställning
- Ingångslön över branschgenomsnittet
- Heltid 100% under vardagar & helg
- Fullt friskvårdsbidrag
- Kontinuerlig kompetensutveckling och utbildningar inom våra maskiner, behandlingar och produkter
- En arbetsplats där dina idéer och förslag värdesätts och uppmuntras
- En dynamisk och inspirerande arbetsmiljö med engagerade och stöttande kollegor
- 
- Vem är du?
- Vi söker dig som är utbildad hudterapeut med hög arbetsmoral och yrkesstolthet. Arbetslivserfarenhet är meriterande men inte ett krav, då vi värderar din ambition och inställning högt. Du trivs med att arbeta i team men kan också arbeta självständigt och ansvarstagande. Du är flexibel, trygg i din yrkesroll och har en positiv attityd.  
- För att lyckas i rollen som hudterapeut hos oss är det viktigt att du:
- Har hög social kompetens och känsla för service
- Är bra på att lyssna och anpassa ditt bemötande efter varje kunds behov
- Är ödmjuk och kommunikativ, med förmåga att förmedla information på ett säkert och förtroendeingivande sätt
- Har en vilja att ständigt lära dig och utvecklas inom ditt yrke
- Är engagerad och nytänkande, med en önskan att bidra till företagets fortsatta framgång På AcneSpecialisten fokuserar vi på att behandla problemhy såsom acne, rosacea, pormaskar, milier och perioral dermatit. Vi använder oss av extraktioner, hudvårdsprodukter och behandlingar såsom microneedling och CO2-laser för att hjälpa våra kunder att uppnå en frisk och balanserad hud.
-  
- 
-Lön:
-Vi erbjuder ett unikt och generöst löneupplägg för våra hudterapeuter, som gör oss till en av de högst betalande arbetsgivarna inom branschen i Sverige. Vår lönestruktur är utformad för att belöna kompetens, erfarenhet och engagemang, vilket ger våra medarbetare möjlighet att växa och utvecklas både professionellt och ekonomiskt. Genom att erbjuda konkurrenskraftiga grundlöner och attraktiva bonusar och förmåner, strävar vi efter att vara det självklara valet för talangfulla och ambitiösa hudterapeuter.
- 
-Ansökan:
-Är du den vi söker? Skicka din ansökan bestående av CV och personligt brev till via denna länk https://skonhetsgruppen.teamtailor.com så snart som möjligt, då urval sker löpande. För ytterligare information om tjänsten, kontakta Peter eller Marcus på info@skonhetsgruppen.se
-Vi ser fram emot att höra från dig och att få möjligheten att välkomna dig som en del av vårt fantastiska team på Sveriges Skönhetscenter och AcneSpecialisten!
-Besök gärna våra hemsidor för att lära känna oss bättre:
-www.acnespecialisten.se
-www.sverigesskonhetscenter.seDam-och herrfrisör sökes till salong Eleganz på Flemingatan 75.
-Arbetstider:
-Vardagar 10-19
-Lördagar 10-16Nu söker vi en trevlig , glad och energisk frisör som kan jobba i en trevlig salong i Östermalm i Fältöversten. Vi har funnits här i över 50 år. Du ska kunna både dam och herr sidan.
-Just nu har vi 1 tjänst ledig på heltid, och 1 för enbart helger (Lördagar & Söndagar).
-Bra lön...Vi på Axelsons SPA & Skin Clinic Odengatan växer och behöver nu stärka upp vårt härliga team med ytterligare en grym medicinsk fotvårdsterapeut.
-I våra väldesignade lokaler mitt i Vasastan, där lugnet infinner med detsamma man stiger in, arbetar ett positivt gäng där värme, serviceanda och driv sätter tonen.
-Vi söker dig som har en medicinsk fotvårdsutbildning i grunden, har några års erfarenhet och som verkligen brinner för ditt yrke och älskar service.
-Som person ser vi att du är flexibel, säljande, pålitlig och arbetar alltid noggrant men effektivt. Du har lätt för att kommunicera med både kunder och kollegor samt ser försäljning som en service till kunden. Att du är en certifierad terapeut är ett krav. Vi ser även att du är flexibel gällande arbetstider och kan arbeta dagar, kvällar som helger.
-Vill du bli en del av vårt växande team?
-Vi söker personal vid behov
-Intervjuer hålls löpande och vi rekryterar vartefter behovet ökar.
-Vid frågor om tjänsterna kontakta oss på jobb.stockholm@axelsonsspa.se
-Varmt välkommen att söka till oss!Älskar du att skapa snygga frisyrer och ge kunderna en fantastisk upplevelse? Då är det dig vi söker! Headzone är en etablerad och trendig frisörsalong i hjärtat av Stockholm, och nu letar vi efter nya frisörer som vill bli en del av vårt härliga team.
-Vi söker dig som:
-✅ Är utbildad frisör med erfarenhet
-✅ Brinner för hår, färg och trender
-✅ Är serviceinriktad och älskar kundkontakt
-✅ Vill utvecklas och jobba i en inspirerande miljö
-✅ Kan svenska eller engelska (språkkrav)
-
-
-Vi erbjuder:
-En kreativ och modern arbetsplats
-Bra villkor och möjlighet till utveckling
-Ett sammansvetsat team med härlig stämning
-En fantastisk arbetsplats mitt i Stockholm city
-Låter det intressant? Skicka din ansökan till jobb@headzone.se eller DM:a oss på Instagram!
-Vi ser fram emot att träffa dig! ✨Tusen sköna salong i Stockholm erbjuder ett brett utbud av skönhetsbehandlingar som manikyr, pedikyr och nagelförlängningar och med mycket mera. vi söka medarbetare till vår salong. Är du den rätt personen, gärna höra av dig. Vi söker som är service inriktad, noggrann, glad, flexibel och har mycket humor. Gärna utbildning inom omridet, men ingen krav. Erfarenhet efterfrågas. Du kommer att arbeta med nagelbehandlingar, manikyr, pedikyr, nagelförlängning etc. Du ska hålla en hög service och ge kunden den nagelvård som efterfrågas tillsammans med din andra kollega.
-Öppen för alla
-Vi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.Nagelteknolog sökes till Clippers Hägersten
-Clippers Hägersten söker nu en erfaren och passionerad nagelteknolog för helgarbete, med möjlighet till en fast heltidsanställning för rätt person. Om du har ett brinnande intresse för nagelvård och vill vara en del av ett framgångsrikt och väletablerat team, så ser vi fram emot din ansökan.
-Om jobbet:
-Som nagelteknolog på Clippers Hägersten kommer du att utföra nagelförlängning och förstärkning med gel och akryl, samt manikyr och pedikyr. Du applicerar gellack, skapar trendiga naglar och erbjuder skräddarsydd nail art. Du ger även rådgivning om nagelvård och produkter, och ser till att alla behandlingar håller hög kvalitet och hållbarhet.
-Kundservice är en stor del av arbetet, och du kommer att skapa en positiv upplevelse för varje kund. Du ansvarar även för att hålla din arbetsstation ren och följa hygienrutiner, samt hantera din egen bokning och arbetsplanering.
-
-Vi söker dig som:
-Certifierad nagelteknolog med gedigen erfarenhet av nagelförlängning, gel och manikyr
-Goda kunskaper inom nail art och trendiga tekniker
-Utmärkta kundservicefärdigheter och förmåga att skapa långvariga kundrelationer
-Noggrann och självgående med hög kvalitet på ditt arbete
-Flexibilitet och tillgänglighet för helgarbete
-Positiv attityd och god samarbetsförmåga
-
-Vi erbjuder:
-Timlön med möjlighet till en tillsvidareanställning för rätt person
-En professionell och kreativ arbetsmiljö
-Möjlighet till utveckling och vidareutbildning inom yrket
-Ansök nu!
-Skicka din ansökan tillsammans med CV till [er e-postadress] eller besök oss gärna på salongen för en personlig introduktion. Vi ser fram emot att höra från dig och att kanske välkomna dig till vårt team på Clippers Hägersten!
-Vänliga hälsningar,
-Clippers HägerstenVi söker en erfaren Barberare till vårt team!
-Vi på Salongens Clippers söker nu en passionerad och skicklig barberare som vill vara med och ge våra kunder en fantastisk upplevelse! Om du har ett öga för detaljer, en passion för frisyrer och skäggvård och vill arbeta i en kreativ och professionell miljö, då är detta jobbet för dig!
-Dina arbetsuppgifter kommer bland annat att inkludera:
-Klippning och trimning av hår och skägg
-Utföra Low Taper Fade
-Utföra klassiska rakningar
-Ge professionella råd och stylingtips till kunder
-Hålla din arbetsstation ren och organiserad
-Erbjuda utmärkt kundservice och bygga långsiktiga kundrelationer
-
-Vi söker dig som har:
-Erfarenhet av barberaryrket eller relevant utbildning
-Goda färdigheter inom klippning och skäggvård
-Ett intresse för och förståelse av aktuella trender
-Ett gott kundbemötande och en vilja att ge kunderna den bästa upplevelsen
-Förmåga att arbeta både självständigt och som en del av ett team
-
-Vi erbjuder:
-Ett kreativt och inspirerande arbetsklimat
-Möjlighet att utvecklas och växa inom företaget
-Fast lön och generösa förmåner
-En välkomnande arbetsmiljö med härliga kollegor
-
-Plats: Hägersten
-Ansökan: Skicka ditt CV och ett personligt brev till clippershagersten@gmail.com senast 20250531.
-Vi ser fram emot att höra från dig!Nu letar vi efter våran nya kollega. Du som är duktig på ditt yrke och verkligen brinner för att jobba som barberare är välkommen att ansöka för jobbet hos oss.
-
-
-Vi söker dig som har lätt för att jobba i grupp, kan anpassa sig och ta ansvar för din arbetsdag. Du kan klippa, fixa skägg och utföra rakningar med kniv.
-
-
-Maila in ditt CV eller kom gärna in till salongen med det."
+Uppstart: Omgående
+Vill du ta nästa steg i din karriär och arbeta i en spännande och snabbväxande bransch? Ansök idag!Vi söker nu svensktalande Game Presenters till vår kunds spelstudio i Bukarest, Rumänien. Vill du arbeta i en dynamisk och internationell miljö där du blir företagets ansikte utåt? Då kan detta vara jobbet för dig!
+Tjänst: Game Presenter & Shuffler (Svenska)
+Plats: Bukarest, Rumänien
+Anställningsform: Heltid
+Ersättning: Grundlön + prestationsbaserade bonusar (inklusive flyg och boende)
+ANSVARSOMRÅDEN
+Vara ”företagets ansikte utåt” genom att leverera expertkunskap och förstklassig spelupplevelse.
+Representera och upprätthålla företagets varumärke genom att följa riktlinjer för presentation och klädpolicy.
+Presentera alla spel på ett professionellt och engagerande sätt i enlighet med företagets förväntningar.
+Skapa en interaktiv och engagerande spelupplevelse för spelarna.
+Upprätthålla hög teknisk skicklighet inom alla spel och säkerställa att din prestation alltid överensstämmer med företagets varumärkesriktlinjer.
+Delta aktivt i företagets kontinuerliga förbättringsarbete och bidra till företagets framtida tillväxt.
+
+KVALIFIKATIONER
+Flytande svenska (C2-nivå), både i tal och skrift.
+Mycket goda kunskaper i engelska (C1-nivå).
+Utmärkta presentationsfärdigheter med förmåga att fånga och engagera en publik.
+Entusiastisk, positiv och utåtriktad personlighet.
+Förmåga att hålla hög energi under längre perioder vid spel som kräver det..
+Flexibilitet att arbeta skift enligt ett 24/7-schema.
+Pålitlig och punktlig, med god närvaro och tidshantering.
+Uppmärksam på detaljer och med utmärkt social kompetens – en självklarhet i en kundnära roll.
+Förmåga att tänka snabbt och hantera stressiga situationer samtidigt som du bibehåller noggrannhet, disciplin och diskretion.
+
+VI ERBJUDER
+Konkurrenskraftig lön baserad på erfarenhet, färdigheter och prestation.
+Möjlighet att arbeta i ett dynamiskt och internationellt team med en positiv och vänlig arbetsmiljö.
+Betald utbildning och alla verktyg du behöver för att nå din fulla potential.
+Prestationsbaserade bonusar.
+Privat sjukförsäkring.
+Gratis taxitjänst under nattskift till och från studion.
+Gratis gymmedlemskap.
+Relocationstöd – inklusive flyg och boende.
+
+
+
+Uppstart: Omgående
+Vill du ta nästa steg i din karriär och arbeta i en spännande och snabbväxande bransch? Ansök idag!Vi söker nu nya artister, musiker, skådespelare, make up artister och talanger.
+Läs mer om oss och ansök idag via www.swedeagency.se
+Vi är en artistförmedling i Sverige med över 350 artister
+Lycka till med ansökan.Dalarna är ett landskap med stolt historia och stark kultur. Här finns allt från snabbväxande städer till glesbygd – och en stor levande landsbygd däremellan. Våra industrier går för närvarande för högvarv, men med demografin ser det ärligt talat lite sämre ut. I dalafjällen finns några av Sveriges – och världens – mest populära destinationer för vinterturism. Skolor i närheten kämpar med sviktande elevunderlag, och resultat. För den som ägnar sig åt att kommentera politik saknas det aldrig ämnen. Våra ledarsidor har länge varit starka och viktiga röster här. Så ska det fortsätta vara.
+
+Nu söker vi en ledarskribent till Falu-Kuriren, Mora Tidning, Nya Ludvika Tidning, Avesta Tidning och Södra Dalarnes Tidning. Fem tidningar som ägs av Bonnier News Local och som är självständiga titlar, men som har gemensam ledarredaktion.
+
+Om digVi tror att du som söker har bred kunskap om politik och ett stort engagemang för samhällsfrågor och journalistik.
+
+Du bör ha arbetat i redaktionell tidningsmiljö tidigare, och gärna ha erfarenhet av eget redaktörskap.
+
+Du har en skarp penna, stark analysförmåga, integritet och grundvärderingar som gör att du blir en bra företrädare för våra oberoende liberala ledarsidor.
+
+Det är meriterande om du redan på förhand har kännedom om Dalarna. Men det går också utmärkt att komma hit och lära sig, för hos oss är det de lokala frågorna som står i fokus.
+
+Som ledarskribent blir du närmaste medarbetare till vår politiske redaktör Gabriel Ehrling Perers. Du arbetar också nära våra nyhetsredaktioner för att analysera och reagera på nyheterna. 
+
+Vi söker dig som vill vara ett ansikte utåt och som blir en god företrädare för våra tidningar i våra lokalsamhällen. Vi vill att du tar plats i debatten.
+
+Din erfarenhetDu behöver inte vara utbildad journalist, men det är givetvis meriterande. Är du inte det, är annan relevant utbildning ett krav (exempelvis inom statsvetenskap, ekonomi eller juridik).Vi vill att du bor i Dalarna, eller är beredd att flytta hit.
+
+Utöver att kommentera den lokala politiken i Dalarna så ingår det i uppdraget att hantera visst riksmaterial åt de övriga tidningarna i Bonnier News Local.
+
+Övrigt
+
+Tillträde sker enligt överenskommelse. Samma sak med fysisk placeringsort. Du utgår från någon av våra 14 redaktioner i Dalarna (fördelade på fem titlar).
+
+Körkort är ett krav.
+
+Låter detta intressant? Skicka då ansökan, meritförteckning (med två referenser) samt tre textprover senast 31 maj 2025.
+
+Kontaktperson:Gabriel Ehrling Perers, 023-935 10 eller gep@falukuriren.se
+
+Facklig kontakt:Nina Blazevic, Journalistförbundet, 023-936 34 eller nina.blazevic@falukuriren.se 
+
+Vi är nyfikna på vem du är och ser fram emot din ansökan! Vill du veta mer gällande hur vår rekryteringsprocess ser ut kan du klicka här!
+
+
+Som Nordens största medieföretag, med verksamhet i 13 länder, hjälper vi medborgare och organisationer att fungera i ett demokratiskt samhälle. Våra journalister rapporterar, granskar och berättar om vår tids frågor. Vi inspirerar och skapar affärer genom möten, produkter och tjänster. Alla vi som jobbar här, från journalisten i norr till techutvecklaren i söder, bidrar med olika perspektiv för att vi ska kunna utföra vårt uppdrag och föra det fria ordet framåt. Tillsammans.
+
+Med varumärken som Dagens Nyheter, Expressen och Dagens industri når vi miljoner läsare och användare varje dag. Genom Bonnier News Locals många titlar har vi även ett stort lokalt engagemang över hela landet - från Sydsvenskan i Skåne till Östersunds-Posten i Jämtland. Förutom detta ger vi också ut branschspecifika tidningar såsom Dagens Media, Resumé, Dagens medicin och Fastighetsnytt, och även en rad livsstilsmagasin som Damernas Värld, Sköna Hem, Teknikens Värld och Allt om Mat.
+
+Vi har också en betydande logistik och distributionsverksamhet som vi samlar inom ramen för Bonway. Under 2024 kommer vi att nå närmare en tredjedel av alla hushåll i Sverige.
+
+Genom att ständigt driva den digitala utvecklingen framåt når vi hela tiden längre – som medarbetare hos oss kan du påverka riktningen. Vi strävar efter att hitta talangfulla medarbetare som vidgar våra perspektiv och hjälper oss att bidra till ett mer inkluderande samhälle. Vi hoppas att även du vill bidra till detta!Exakta Photo är en av Sveriges största skolfotoleverantörer. Vi finns över hela landet och fotograferar cirka 900 000 elever varje år. Nu söker vi dig som vill ha ett säsongsbaserat uppdrag som skolfotograf!
+Vem är du?
+Vi tycker om en variation av människor men för att lyckas i tjänsten behöver du:
+Ha ett genuint fotointresse. Du behöver inte ha arbetat som skolfotograf men vi ser gärna att du är en redan etablerad fotograf. Detta är dock inte ett krav utan så länge du brinner för fotografering så kan du vara rätt person för oss.
+Du är utåtriktad och positiv. När du står bakom kameran så påverkar du det som sker framför. Du behöver inte vara komiker, men genom att vara glad och bjuda på dig själv så kan du få andra att slappna av inför kameran.
+Vara stresstålig och välorganiserad då det kan förekomma arbetsdagar med högt tempo.
+God datorvana då datorn kommer att bli ett viktigt arbetsredskap vid sidan om kameran.
+Ha körkort och tillgång till bil då du utför uppdragen på olika skolor och förskolor.
+Kunna arbeta heltid från mitten av augusti till mitten av oktober och vill ha Sveriges roligaste jobb!
+Har du arbetat med barn och ungdomar tidigare så är det en fördel, men det är inte avgörande!
+
+
+
+Vad erbjuder vi?
+Hos oss får du ett roligt och utvecklande säsongsjobb.
+Vi håller en obligatorisk utbildning vecka 32. Efter denna vecka kommer du först att arbeta tillsammans med en annan fotograf så du ska känna dig trygg innan du gör ditt första jobb själv!
+Arbetsperiod i första hand v34 till v40 med möjlighet till förlängning.
+Vi tillhandahåller all fotoutrustning du behöver.
+Du behöver inte oroa dig för det tekniska. Vi har tagit fram fasta inställningar, mått och rutiner så vare sig du använt Nikon, Sony eller varför inte Canon tidigare så är det enda du behöver tänka på hos oss är att få fram det där lilla extra hos personerna framför dig.
+Du utgår från ditt hem till angiven ort och erhåller milersättning för de sträckor du kör.
+Vill du fakturera eller bli anställd? Du väljer!
+Antingen har du redan ett eget bolag och skickar faktura för utförda jobb. Vi har även ett samarbete med Frilans Finans som gör det enkelt för dig att fakturera trots att du inte har ett eget bolag idag. Vi ger dig all information som behövs för detta. Om inget av ovan passar dig kan du även välja att bli säsongsanställd. Vi kör på det som passar dig och din livssituation bäst!
+Vad händer nu?
+Nu vill vi ha din ansökan såklart! Skicka in denna omgående via vår ansökningssida Exakta Photo AB - Jobba hos oss (exaktaphoto.se).
+Vi hoppas att du vill bli en del av oss och får en oförglömlig höst!
+Övrigt
+För att arbeta med barn och ungdomar så behöver du visa upp ett godkänt utdrag ur belastningsregistret.
+Om anställningen
+Lön
+Lönetyp: Fast månads- vecko- eller timlön"
