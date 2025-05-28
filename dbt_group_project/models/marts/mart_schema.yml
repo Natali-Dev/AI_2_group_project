@@ -1,0 +1,61 @@
+version: 2
+
+models:
+  - name: mart_ads
+    description: "Basmodell för mart-lagret som joinar fct_job_ads med relevanta dimensioner. Används som källa för yrkesspecifika mart-vyer."
+    columns:
+      - name: headline
+        description: "Jobbannonsens rubrik."
+        tests:
+          - not_null
+      - name: occupation
+        description: "Specifikt yrke."
+        tests:
+          - not_null
+      - name: occupation_field
+        description: "Yrkesfält som annonsen tillhör. Används för filtrering i downstream marts."
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Installation, drift, underhåll', 'Kropps- och skönhetsvård', 'Kultur, media, design']
+      - name: workplace_city
+        description: "Stad där arbetsplatsen är belägen. Normalisera (trim/lower) denna i källan för bästa resultat."
+        # överväg not_null om det alltid ska finnas
+
+  - name: mart_installation_drift_underhall
+    description: "Aggregerad vy för yrkesfältet 'Installation, drift, underhåll'."
+    columns:
+      - name: workplace_city
+        description: "Stad."
+        tests:
+          - not_null
+      - name: vacancies
+        description: "Totalt antal jobbannonser för staden inom yrkesfältet."
+        tests:
+          - not_null
+
+  - name: mart_kropp_skonhet
+    description: "Vy filtrerad för yrkesfältet 'Kropps- och skönhetsvård'."
+    columns:
+      - name: occupation_field
+        description: "Ska alltid vara 'Kropps- och skönhetsvård' i denna vy."
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Kropps- och skönhetsvård']
+      - name: headline
+        tests:
+          - not_null
+
+  - name: mart_kultur_media
+    description: "Vy filtrerad för yrkesfältet 'Kultur, media, design'."
+    columns:
+      - name: occupation_field
+        description: "Ska alltid vara 'Kultur, media, design' i denna vy."
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['Kultur, media, design']
+      - name: headline
+        tests:
+          - not_null
