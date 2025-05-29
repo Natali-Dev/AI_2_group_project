@@ -12,7 +12,7 @@ from google import generativeai as oldGenai
 from google.generativeai.types import GenerationConfig
 
 
-def embedding_layout(current_df, field):
+def best_ad_layout(current_df, field):
     st.markdown("## Hitta den bästa annonsen - med Gemini") 
     
     df = current_df.groupby("workplace_city")["vacancies"].sum().sort_values(ascending=False).reset_index() #Sortera df på mest lediga jobb per stad
@@ -40,22 +40,27 @@ def embedding_layout(current_df, field):
     
 
     # st.write("Exempel på ord: Körkort, Högskoleexamen, Belastningsregister, Design, Lärling osv")
-    user_question = st.text_input("Skriv in en fråga, eller ett ord: ")
+    user_question = st.text_input("Skriv in en fråga: ")
     button = st.button("Starta gemini")
     if button: # and len(df_with_city_occupation) < 10: 
         st.write("Startar...", user_question)
-        write_to_gemini(df_to_embedd, user_question)
+        write_to_gemini(df_to_embedd, user_question, field)
         
         
-def write_to_gemini(df, question):
+def write_to_gemini(df, question, field):
     
-    promt = f"""Du är en rekryterare inom Kropp och skönhetsvård.
-    Svara på denna fråga och plocka ut den bästa annonsen: {question} 
-    genom att läsa beskrivningarna i dessa jobbannonser: 
+    prompt = f"""Du är en erfaren rekryterare inom området {field}. 
+    Din uppgift är att läsa igenom följande jobbannonser och välja den som bäst besvarar frågan: "{question}".
+
+    Jobbannonser:
     {df[["headline", "description"]]}
-    
-    skriv även ut HELA beskrivningen för den annons du väljer, precis som den är. 
+
+    Instruktion:
+    1. Välj en annons som är mest relevant för frågan och inkludera annonsnummer.
+    2. Motivera kort ditt val.
     """
+
+
     model = oldGenai.GenerativeModel(
             model_name="gemini-2.0-flash",
             generation_config=GenerationConfig(
@@ -64,8 +69,8 @@ def write_to_gemini(df, question):
                 top_k=1     # Tar bort variation)                       #verkar inte göra skillnad    
             )
         )
-    response = model.generate_content(promt)
-    st.write(response.text) # Skriver ut varje promt
+    response = model.generate_content(prompt)
+    st.write(response.text) # Skriver ut svaret
     
     
 # EMBEDDING
