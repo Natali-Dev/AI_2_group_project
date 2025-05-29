@@ -1,279 +1,108 @@
-,workplace_city,vacancies,description
-0,ej angiven,153,"Sveriges ledande artistförmedling söker nu Djś, musiker, rockband, skådespelare, artister och talanger.
-Läs mer om oss på www.swedeagency.se
-kontakt@swedeagency.se
-Öppen för alla
-Vi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.Role: Information Security Specialist
-Seniority Level: Senior
-Location: Gothenburg, Sweden
-Remote Work: 0% (On-site only)
-Workload: 100%
-Application Deadline: May 22, 2025
-Key Responsibilities:-
-Information Classification & Data Governance
-Lead the implementation and ongoing improvement of WirelessCar’s Information Classification Program.
-Develop classification guidelines aligned with regulatory and business requirements.
-Collaborate with stakeholders to ensure adoption and compliance with classification standards.
-Cybersecurity Governance & Compliance
-Support compliance initiatives aligned with standards like ISO 27001, NIST, and others.
-Participate in risk assessments, control implementation, and remediation processes.
-Align business operations with internal security policies and industry best practices.
-Business-Aligned Security Support
-Bridge communication between technical and non-technical teams.
-Support RFI/RFP (Rfx) processes by collaborating with Procurement and Legal.
-Conduct third-party risk assessments and vendor compliance evaluations.
-Cross-Functional Collaboration
-Work with IT, Engineering, Legal, Procurement, and Operations to ensure security practices are consistent and effective.
-Translate technical security requirements into business-relevant policies.
-Promote security awareness and training, especially around data handling and compliance.
-Required :-
-University degree and 8+ years of experience in information security or cybersecurity compliance.
-Proven ability to lead business-driven security initiatives.
-Experience in GRC functions and knowledge of compliance frameworks.
-Strong generalist understanding of cybersecurity principles.
-Familiarity with Rfx processes and vendor risk management.
-Excellent communication skills, both technical and non-technical.
-Relevant certifications (e.g., CISSP, CISA, CISM) are a plus.Join Relax as our Game Design Director!  
-Relax Gaming is on a mission: to create the most innovative and captivating games the industry has ever seen, both today and for the future. As our Director of Games, you’ll take the helm, steering our slot game strategy, driving game creation, and leading a talented team of creative innovators. Your leadership will be pivotal in ensuring Relax continues to deliver premium, industry-defining content. 
-If you’re still reading, we’ve got your attention—let’s see if we can seal the deal! 
-Your Role 
-As a leader in iGaming, you’ll direct and mentor our team of Product Owners and Gaming Mathematicians while collaborating closely with the Production Director, who oversees studio and production teams. You’ll be responsible for implementing the game roadmap strategy, delivering high-quality, engaging game products, and shaping new game features that elevate player experiences.
-Beyond game development, you’ll contribute to broader company strategies, providing vision and direction to align our products with Relax goals. 
-This is your opportunity to shape the future of iGaming by leading a talented team in a company that values creativity, innovation, and strategic vision. 
-Are you the unicorn we’re looking for? Let’s find out. 
-What We’re Looking For 
-We’re seeking a passionate, creative, and detail-oriented leader with:
-Proven Experience: A track record of working with Game Product Owners and Mathematicians to produce top-tier games for key markets. 
-Leadership Skills: The ability to inspire and motivate teams, confidently own decisions, and foster collaboration. 
-Industry Expertise: A solid understanding of responsible gambling, game mechanics, and the latest trends in iGaming. 
-Passion for Gaming: A love for slot game design and delivering unforgettable gaming experiences. 
+,occupation,vacancies,description
+0,Tolk,114,"Lunds universitet grundades 1666 och rankas återkommande som ett av världens främsta lärosäten. Här finns omkring 47 000 studenter och mer än 8 800 medarbetare i Lund, Helsingborg och Malmö. Vi förenas i vår strävan att förstå, förklara och förbättra vår värld och människors villkor.
 
-Key Responsibilities 
-Your areas of responsibilities (don’t worry, it will grow as you grow): 
-Creative Vision & Strategy: Define a cohesive creative vision for the Relax game portfolio, aligning it with market trends and business goals. Build and share strategic guidelines with teams to ensure consistent alignment in game development. 
-Game Development Oversight: Approve games during the line-up process, guide game ideation, and ensure a steady flow of high-quality games to market. Provide constructive feedback to teams to balance creativity with strategy. 
-Team Leadership: Lead, mentor, and expand a team of game designers and mathematicians, ensuring alignment with the Relax hiring standards and fostering a collaborative and innovative work environment. 
-Ideation & Feature Development: Facilitate workshops to generate ideas for games and features. Collaborate on feature concepts and cross-game functionality with the creative and UX teams to enhance the overall player experience. 
-Partner Collaboration: Provide strategic direction for co-productions with partners like Casino Daddy and Casino Grounds, ensuring successful collaborations. 
-Market Analysis & Data Utilization: Monitor competitive trends, player behaviour, and market needs to create games that resonate with target audiences. Use data and analytics to optimize game performance and engagement. 
-Roadmap Management: Develop and present short- and long-term roadmaps to internal stakeholders, including Marketing, Account Managers, and Executives. Provide input on quarterly roadmaps for Relax and Silver Bullet games. 
-Regulatory & Market Expertise: Maintain a clear understanding of business operations, regulated markets, and industry trends to maximize the potential of each game. 
-Cross-Department Collaboration: Work closely with Marketing, Account Managers, and the Production Director to ensure optimal game rollouts and product updates, including jackpot designs. 
 
-What You’ll Need 
-3+ years of experience leading teams of Game Product Owners and Mathematicians. 
-Previous experience as a Game Product Owner or a similar role. 
-Expertise in designing slot games for the iGaming industry. 
-A strong understanding of game mechanics and player engagement. 
-Fluency in English. 
+Lunds universitet välkomnar sökande med olika bakgrund och erfarenheter. Jämställdhet, lika villkor och mångfald är grundläggande principer för alla delar av vår verksamhet.
 
-About Relax Gaming 
-Back in 2010, we kicked off our journey with a simple mission - to create outstanding games for the modern iGaming world. Fast forward to today, and we've grown to be one of the leading suppliers in the game, boasting an aggregation arm like no other. Despite our exponential growth, we've succeeded in staying true to our core values throughout the years, these are to be: Driven, Adaptable, Supportive, and Respectful. We live and breathe this ethos across our offices across the globe, namely in Malta, Estonia, Serbia, Finland, Sweden, and Gibraltar. 
-Life at Relax  
-This role is placed in Stockholm or Malmö, Sweden. 
-Relax is at a very exciting growth stage as a company; however, we cherish our informal and flexible core atmosphere where self-initiative, taking pride in what you do and ambition to deliver the best results are key components. For the right person, there are endless opportunities for personal and professional development.Interested in being part of a growing young organisation in a truly international environment with people from diverse backgrounds? Do you want to be close to the action in producing the next generation of high-quality Casino games?
-Job Summary
-We are looking for an experienced and knowledgeable Game Product Owner to join our team. In this role, you will oversee new game productions under the Relax brand.
-It combines market insights, game design, and commercial strategies to keep our portfolio competitive in the evolving gaming industry.
-In this position, you will lead the creation of unique slot games from concept to launch, ensuring every feature, mechanic, and detail is executed precisely. You will be responsible for creating the vision, directing the team, and making essential decisions to turn concepts into successful games. Your leadership will coordinate the efforts of artists, developers, and animators.
-If you excel in a creative and dynamic environment and wish to contribute directly to the development of record-breaking slot games with distinctive ideas, themes, and innovative mechanics that stand out in the market, this role is for you!
-Responsibilities
-Creating unique game concepts with innovative mechanics to meet our gaming strategy
-Creating and owning cross-game ideas that can be used consistently across all our games
-Overseeing the quality, design, mechanics, production and delivery of the end game products, both network and custom games
-Producing high-end casino game content that matches the Relax Gaming Strategic ambitions
-Ensuring requirements for studios are correct, accurate and prioritized
-Ensuring a successful release to the market
-Collaborating with a variety of stakeholders, including mathematicians, marketing, compliance, and commercial
-Researching our key target markets and the competitive landscape to stay ahead of the curve and applying this to games
-Guide and give feedback on all game productions
-Working closely with the BI team to identify valuable data to enhance player journey and decision-making
-Actively represent Relax as an ambassador and present games to external stakeholders
 
-Requirements
-You live and breathe slot game design and must have:
-Excellent and proven game production experience within iGaming industry
-Experience in creating new and innovative mechanics with an in-depth understanding of game statistics and their impact on gameplay experience
-Excellent communication, presentation and collaboration skills
-Strong understanding of the slots market and keeping up with trends.
-Proactive can-do attitude, ability to take initiative, accountability
-Be a team player who inspires, aligns, and keeps projects running smoothly.
-Natural talent for problem-solving
-Excellent eye for detail
 
-Bonus points for…
-5+ years working in the same role
-Experience of mentoring others
-Experience in working in an international environment
-Experience working with jackpot systems
 
-About Relax
-Back in 2010, we kicked off our journey with a simple mission - to create outstanding games for the modern iGaming world. Fast forward to today, and we've grown to be one of the leading suppliers in the game, boasting an aggregation arm like no other. Despite our exponential growth, we've succeeded in staying true to our core values throughout the years, these are to be: Driven, Adaptable, Supportive, and Respectful. We live and breathe this ethos across our offices across the globe, namely in Malta, Estonia, Serbia, Finland, Sweden, and Gibraltar. Keen to find out more? Learn about us here: https://relax-gaming.com/careers/life-at-relax.
-Life at Relax
-This role can be placed in Malta, Stockholm or Malmö.
-Relax Gaming is just more than a workplace, it’s a community. We have a nice and cozy office, provided with snacks & soft drinks whenever you need one. We’re having lots of fun together, whether it’s team events, poker tournaments, movie nights, sports competitions or our endless refined jokes in Slack. There’s something for everyone.
-Despite the substantial growth, we will always cherish our informal and flexible core atmosphere, where self-initiative, pride in what you do, and ambition to deliver the best results are key components. For the right person, there are endless opportunities for an amazing personal growth experience. And what’s super important—there’s always a top-notch team around you who will support you in everything you do!
-We are starting with interviews right away, so be quick to apply!
-We handle all applications confidentiallySveriges Radios uppdrag är att sända radio i allmänhetens tjänst och vi har 7,4 miljoner lyssnare i veckan. Över hälften av befolkningen tar del av vårt utbud i någon form varje dag. Antingen i direktsänd linjär radio eller on-demand, i FM, på våra egna digitala plattformar eller hos andra aktörer. Vi erbjuder trovärdig kunskap, fördjupning, sällskap och förströelse. Att jobba på Sveriges Radio innebär därför att du, oavsett roll, är en värdefull del i ett viktigt uppdrag. 
+Beskrivning av arbetsplatsen 
+Språk- och litteraturcentrum (SOL) är Sveriges största institution med inriktning på språk, språkvetenskap, litteraturvetenskap och områdesstudier.
 
-Appen Sveriges Radio Play är en digital nyhetsdestination med ljudet i fokus. Appen och sajten erbjuder en bred mix av linjära kanalsändningar, intressanta poddar och aktuella nyheter. För att stärka det lokala nyhetserbjudandet, och nå ut ännu bättre till den digitala P4-publiken, finns numera en digital deskorganisation med ansvar för det lokala nyhetsinnehållet, Digitala Hubben. 
+SOL erbjuder ca 500 fristående kurser som kompletteras av ett växande antal programutbildningar på grundnivå och avancerad nivå. Med sina 36 ämnen och ett 30-tal forskarutbildningar bildar SOL en solid enhet med bredd och djup i utbildning och forskning och utmärks av såväl nationell som internationell synlighet. SOL leds av en styrelse där prefekten är ordförande. Därutöver finns tre biträdande prefekter med särskilda verksamhetsansvar. SOL har cirka 300 anställda och 8000 studenter, varav ett hundratal är forskarstuderande.
 
-Digitala Hubben har sina medarbetare utspridda på 25 orter – från Luleå till Malmö, från Uddevalla till Visby. Vi jobbar tillsammans som en gemensam organisation och håller löpande kontakt digitalt. Alla som jobbar i Digitala Hubben har digitalt fokus och jobbar med optimering av Lokalt-sidorna, nyhetsbevakning och sociala medier-publicering. 
+Vi erbjuder
+Lunds universitet är en statlig myndighet vilket innebär att du får särskilda förmåner, generös semester och en förmånlig tjänstepension. 
+Läs mer på universitetets webbplats om att vara anställd hos oss https://www.lu.se/om-universitetet/jobba-hos-oss
 
-Nu söker vi digitala redaktörer för två vikariat. Ett vikariat sträcker sig från så snart som möjligt fram till årsskiftet och det andra från 1 september fram till 31 maj-26. Placeringsort är vid något av Sveriges Radios 25 lokala radiohus runt om i landet. Man behöver vara på plats regelbundet med möjlighet att jobba hemifrån ibland. Schemat kommer även innefatta kvälls- och helgjobb.
+Arbetsuppgifter och ansvarsområden
+I anställningen ingår att undervisa framförallt i de praktiska momenten i tolkning till och från rumänska samt bistå de ordinarie lärarna både praktiskt och teoretiskt i deras undervisning. Du måste också kunna granska de studerandes kunskaper i rumänska. Undervisningen rör områdena arbetsmarknads-, social-, sjukvårds- och i viss mån rättstolkning. I uppdraget ingår att förbereda studenterna på ett framtida yrkesliv som tolk. Du kommer även att delta i examination av studenter. Undervisningen är helt distansförlagd. 
 
-Tjänsten och ansvarsområden
+Kvalifikationer 
+Krav för anställningen är:
+•    kandidatexamen i relevant ämne
+•    dokumenterade erfarenheter av tolkning i offentlig sektor
+•    erfarenhet av tidigare utbildning av tolkar i offentlig sektor eller motsvarande kunskaper
+•    god pedagogisk förmåga samt personlig lämplighet för anställningen
+•    goda ämneskunskaper av relevans för anställningens innehåll
+•    genomgången högskolepedagogisk utbildning om minst fem veckor eller motsvarande kunskaper inhämtade på annat sätt.
 
- - Sätta rubriker och skriva artikeltext utifrån digitala ljudklipp
- - Publicera innehåll i sociala medier och moderera kommentarer
- - Optimera nyhetsflödet, bygga puffpaket och skicka nyhetspushar
- - Bevaka händelsenyheter för alla 25 P4-kanaler
- - Kommunicera med lokala kollegor kring pågående nyhetshändelser
- - Delta i digitala utvecklingsprojekt kring olika områden
-Vi söker dig som har: 
+För denna anställning kan undantag från kravet på högskolepedagogisk utbildning övervägas om det kan anses berättigat i ljuset av övrig meritering.
 
- - Journalistisk      högskoleutbildning eller motsvarande yrkeserfarenhet
- - Erfarenhet      av att jobba med digitala publiceringar i redaktionell verksamhet
-Det är också meritande om du har: 
+Meriterande för anställningen är:
+•    auktorisation i tolkning
+•    undervisningserfarenhet från högskola/universitet.
 
- - Erfarenhet av att jobba med sociala medier-innehåll 
- - Erfarenhet av att jobba med Breaking News-bevakning
-Frågor och kontaktuppgifter 
+Övrigt 
+Anställningen är en visstidsanställning på 25 procent med startdatum den 2025-08-15, eller enligt överenskommelse, dock längst till och med 2026-06-30. För information om anställningen kontakta sektionsföreståndare, Anna W Gustafsson https://www.sol.lu.se/person/AnnaGustafsson, eller studierektor, Sandy Åkerblom https://www.sol.lu.se/person/SandyAkerblom 
 
-Frågor om tjänsten: Erik Sjölander, redaktionschef, erik.sjolander@sr.se samt Mari Stenström, biträdande redaktionschef, mari.stenstrom@sr.se. Frågor om rekryteringen: Marianne Jansson, HR-partner, marianne.jansson@sr.seFackliga kontakter: Kalle Kovacs, SJF, kalle.kovacs@sr.se, Lars-Peter Hielle, Unionen, lars-peter.hielle@sr.se samt Saco som nås via saco@sr.se. 
+Så här söker du
+Anställningen söks via universitetets rekryteringssystem. Ansökan ska/bör på vilket sätt anställningen matchar dina meriter. Ansökan ska/bör även innehålla CV, examensbevis eller motsvarande samt övrigt som du önskar åberopa (kopior av betyg, uppgifter till referenser, rekommendationsbrev etc.)
 
-Sista ansökningsdag den 30 maj 2025.
-Varmt välkommen med din ansökan!
+Om Humanistiska och teologiska fakulteterna
 
-Företagsbeskrivning gömd på alla jobb på hela kontot. Kontakta Jobylon för att visa igen.Job description
-We are looking for a creative and passionate Web Designer to join our dynamic team at Raise. If you 
-master the principles of modern design, know how to combine aesthetics and functionality, and have 
-a strong UX/UI sensitivity, this opportunity is made for you!
+Humanistiska och teologiska fakulteterna har åtta institutioner och bedriver en stor och varierad verksamhet inom forskning och utbildning. Vi har ca 700 anställda och ca 4 000 helårsstudenter.
 
-. Create attractive and functional web mock-ups and interfaces 
-. Improve the UX and UI of our existing platforms 
-. Collaborate closely with the product, development, and marketing teams 
-. Ensure visual consistency of our brand identity across all digital channels 
-. Design responsive web pages that meet current standards 
+Om Språk- och litteraturcentrum
 
-Requirements
-. Proven experience in web design / UI-UX design
-. Proficiency in Figma, Adobe XD, or other design tools
-. Solid understanding of web constraints (responsive design, performance, accessibility)
-. Strong web culture and keen eye for graphic details
-. Autonomous, creative, and meticulous
+Språk- och litteraturcentrum (SOL) är Sveriges största institution med inriktning på språk, språkvetenskap, litteraturvetenskap och områdesstudier. SOL erbjuder ca 500 fristående kurser som kompletteras av ett växande antal programutbildningar på grundnivå och avancerad nivå. Med sina 36 ämnen och ett 30-tal forskarutbildningar bildar SOL en solid enhet med bredd och djup i utbildning och forskning och utmärks av såväl nationell som internationell synlighet. SOL leds av en styrelse där prefekten är ordförande. Därutöver finns tre biträdande prefekter med särskilda verksamhetsansvar. SOL har cirka 300 anställda och 8000 studenter, varav ett hundratal är forskarstuderande.
 
-Training provided
-Onboarding to the team and the company. 
-Each manager is responsible for training the new recruit within their respective team. The training will 
-be based on the recruit's job description as well as an introduction to the world of trading. 
+Vi undanber oss alla kontakter från annonsförsäljare, rekryterings- och bemanningsföretag på grund av statliga upphandlingsregler.Lunds universitet grundades 1666 och rankas återkommande som ett av världens främsta lärosäten. Här finns omkring 47 000 studenter och mer än 8 800 medarbetare i Lund, Helsingborg och Malmö. Vi förenas i vår strävan att förstå, förklara och förbättra vår värld och människors villkor.
 
-Any assistance with accommodation/relocation
-We regret to inform you that we do not provide assistance with accommodation or relocation.
 
-Any other benefits
-We offer access to a gym, weekly team events, and breakfast on Monday mornings. Additionally, we 
-have a very flexible leave policy to accommodate our employees' needs.
+Lunds universitet välkomnar sökande med olika bakgrund och erfarenheter. Jämställdhet, lika villkor och mångfald är grundläggande principer för alla delar av vår verksamhet.
 
-Salary
-?30,000 to ?40,000 per year.
 
-How will the interviews be held 
-The first interview will be conducted online, and if successful, the second interview will take place 
-online with the manager responsible for the respective position.
 
-To apply
-CVs and a covering email are to be sent by email to eures.recruitment.jobsplus@gov.mt and should 
-be written in English. Please quote the vacancy name and number 417936  in your emailSpråkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
+
+Beskrivning av arbetsplatsen 
+Språk- och litteraturcentrum (SOL) är Sveriges största institution med inriktning på språk, språkvetenskap, litteraturvetenskap och områdesstudier.
+
+SOL erbjuder ca 500 fristående kurser som kompletteras av ett växande antal programutbildningar på grundnivå och avancerad nivå. Med sina 36 ämnen och ett 30-tal forskarutbildningar bildar SOL en solid enhet med bredd och djup i utbildning och forskning och utmärks av såväl nationell som internationell synlighet. SOL leds av en styrelse där prefekten är ordförande. Därutöver finns tre biträdande prefekter med särskilda verksamhetsansvar. SOL har cirka 300 anställda och 8000 studenter, varav ett hundratal är forskarstuderande.
+
+Vi erbjuder
+Lunds universitet är en statlig myndighet vilket innebär att du får särskilda förmåner, generös semester och en förmånlig tjänstepension. 
+Läs mer på universitetets webbplats om att vara anställd hos oss https://www.lu.se/om-universitetet/jobba-hos-oss
+
+Arbetsuppgifter och ansvarsområden
+I anställningen ingår att undervisa framförallt i de praktiska momenten i tolkning till och från thai samt bistå de ordinarie lärarna både praktiskt och teoretiskt i deras undervisning. Du måste också kunna granska de studerandes kunskaper i thai. Undervisningen rör områdena arbetsmarknads-, social-, sjukvårds- och i viss mån rättstolkning. I uppdraget ingår att förbereda studenterna på ett framtida yrkesliv som tolk. Du kommer även att delta i examination av studenter. Undervisningen är helt distansförlagd. 
+
+Kvalifikationer 
+Krav för anställningen är:
+•    kandidatexamen i relevant ämne
+•    dokumenterade erfarenheter av tolkning i offentlig sektor
+•    erfarenhet av tidigare utbildning av tolkar i offentlig sektor eller motsvarande kunskaper
+•    god pedagogisk förmåga samt personlig lämplighet för anställningen
+•    goda ämneskunskaper av relevans för anställningens innehåll
+•    genomgången högskolepedagogisk utbildning om minst fem veckor eller motsvarande kunskaper inhämtade på annat sätt.
+
+För denna anställning kan undantag från kravet på högskolepedagogisk utbildning övervägas om det kan anses berättigat i ljuset av övrig meritering.
+
+Meriterande för anställningen är:
+•    auktorisation i tolkning
+•    undervisningserfarenhet från högskola/universitet.
+
+Övrigt 
+Anställningen är en visstidsanställning på 25 procent med startdatum den 2025-08-15, eller enligt överenskommelse, dock längst till och med 2026-06-30. För information om anställningen kontakta sektionsföreståndare, Anna W Gustafsson https://www.sol.lu.se/person/AnnaGustafsson, eller studierektor, Sandy Åkerblom https://www.sol.lu.se/person/SandyAkerblom 
+
+Så här söker du
+Anställningen söks via universitetets rekryteringssystem. Ansökan ska innehålla personligt brev med motivering till varför du är intresserad av anställningen och på vilket sätt anställningen matchar dina meriter. Ansökan ska/bör även innehålla CV, examensbevis eller motsvarande samt övrigt som du önskar åberopa (kopior av betyg, uppgifter till referenser, rekommendationsbrev etc.)
+
+Om Humanistiska och teologiska fakulteterna
+
+Humanistiska och teologiska fakulteterna har åtta institutioner och bedriver en stor och varierad verksamhet inom forskning och utbildning. Vi har ca 700 anställda och ca 4 000 helårsstudenter.
+
+Om Språk- och litteraturcentrum
+
+Språk- och litteraturcentrum (SOL) är Sveriges största institution med inriktning på språk, språkvetenskap, litteraturvetenskap och områdesstudier. SOL erbjuder ca 500 fristående kurser som kompletteras av ett växande antal programutbildningar på grundnivå och avancerad nivå. Med sina 36 ämnen och ett 30-tal forskarutbildningar bildar SOL en solid enhet med bredd och djup i utbildning och forskning och utmärks av såväl nationell som internationell synlighet. SOL leds av en styrelse där prefekten är ordförande. Därutöver finns tre biträdande prefekter med särskilda verksamhetsansvar. SOL har cirka 300 anställda och 8000 studenter, varav ett hundratal är forskarstuderande.
+
+Vi undanber oss alla kontakter från annonsförsäljare, rekryterings- och bemanningsföretag på grund av statliga upphandlingsregler.Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
 Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
 Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
-Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Please note that we seek a Manding speaker from The Gambia.
-The job entails
-·       carrying out and recording interviews for dialect analysis,
-·       listening to recorded speech and using a specific template to report the details of the dialect spoken.
-The work will be carried out remotely via audio link.
-Verified AB is one of the largest companies in Europe to provide language analysis. Our clients are primarily authorities concerned with asylum matters. The analyses support the authorities in determining the background of asylum seekers. In each case, a language analyst with a specific linguistic and areal competence is involved. The native speaker analysts work together with Verified’s linguists.
-To work as a language analyst for Manding, you should
-- speak Manding as spoken in The Gambia
-- have in-depth knowledge of the area where Manding is spoken (born and raised/long-term residence) and be well acquainted with the social, cultural and political situation there
-- be familiar with dialectal variation in Manding and its relationship to neighbouring languages
--  be aware of current developments in the Manding community in The Gambia
-- be able to express yourself clearly and correctly in English (or Swedish)
-- have good computer skills
-We value punctuality, orderliness and dependability among our analysts.
-There are presently only a few requests per year for analysis of Manding and work will be assigned on a case-by-case basis. This job is suitable as a sideline for a language enthusiast.
-Please write your application in English/Swedish and include a curriculum vitae (CV). Make sure that the CV shows your educational background and employment history.
-The successful applicant must submit a clean criminal record prior to employment.Please note that we seek a native speaker of one of the varieties of Arabic spoken in Saudi Arabia. The job entails
-·       carrying out and recording interviews for dialect analysis,
-·       listening to recorded speech and using a specific template to report the details of the dialect spoken.
-The work will be carried out remotely via audio link.
-Verified AB is one of the largest companies in Europe to provide language analysis. Our clients are primarily authorities concerned with asylum matters. The analyses support the authorities in determining the background of asylum seekers. In each case, a language analyst with a specific linguistic and areal competence is involved. The native speaker analysts work together with Verified’s linguists.
-To work as a language analyst with Uyghur
-- be a native speaker of Uyghur.
-- have in-depth knowledge of the Uyghur community in Asia and be well acquainted with its social, cultural and political situation
-- be familiar with dialectal variation in Uyghur
-- maintain close contacts with the Uyghur-speaking community in Asia
-- be able to express yourself clearly and correctly in English (or Swedish)
-- have good computer skills.
-We value punctuality, orderliness and dependability among our analysts.
-There are presently rather few requests for analysis of Uyghur, and work will be assigned on a case-by-case basis. This job is suitable on the sideline for a language enthusiast.
-Please write your application in English and include a curriculum vitae (CV). Make sure that the CV shows your educational background and employment history. Please submit your application at jobb@verified.se
-The successful applicant must submit a clean criminal record prior to employment.Om Barncancerfonden
-Barncancerfonden kämpar för en framtid där alla barn som drabbas av cancer överlever, och gör det utan medicinska eller sociala men för livet.
-Så är det inte idag. Varje dag insjuknar ett barn i cancer, vissa av dem kommer att vara helt chanslösa inför sin diagnos. Och långt fler än varannan överlevare har komplikationer livet ut.
-Vi vägrar acceptera att det finns chanslösa barn. Därför satsar vi på världsledande forskning som botar utan att skada, och som kan besegra de obotliga barncancerformerna. Därför hjälper vi politiken att förstå och ta ansvar för de drabbades situation. Därför erbjuder vi akut och långsiktigt stöd för barn, familjer och överlevare. För barn och cancer hör inte ihop.
-Tack vare generösa bidrag från privatpersoner, företag och organisationer är Barncancerfonden den enskilt största finansiären av barncancerforskning i Sverige. Barncancerfonden är godkänd av Svensk Insamlingskontroll och har ett 90-konto, vilket garanterar att pengarna går till rätt ändamål.
-Var med och påverka nu och i framtiden för barn med cancer!
-Vill du vara med om att bidra till en barncancerrevolution? Då är detta ett uppdrag för dig.
-Barncancerfonden består av sex lokala föreningar och ett riksförbund. I ditt uppdrag kommer du arbeta med utgångspunkt i Barncancerfonden Östras verksamhet, men även med föreningsgemensamma uppdrag. Barncancerfonden Östra bedriver verksamhet i Östergötlands och Kalmar län. Föreningens syfte är att stödja cancersjuka barn och dess familjer, skapa trivsamma förhållanden på sjukhusen och sprida information om barncancer.
-Ditt huvuduppdrag är att arbeta med kommunikation, administration, styrelsestöd och stöd till företag och samarbetspartners. I uppdraget har du ett nära samarbete med Barncancercentrum och kommer därigenom möta drabbade barn, familjer och personal regelbundet. Föreningsinformatören ska utforma och verkställa arbetsuppgifter på ett produktivt och effektivt sätt utifrån gällande målsättningar och strategier.
-Dina uppgifter
-Planering, produktion och uppföljning av kommunikationsinsatser om föreningens verksamhet i olika kanaler (bl a sociala medier och nyhetsbrev), samt innehållsansvar för föreningens webbsida.
-Arbeta tillsammans med andra informatörer på enheten och kollegor på kommunikationsenheten för att säkerställa att Barncancerfonden har en samlad och effektfull kommunikation genom hela organisationen.
-Operativt ansvara för föreningens administrativa processer, exempelvis faktura- och utläggshantering, medlemsregister, medlemsservice, texter till förvaltningsberättelse och processer kopplat till föreningens rekreationsboenden.
-Upprätthålla föreningens rutiner kring personuppgiftsbehandling och löpande rapportera om verksamheten till Barncancerfondens dataskyddsombud.
-Ge stöd till föreningsstyrelsen. I det ingår att bereda underlag, verkställa och återkoppla på beslut och att ge annat stöd utefter behov.
-Agera som kansliets kontaktperson för företag och externa samarbetspartners. I det ingår att vårda relationer och ge praktiskt stöd vid insamlings- och eventinitiativ. 
-Vara föreningens kontaktperson för det stöd som föreningen ger på region-/hemsjukhus. 
-I samarbete med gruppledaren för koordinatorer arbeta med föreningens volontärverksamhet i enlighet med den föreningsgemensamma volontärstrategin och styrelsens önskemål. Det kan även innefatta projektledning av aktiviteter som föreningen genomför med hjälp av anställd personal, med eller utan volontärer till stöd. I det ingår planering, genomförande och effektmätning. 
-
- Din profil
-Eftergymnasial utbildning för tjänsten relevant område, eller arbetslivserfarenhet som arbetsgivaren bedömer som likvärdig.
-Erfarenhet av att planera, producera och utvärdera kommunikationsinsatser i flertalet olika kanaler, så som webb och sociala medier.
-Dokumenterat god förmåga att uttrycka dig i skrift samt god känsla för målgruppsanpassad kommunikation.
-Erfarenhet av faktura- och utläggshantering samt arbete i ekonomi- och medlemssystem med stora krav på noggrannhet.
-Ha god förmåga att bemanna och besvara ärenden från medlemmar, givare och allmänhet via mejl och telefon.
-Ha en mycket god förståelse för vad det innebär att arbeta i en medlemsstyrd ideell verksamhet och kunskap kring vilket stöd en styrelse behöver.
-
- Egenskaper
-Trygg, öppen och empatisk person med mycket stor omdömesgillhet.
-Stort självledarskap med god förmåga att kunna planera och avgränsa ditt arbete.
-Fokuserad på mål, resultat och lösning.
-Handlingskraftig, flexibel och prestigelös. 
-
- Vi erbjuder
-Barncancerfonden är en arbetsplats med cirka 90 engagerade medarbetare som varje dag strävar efter att göra skillnad. Vi erbjuder en arbetsplats präglad av engagemang, framtidstro och gemenskap. Tillsammans gör vi skillnad för drabbade barn och deras närstående, på kort och lång sikt. På Barncancerfonden vill vi vara en arbetsplats präglad av en mångfald som speglar det samhälle vi är en del av.
-På Barncancerfonden ska vi göra allt som står i vår makt för att vår verksamhet ska vara trygg och säker för våra barn. En bakgrundskontroll när du söker jobb sker därför alltid i slutet av en rekrytering hos Barncancerfonden, som ett sista steg innan du får ett jobberbjudande. 
-Tjänsten är en tillsvidareanställning, som inleds med en provanställning om 6 månader. Vi önskar tillträde 1 oktober 2025.
-Du kommer att vara placerad på ett kontor i Linköping. För denna tjänst gäller målstyrd arbetstid där heltid motsvarar 38 h/vecka. Vi har möjlighet till 50 procent arbete på kontoret respektive 50 procent distansarbete – om det är möjligt utifrån verksamhetens behov. I tjänsten ingår resor både inom föreningens region och till andra platser i Sverige, t ex vid personalsammankomster. Vi erbjuder ett generöst friskvårdsbidrag och vi har kollektivavtal via Fremia med bland annat tjänstepension och försäkringar.
- Ansökan
-Välkommen med din ansökan! Urval och intervjuer sker efter sista ansökningsdag 31 maj 2025. Om du vill ha mer information, kontakta gruppledare Lena Hedlund, lena.hedlund@barncancerfonden.se.
-Facklig representant – kontakt: Elin Bernhard, elin.bernhard@barncancerfonden.seArkeologicentrum söker framtida nyckelperson
-I dag finns många arkeologiföretag. Men inget som Arkeologicentrum. Vi startade för 25 år sedan och byggde en arbetsplats där vi själva vill jobba. Och ett konsultföretag vi själva skulle vilja köpa tjänster av. Ett med fokus på effektiv och rättssäker hantering av kulturmiljöärenden, snabba resultatleveranser, en hög servicenivå och hushållning med kundernas, våra och jordens resurser. Vi utför uppdrag med stor bredd men med tonvikten inom hållbar energiproduktion. Nu behöver vi förstärka med ytterligare en resurs som vi tänker oss är en framtida nyckelperson i verksamheten.
- 
-Vad innebär jobbet?
-En dag på jobbet kan innefatta möten med medarbetare och kunder, ofta via Teams, projektplanering, kostnadsberäkningar och sammanställning av offerter, textproduktion för underlag för samrådsunderlag, för bemötanden av kompletteringskrav gällande ansökningshandlingar, för inlagor till mark- och miljödomstolar, sammanställning av kulturmiljöanalyser med stor bredd, som regel för underlag för ansökningshandlingar enligt miljöbalken och miljökonsekvensbeskrivningar, lektörs- och korrekturläsning, biblioteks- och arkivresor, platsbesök och fältarbeten som ofta är i form av arkeologisk inventering, syn med mark- och miljödomstol, möten och konferenser, rådgivning och en del oväntade och oförutsägbara arbetsuppgifter som blir rena överraskningarna!
- 
-Vem söker vi?
-För att kunna hantera arbetsuppgifterna behövs en gedigen akademisk examen, så klart med museiämnen men troligen också GIS, företagsekonomi och projektledning. En flexibel läggning och en hög integritet. Körkort B. Lång branscherfarenhet och god – nej, superb – kännedom om lagstiftningen inom vårt fackområde (MB, PBL, KML).
- 
-Vad får du hos oss?
-Av oss får du fast anställning, heltid eller deltid, med tjänstepension och försäkringar enligt kollektivavtal, en flexibel vardag med stor frihet och tillit, en arbetskultur där stöttning, trygghet och trivsel är prioriterade områden, kollegor som värdesätter dig och en möjlighet att vara med och forma en verksamhet så som den borde vara. Det kan till och med vara så, att du är Arkeologicentrums nästa ägare och styrelseordförande. Sannolikt jobbar du från hemmakontoret och träffar oss andra främst på Teams eller i fält. Men vi utesluter inte möjligheten av en reguljär arbetsplats, troligen i Visby eller Östersund.
- 
-Hur söker du?
-Vi tror att din lämplighet avslöjas av din tidigare verksamhet. Du behöver inte skriva långa brev till oss, och berätta sådant som jobbsökartips anger som väsentligt. Skicka CV till jobba@arkeologicentrum.se och var beredd på att i ett senare skede styrka uppgifterna du lämnar där. Välkommen att höra av dig!
-Och ja, då kanske vi ses?
-(Och nej tack, vi köper inga rekryteringstjänster. Bara så ni andra vet.)Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
+Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Vi söker utbildare inom japanska. 
+Uppdraget är en utbildning under 1 heldag workshop passar konsulter eller andra situationer.
+Utbildning kan göras på plats eller virtuellt via Teams och ni har delvis fria tyglar när ni kan leverera utbidlningen.Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
 Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
 Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
 Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Talar du flytande oromo och svenska? Sök idag! 
@@ -292,36 +121,7 @@ Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen altern
 Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
 Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
 Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
-Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Please note that we seek a speaker of a particular variety of Arabic, known as Hassaniya, as spoken in Western Sahara.
-The job entails
-·       carrying out and recording interviews for dialect analysis,
-·       listening to recorded speech and using a specific template to report the details of the dialect spoken.
-The work will be carried out remotely via audio link.
-Verified AB is one of the largest companies in Europe to provide language analysis. Our clients are primarily authorities concerned with asylum matters. The analyses support the authorities in determining the background of asylum seekers. In each case, a language analyst with a specific linguistic and areal competence is involved. The native speaker analysts work together with Verified’s linguists.
-To work as a language analyst for Hassaniya, you should
-·       be a mother-tongue speaker of Hassaniya (mandatory)
-·       be familiar with dialectal variation in Hassaniya and nearby dialects of Arabic
-·       have in-depth knowledge of the area where Hassaniya is spoken (born and raised/long-term residence) and be well acquainted with its social, cultural and political situation
-·       maintain close contacts with the Hassaniya community in Western Sahara and be aware of current developments
-·       be able to express yourself clearly and correctly in English (or Swedish)
-·       have good computer skills
-We value punctuality, orderliness and dependability among our analysts.
-There are presently only a few requests per year for analysis of Hassaniya and work will be assigned on a case-by-case basis. This job is suitable as a sideline for a language enthusiast.
-Please write your application in English and include a curriculum vitae (CV). Make sure that the CV shows your educational background and employment history.
-The successful applicant must submit a clean criminal record prior to employment.Fotograf, ett drömyrke för dig?
-Vi söker nu fler fotografer till vår fotografkår i Hässleholm med omnejd. Exakta Photo är Sveriges bästa skolfotoleverantör med mer än 60 års erfarenhet. Exakta Photo finns i hela Sverige och tillsammans fotograferar vi 900 000 elever varje år.
-Vi söker dig med ett genuint fotointresse som vill kombinera det med ett kul arbete bland barn och ungdomar. Vi värdesätter dina goda egenskaper som social förmåga, och att kunna jobba med eget ansvar under ordning och reda. Men även en estetisk ""blick"" för bild och form. Erfarenhet från barn- och ungdomsverksamhet är en stor merit.
-Du kommer att få tillgång till en digital fotoutrustning, vilket kräver god datorvana. Vi erbjuder dig en professionell fotoutbildning v32 i Nyköping men även en onlinekurs innan skolstarten i augusti.
-Tjänsten kräver att du har körkort samt tillgång till bil.
-Arbetsperiod i första hand v34 till v40 med möjlighet till förlängning.
-Tidigare branscherfarenhet inom foto/skolfoto är inget krav men är självklart en merit. Vi ser gärna ett samarbete med redan etablerade fotografer.
-Passa på att söka till vår glada fotografkår och berätta lite om dig själv samt bifoga ditt Cv och några bilder. (Eller länk).
-Välkommen med din ansökan!
-Övrigt
-För att arbeta med barn och ungdomar så behöver du visa upp ett godkänt utdrag ur belastningsregistret.
-Om anställningen
-Lön
-Lönetyp: Fast månads- vecko- eller timlönVi är en modern tolkförmedling som bokar och förmedlar tolkar genom vår webb och app.
+Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Vi är en modern tolkförmedling som bokar och förmedlar tolkar genom vår webb och app.
 Nu söker vi tolkar i Norska över hela Sverige.
 Vi söker tolkar på alla nivåer. Auktoriserade specialister, auktoriserade och utbildade. Har du mycket goda språkfärdigheter, men saknar utbildning, erbjuder vi dig en kostnadsfri onlineutbildning.
 Du ska, förutom goda språkkunskaper, ha god samhällsuppfattning, vara serviceinriktad och kan röra dig i många miljöer och sammanhang. Att vara tolk är ett roligt arbete, och kräver att du har hög integritet, är noggrann, mycket ansvarsfull och kan passa tider.
@@ -356,322 +156,191 @@ Du ska, förutom goda språkkunskaper, ha god samhällsuppfattning, vara service
 Vi utför tolkuppdrag både på plats hos kunder och via telefon samt video
 Körkort och bil krävs ej men är en fördel för uppdrag på plats
 Arbetet är vid behov och alla bokningar sker genom webben eller mobilen. Via telefon eller video kan du få uppdrag i hela Sverige.
-ANSÖK PÅ: jobb.digitaltolk.seJob description 
-About the role:
-We broadcast 24/7/365 in more than 15 languages from our broadcasting studios. At the core of our floor operations are our Game Presenters and Game Hosts, who lead the game in front of the camera, and our Shufflers, who prepare the cards.
+ANSÖK PÅ: jobb.digitaltolk.seLunds universitet grundades 1666 och rankas återkommande som ett av världens främsta lärosäten. Här finns omkring 47 000 studenter och mer än 8 800 medarbetare i Lund, Helsingborg och Malmö. Vi förenas i vår strävan att förstå, förklara och förbättra vår värld och människors villkor.
 
-We are looking for Game Presenters who want to work in a fast-paced and international work environment for our studio in Malta. As a Game Presenter, you will spend most of your time in front of the camera leading games and interacting with our live players to provide an engaging and rewarding experience
 
-Requirements
-. To have fluent knowledge and understanding of the Language that you are applying for. 
-. The desire to provide exceptional customer service
-. To be a mature and hardworking individual who can work well as part of a team
-. Good communication skills
-. Positive, pro-active approach to work, with a flexible, can-do attitude
-. A sense of responsibility and aspire to be the best at what you do
-. The ability to work as part of a wider team and be adaptable to changing business needs - this could include changing shift patterns and providing cover for colleagues
-. To be an entertainer at heart
-. Previous international experience with a right to work in the EU is a plus but not necessary
+Lunds universitet välkomnar sökande med olika bakgrund och erfarenheter. Jämställdhet, lika villkor och mångfald är grundläggande principer för alla delar av vår verksamhet.
 
-Training provided
-Three weeks paid training (You will get to spend up to your first three weeks of your journey with us in our Evolution Academy where we teach you game technique and all that you need to know to be camera-ready & be able to provide an excellent service to our clients while constantly maintaining the highest professional standards. All this while getting paid.)
 
-Any assistance with accommodation/relocation
-. Relocation package including flights & accommodation for the first 20 nights in Malta (if applicable)
-. Dedicated Employee Experience team who will support during the relocation
 
-Any other benefits
-. A competitive salary
-. Monthly performance bonuses
-. Free night shift taxi service to & from the studio
-. Free gym membership
-. Individual development and career progression opportunities
-. Opportunities to attend entertainment, make-up, modelling, healthy living, presentation skills, industry 
-knowledge, and communication workshops
 
-Salary
-Eur 18,000 - 23,500
+Beskrivning av arbetsplatsen 
+Språk- och litteraturcentrum (SOL) är Sveriges största institution med inriktning på språk, språkvetenskap, litteraturvetenskap och områdesstudier.
 
-How will the interviews be held: Online 
+SOL erbjuder ca 500 fristående kurser som kompletteras av ett växande antal programutbildningar på grundnivå och avancerad nivå. Med sina 36 ämnen och ett 30-tal forskarutbildningar bildar SOL en solid enhet med bredd och djup i utbildning och forskning och utmärks av såväl nationell som internationell synlighet. SOL leds av en styrelse där prefekten är ordförande. Därutöver finns tre biträdande prefekter med särskilda verksamhetsansvar. SOL har cirka 300 anställda och 8000 studenter, varav ett hundratal är forskarstuderande.
 
-Any other information
-We do not require any specific work experience or skills for this role, but we need you to have good English, a strong work ethic, be open to learning new things, and ideally have worked at least part-time for a year or two, preferably with service-related tasks.
+Vi erbjuder
+Lunds universitet är en statlig myndighet vilket innebär att du får särskilda förmåner, generös semester och en förmånlig tjänstepension. 
+Läs mer på universitetets webbplats om att vara anställd hos oss https://www.lu.se/om-universitetet/jobba-hos-oss
 
-To apply
-CV and a covering email are to be sent by email to eures.recruitment.jobsplus@gov.mt and should be written 
-in English. Please quote the vacancy name and number in your email.Role: Construction Designer – Cable Ducts
- Seniority Level: Senior
-Workload: Full-time (100%), onsite in Karlskrona minimum 3 days/week
- Location: Karlskrona, Sweden
- Remote Work: 50% (Minimum 3 days onsite/week)
- Application Deadline: 21 May 2025
-Key Responsibilities:
-Design and plan the harbor section to accommodate cable duct infrastructure
-Create construction drawings and 3D models for structural and civil engineering components
-Perform structural analysis including point load and ground load calculations
-Coordinate with other disciplines to define interfaces and site-specific requirements
-Develop and maintain a schedule for all project activities
-Ensure all documentation meets technical and safety standards
+Arbetsuppgifter och ansvarsområden
+I anställningen ingår att undervisa framförallt i de praktiska momenten i tolkning till och från turkiska samt bistå de ordinarie lärarna både praktiskt och teoretiskt i deras undervisning. Du måste också kunna granska de studerandes kunskaper i turkiska. Undervisningen rör områdena arbetsmarknads-, social-, sjukvårds- och i viss mån rättstolkning. I uppdraget ingår att förbereda studenterna på ett framtida yrkesliv som tolk. Du kommer även att delta i examination av studenter. Undervisningen är helt distansförlagd. 
 
-Requirements:
-Bachelor's degree in Civil/Structural Engineering or equivalent
-Minimum 5 years of experience in construction and infrastructure projects
-Proficient in CAD software and other design tools
-Experience in civil engineering, particularly groundworks and structural support
-Skilled in producing 3D models and technical drawings
-Strong analytical and problem-solving skills
-Excellent communication and teamwork capabilitiesTalar du flytande Kirgiziska och svenska? Sök idag! 
-Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
-Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
-Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
-Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Är du arkivarie som vill arbeta med e-arkiv? Eller är du kanske arkivarie som vill vidareutveckla din kunskap inom utveckling och digitalisering? 
-ArkivIT är ett konsultbolag med expertis inom digital arkiv- och informationshantering med tjänster inom våra områden Arkiv & Registratur, Dataskydd, Informationssäkerhet och E-arkiv. Företaget startades 2010, sedan dess har tjänsterna blivit fler, kompetensen bredare och vi fortsätter att växa. Våra konsulter är hängivna sitt yrke och bidrar med sin specialistkompetens till kunder runt om i hela Sverige. Vår ambition är att ta hand om och värna om det digitala kulturarvet, och samtidigt stärka våra kunder inom modern e-förvaltning och informationshantering. 
-Om rollen Nu söker ArkivIT konsulter med särskilt intresse för e-arkiv och utveckling. Du ska ha en bakgrund som arkivarie/e-arkivarie. 
-Inom e-arkivgruppen arbetar vi bland annat med införande, utveckling och förvaltning av system för e-arkivering med allt som det medför i form av förstudie, kravanalys, funktionsspecifikation, implementation, systemavställning med mera. För att klara av detta behövs både (e-)arkivarier, systemutvecklare och projektledare. En e-arkivarie kan också ha uppdrag som inte inkluderar arbete med e-arkiv utan i stället mer traditionellt arkivariearbete med pappersarkiv.
-Våra kunder finns främst inom offentlig sektor och kan vara allt från kommuner till större myndigheter men de finns även representerade inom privat sektor och då främst inom bank och finans. 
+Kvalifikationer 
+Krav för anställningen är:
+•    kandidatexamen i relevant ämne
+•    dokumenterade erfarenheter av tolkning i offentlig sektor
+•    erfarenhet av tidigare utbildning av tolkar i offentlig sektor eller motsvarande kunskaper
+•    god pedagogisk förmåga samt personlig lämplighet för anställningen
+•    goda ämneskunskaper av relevans för anställningens innehåll
+•    genomgången högskolepedagogisk utbildning om minst fem veckor eller motsvarande kunskaper inhämtade på annat sätt.
+
+För denna anställning kan undantag från kravet på högskolepedagogisk utbildning övervägas om det kan anses berättigat i ljuset av övrig meritering.
+
+Meriterande för anställningen är:
+•    auktorisation i tolkning
+•    undervisningserfarenhet från högskola/universitet.
+
+Övrigt 
+Anställningen är en visstidsanställning på 25 procent med startdatum den 2025-08-15, eller enligt överenskommelse, dock längst till och med 2026-06-30. För information om anställningen kontakta sektionsföreståndare, Anna W Gustafsson https://www.sol.lu.se/person/AnnaGustafsson eller studierektor, Sandy Åkerblom https://www.sol.lu.se/person/SandyAkerblom
+
+Så här söker du
+Anställningen söks via universitetets rekryteringssystem. Ansökan ska innehålla personligt brev med motivering till varför du är intresserad av anställningen och på vilket sätt anställningen matchar dina meriter. Ansökan ska/bör även innehålla CV, examensbevis eller motsvarande samt övrigt som du önskar åberopa (kopior av betyg, uppgifter till referenser, rekommendationsbrev etc.)
+
+ 
+
+Om Humanistiska och teologiska fakulteterna
+
+Humanistiska och teologiska fakulteterna har åtta institutioner och bedriver en stor och varierad verksamhet inom forskning och utbildning. Vi har ca 700 anställda och ca 4 000 helårsstudenter.
+
+Om Språk- och litteraturcentrum
+
+Språk- och litteraturcentrum (SOL) är Sveriges största institution med inriktning på språk, språkvetenskap, litteraturvetenskap och områdesstudier. SOL erbjuder ca 500 fristående kurser som kompletteras av ett växande antal programutbildningar på grundnivå och avancerad nivå. Med sina 36 ämnen och ett 30-tal forskarutbildningar bildar SOL en solid enhet med bredd och djup i utbildning och forskning och utmärks av såväl nationell som internationell synlighet. SOL leds av en styrelse där prefekten är ordförande. Därutöver finns tre biträdande prefekter med särskilda verksamhetsansvar. SOL har cirka 300 anställda och 8000 studenter, varav ett hundratal är forskarstuderande.
+
+Vi undanber oss alla kontakter från annonsförsäljare, rekryterings- och bemanningsföretag på grund av statliga upphandlingsregler.Om tjänsten
+Ett av arméstabens fokusområden är att bygga den nya armén. En armé som har fokus på förmåga i
+fält och i detta bygga nya såväl som omstrukturera befintliga förband. Arméstaben utvecklar och
+produktionsleder i armén ingående krigsförband samt underställda förband och skolor.
+
+Ovanstående kombinerat med att fortsatt etablera arméstaben som en sammanhållande kraft gör att
+arbetsuppgifterna är mycket omväxlande, utvecklande och dynamiska. Vi är alla lösningsfokuserade
+och tar våra uppgifter och ansvar med stort engagemang där allt för armén är vår drivkraft. Armén – när och där det avgörs! 
+
+Om enheten
+Underrättelse- och säkerhetssektionen är en sektion vid Arméstabens genomförandeavdelning som
+arbetar brett över hela Arméstabens processer och tidsperspektiv i allt från genomförande, planering
+och utveckling av nya förmågor och tjänster.
+
+Sektionen inhämtar och bearbetar underrättelseinformation för att skapa beslutsunderlag för
+Arméchefen, Arméstaben och arméns förband på både kort och lång sikt. Samverkan med
+partnerländer är en väsentlig del av arbetet för att skapa en gemensam lägesbild. Sektionen leder
+också säkerhetstjänsten inom armén.
+
+Huvudsakliga arbetsuppgifter
+Som tolk vid Arméstabens Underrättelse- och säkerhetssektion kommer du främst att arbeta med
+inhämtning och översättning av information från öppna källor. Informationen bearbetas sedan av
+underrättelseanalytiker för att som en del bidra till lägesbilden och bedömanden som görs vid
+sektionen.
+
 Kvalifikationer
- Högskoleutbildning inom arkivvetenskap med minst 60 hp eller motsvarande utbildning på högre nivå
- Flerårig erfarenhet som arkivarie, e-arkivarie, IT-arkivarie eller motsvarande roll
- Talar och skriver på svenska obehindrat 
- 
-Personliga förmågor Som person trivs du med att vara en del av en arbetsgrupp, har lätt för att kommunicera och att samarbeta. Du behöver kunna ta initiativ och komma med lösningsförslag. Att vara konsult hos oss innebär även att du arbetar hos våra kunder, därför behöver du även vara flexibel, lyhörd och ödmjuk. Vi lägger stor vikt vid dina personliga egenskaper. 
-Vårt erbjudande till dig ArkivIT är ett kompetensbolag, vilket innebär att vi värnar om din utveckling och ger dig många möjligheter att öka dina kunskaper. Vi ser till att du utbildas årligen genom en kompetenspott och samlar alla medarbetare med jämna mellanrum, både fysiskt och digitalt, till kompetensforum där vi delar erfarenheter och inspirerar varandra. Dina kollegor är erfarna inom branschen och som arbetsgivare ser vi till att samla alla vid årliga events som sommarfest, julfest, påskfest, kick-offer och andra roliga händelser inom bolaget. I denna roll, har du en flexibel vardag där du lägger upp din egna arbetstid utifrån kundens behov.
-Vi är måna om dig som medarbetare och värnar om en lärande miljö med öppet klimat och avsätter tid för reflektion och feedback. 
-Ansökan Vänta inte med din ansökan, vi intervjuar löpande och tjänsten kan komma att tillsättas när vi hittat rätt kandidat. Vid frågor kring rollen eller företaget, är du välkommen att kontakta tom.jonsson@arkivit.se. 
- Start: Enligt överenskommelse Omfattning: 100%, heltid Placering: Enligt överenskommelse (vi finns i hela Sverige och välkomnar sökande från hela landet)
-Välkommen in med din ansökan!Exakta Photo är en av Sveriges största skolfotoleverantörer. Vi finns över hela landet och fotograferar cirka 900 000 elever varje år. Nu söker vi dig som vill ha ett säsongsbaserat uppdrag som skolfotograf!
-Vem är du?
-Vi tycker om en variation av människor men för att lyckas i tjänsten behöver du:
-Ha ett genuint fotointresse. Du behöver inte ha arbetat som skolfotograf men vi ser gärna att du är en redan etablerad fotograf. Detta är dock inte ett krav utan så länge du brinner för fotografering så kan du vara rätt person för oss.
-Du är utåtriktad och positiv. När du står bakom kameran så påverkar du det som sker framför. Du behöver inte vara komiker, men genom att vara glad och bjuda på dig själv så kan du få andra att slappna av inför kameran.
-Vara stresstålig och välorganiserad då det kan förekomma arbetsdagar med högt tempo.
-God datorvana då datorn kommer att bli ett viktigt arbetsredskap vid sidan om kameran.
-Ha körkort och tillgång till bil då du utför uppdragen på olika skolor och förskolor.
-Kunna arbeta heltid från mitten av augusti till mitten av oktober och vill ha Sveriges roligaste jobb!
-Har du arbetat med barn och ungdomar tidigare så är det en fördel, men det är inte avgörande!
+- Genomgången militär grundutbildning med godkända betyg
+- God förmåga i ryska, motsvarande minst Förhörssoldat
+- God förmåga att uttrycka sig i såväl tal som skrift, både på svenska och engelska
+- God datorvana
+- B-körkort
 
+Meriterande
+- Genomfört språkutbildning vid Försvarets Tolkskola
+- Tidigare erfarenhet eller utbildning inom underrättelseområdet
+- Tidigare erfarenhet av arbete med öppna källor
 
+Personliga egenskaper
+Stor vikt läggs vid personliga egenskaper. Du har förmågan att självständigt driva projekt och
+arbetsuppgifter. Det innebär att du kan planera, organisera och genomföra ditt arbete på egen hand, i
+linje med sektionens övergripande mål och uppdrag.
 
-Vad erbjuder vi?
-Hos oss får du ett roligt och utvecklande säsongsjobb.
-Vi håller en obligatorisk utbildning vecka 32. Efter denna vecka kommer du först att arbeta tillsammans med en annan fotograf så du ska känna dig trygg innan du gör ditt första jobb själv!
-Arbetsperiod i första hand v34 till v40 med möjlighet till förlängning.
-Vi tillhandahåller all fotoutrustning du behöver.
-Du behöver inte oroa dig för det tekniska. Vi har tagit fram fasta inställningar, mått och rutiner så vare sig du använt Nikon, Sony eller varför inte Canon tidigare så är det enda du behöver tänka på hos oss är att få fram det där lilla extra hos personerna framför dig.
-Du utgår från ditt hem till angiven ort och erhåller milersättning för de sträckor du kör.
-Vill du fakturera eller bli anställd? Du väljer!
-Antingen har du redan ett eget bolag och skickar faktura för utförda jobb. Vi har även ett samarbete med Frilans Finans som gör det enkelt för dig att fakturera trots att du inte har ett eget bolag idag. Vi ger dig all information som behövs för detta. Om inget av ovan passar dig kan du även välja att bli säsongsanställd. Vi kör på det som passar dig och din livssituation bäst!
-Vad händer nu?
-Nu vill vi ha din ansökan såklart! Skicka in denna omgående via vår ansökningssida Exakta Photo AB - Jobba hos oss (exaktafoto.se).
-Vi hoppas att du vill bli en del av oss och får en oförglömlig höst!
+För att myndighetens uppdrag ska vara framgångsrikt förutsätts att alla medarbetare uppträder enligt
+den värdegrund som finns. Försvarsmaktens värdegrund slår vakt om alla människors lika värde,
+rättvisa och jämlikhet och främjar demokrati och mänskliga rättigheter (läs mer på
+www.forsvarsmakten.se).
+
 Övrigt
-För att arbeta med barn och ungdomar så behöver du visa upp ett godkänt utdrag ur belastningsregistret.
-Om anställningen
-Lön
-Lönetyp: Fast månads- vecko- eller timlönTalar du flytande Singalesiska och svenska? Sök idag! 
+Befattningsnivå: Civil
+Lön: Individuell lönesättning enligt kollektivavtal
+Anställningsform: Tillsvidare, inleds med sex månaders provanställning om du inte redan är
+anställd inom Försvarsmakten
+Arbetsort: Enköping
+Tillträdesdatum: Enligt överenskommelse
+
+För upplysningar om befattningen kontakta:
+Övlt Johan Althén, johan.althen@mil.se, växel 0171-157000
+För information om rekryteringsprocessen kontakta:
+HR-generalist Therese Pettersson nås via växel 0171-157000
+
+Fackliga företrädare:
+OFR/O: Tobias Brandt
+OFR/S: Claus Dehlin
+SACO: Karin Gällmo
+SEKO: Benny Augustsson
+
+Sista ansökningsdag
+Välkommen med din ansökan senast 2025-06-15. Din ansökan bör innehålla CV samt
+ansökningsbrev där du motiverar varför du är lämpad för denna befattning.
+
+ Ansökningar till denna befattning kommer endast tas emot via Försvarsmaktens webbplats. 
+--------------------------------------------------------
+Information om Försvarsmakten och det rekryterande förbandet:
+
+Försvarsmakten är inne i ett omfattande utvecklingsarbete för att bygga ett starkare försvar mot bakgrund av ett försämrat omvärldsläge och ny försvarspolitisk inriktning med fokus på det nationella försvaret. Ledning för ett starkare försvar syftar till att öka robustheten, förenkla lednings- och lydnadsförhållanden samt genom decentralisering av mandat och ansvar öka förutsättningarna för uppdragstaktik.
+
+I Försvarsmakten finns en stark värdegrund som bygger på öppenhet, resultat och ansvar. Professionell utveckling och personlig hälsa värdesätts och uppmuntras. Det finns goda förutsättningar för intern karriärrörlighet, friskvård samt bra balans mellan arbete och privatliv.
+
+En anställning hos oss innebär placering i säkerhetsklass. Vanligtvis krävs svenskt medborgarskap.
+Säkerhetsprövning med registerkontroll kommer att genomföras före anställning enligt 3 kap i säkerhetsskyddslagen. Med anställning följer en skyldighet att krigsplaceras. I anställningen ingår även en skyldighet att tjänstgöra utomlands. Innebörden av detta varierar beroende på typ av befattning.
+
+Till ansökan om anställning ska CV och personligt brev bifogas. Om du går vidare i anställningsprocessen ska alltid vidimerade kopior av betyg och intyg uppvisas.
+
+Samtal från externa rekryteringsföretag och säljare undanbedes.Talar du flytande Kirgiziska och svenska? Sök idag! 
 Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
 Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
 Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
-Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.The Role:
-As a Java developer with integration expertise, you will be crucial in stabilizing current systems, making architectural changes to future-proof them, and creating an efficient foundation for the development work related to the new agricultural policy. This is a significant and exciting opportunity to shape the future of these critical systems.
-Responsibilities:
-You will join one of the development teams within the Development and Digitization Department. Depending on needs, other internal assignments may also be relevant. The working language is Swedish.
-Required Skills (Level 4):
-The consultant should meet the criteria for Level 4, indicating:
- * Knowledge: High generalist competence or very high competence in the specific role.
- * Experience: Several years of experience with complex assignments in the current role and delivering high-quality consulting services (typically 9-12 years of experience).
- * Leadership: Takes responsibility for large parts of the assignment.
- * Independence: Very high level of independence.
-Specific Competency Requirements:
-The consultant must have experience and very good knowledge in:
- * Integration work
- * Java (Backend) and Java/Jakarta EE as a platform
- * System design
- * Agile values, experience with agile methodologies and Scrum
- * JPA (Hibernate)
- * Git
- * Integration platform Camel 3
- * ActiveMQ Artemis
-Beneficial Skills:
- * Development of administrative case management systems
- * Domain-Driven Design (DDD)
- * PostgreSQL
- * OpenID Connect and OAuth 2.0
- * Angular
- * Maven
- * Eclipse/IntelliJ
- * JBoss / Wildfly
- * JavaScript/TypeScript (Frontend)
- * Jenkins
- * Docker
- * JMS
- * BDD (Behavior Driven Development) or TDD (Test-Driven Development)
- * Java 11+ SQL queries
- * REST
- * HTML
- * CSS
- * Jira
- * OpenAPI
- * Regression and monitoring tests, and test strategies
- * Camel Quarkus
-Essentially, they are looking for an experienced Java developer with a strong background in integration technologies to help stabilize and modernize their agricultural policy systems. The role requires someone who is self-driven, can handle complex tasks, and is comfortable working in an agile environment. Fluency in Swedish is a must.Fotograf, ett drömyrke för dig?
-Vi söker nu fler fotografer till vår fotografkår i Halmstad med omnejd. Exakta Photo är Sveriges största skolfotoleverantör med mer än 60 års erfarenhet. Exakta Photo finns i hela Sverige och tillsammans fotograferar vi 900 000 elever varje år.
-Vi söker dig med ett genuint fotointresse som vill kombinera det med ett kul arbete bland barn och ungdomar. Vi värdesätter dina goda egenskaper som social förmåga, och att kunna jobba med eget ansvar under ordning och reda. Men även en estetisk ""blick"" för bild och form. Erfarenhet från barn- och ungdomsverksamhet är en stor merit.
-Du kommer att få tillgång till en digital fotoutrustning, vilket kräver god datorvana. Vi erbjuder dig en professionell fotoutbildning v32 i Nyköping men även en onlinekurs innan skolstarten i augusti.
-Tjänsten kräver att du har körkort samt tillgång till bil.
-Arbetsperiod i första hand v34 till v40 med möjlighet till förlängning.
-Tidigare branscherfarenhet inom foto/skolfoto är inget krav men är självklart en merit. Vi ser gärna ett samarbete med redan etablerade fotografer.
-Passa på att söka till vår glada fotografkår och berätta lite om dig själv samt bifoga ditt Cv och några bilder. (Eller länk).
-Välkommen med din ansökan!
-Övrigt
-För att arbeta med barn och ungdomar så behöver du visa upp ett godkänt utdrag ur belastningsregistret.
-Om anställningen
-Lön
-Lönetyp: Fast månadsVi söker nu svensktalande Game Presenters till vår kunds spelstudio i Bukarest, Rumänien. Vill du arbeta i en dynamisk och internationell miljö där du blir företagets ansikte utåt? Då kan detta vara jobbet för dig!
-Tjänst: Game Presenter & Shuffler (Svenska)
-Plats: Bukarest, Rumänien
-Anställningsform: Heltid
-Ersättning: Grundlön + prestationsbaserade bonusar (inklusive flyg och boende)
-ANSVARSOMRÅDEN
-Vara ”företagets ansikte utåt” genom att leverera expertkunskap och förstklassig spelupplevelse.
-Representera och upprätthålla företagets varumärke genom att följa riktlinjer för presentation och klädpolicy.
-Presentera alla spel på ett professionellt och engagerande sätt i enlighet med företagets förväntningar.
-Skapa en interaktiv och engagerande spelupplevelse för spelarna.
-Upprätthålla hög teknisk skicklighet inom alla spel och säkerställa att din prestation alltid överensstämmer med företagets varumärkesriktlinjer.
-Delta aktivt i företagets kontinuerliga förbättringsarbete och bidra till företagets framtida tillväxt.
-
-KVALIFIKATIONER
-Flytande svenska (C2-nivå), både i tal och skrift.
-Mycket goda kunskaper i engelska (C1-nivå).
-Utmärkta presentationsfärdigheter med förmåga att fånga och engagera en publik.
-Entusiastisk, positiv och utåtriktad personlighet.
-Förmåga att hålla hög energi under längre perioder vid spel som kräver det..
-Flexibilitet att arbeta skift enligt ett 24/7-schema.
-Pålitlig och punktlig, med god närvaro och tidshantering.
-Uppmärksam på detaljer och med utmärkt social kompetens – en självklarhet i en kundnära roll.
-Förmåga att tänka snabbt och hantera stressiga situationer samtidigt som du bibehåller noggrannhet, disciplin och diskretion.
-
-VI ERBJUDER
-Konkurrenskraftig lön baserad på erfarenhet, färdigheter och prestation.
-Möjlighet att arbeta i ett dynamiskt och internationellt team med en positiv och vänlig arbetsmiljö.
-Betald utbildning och alla verktyg du behöver för att nå din fulla potential.
-Prestationsbaserade bonusar.
-Privat sjukförsäkring.
-Gratis taxitjänst under nattskift till och från studion.
-Gratis gymmedlemskap.
-Relocationstöd – inklusive flyg och boende.
+Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Talar du flytande Singalesiska och svenska? Sök idag! 
+Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
+Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
+Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
+Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.DigitalTolk is a company that specializes in providing professional interpreting and translation services. They use a booking system to connect clients with a large network of qualified interpreters and translators who offer services in more than 210 languages and dialects. This enables businesses and individuals to receive translation services for various situations and needs, regardless of time or language. The company was founded in 2015 and aims to optimize and improve the process of finding reliable interpreters and translators, making it easier to overcome language barriers. The two largest sectors that use DigitalTolk’s services are the legal and healthcare industries.
 
 
 
-Uppstart: Omgående
-Vill du ta nästa steg i din karriär och arbeta i en spännande och snabbväxande bransch? Ansök idag!Vi söker nu svensktalande Game Presenters till vår kunds spelstudio i Bukarest, Rumänien. Vill du arbeta i en dynamisk och internationell miljö där du blir företagets ansikte utåt? Då kan detta vara jobbet för dig!
-Tjänst: Game Presenter & Shuffler (Svenska)
-Plats: Bukarest, Rumänien
-Anställningsform: Heltid
-Ersättning: Grundlön + prestationsbaserade bonusar (inklusive flyg och boende)
-ANSVARSOMRÅDEN
-Vara ”företagets ansikte utåt” genom att leverera expertkunskap och förstklassig spelupplevelse.
-Representera och upprätthålla företagets varumärke genom att följa riktlinjer för presentation och klädpolicy.
-Presentera alla spel på ett professionellt och engagerande sätt i enlighet med företagets förväntningar.
-Skapa en interaktiv och engagerande spelupplevelse för spelarna.
-Upprätthålla hög teknisk skicklighet inom alla spel och säkerställa att din prestation alltid överensstämmer med företagets varumärkesriktlinjer.
-Delta aktivt i företagets kontinuerliga förbättringsarbete och bidra till företagets framtida tillväxt.
 
-KVALIFIKATIONER
-Flytande svenska (C2-nivå), både i tal och skrift.
-Mycket goda kunskaper i engelska (C1-nivå).
-Utmärkta presentationsfärdigheter med förmåga att fånga och engagera en publik.
-Entusiastisk, positiv och utåtriktad personlighet.
-Förmåga att hålla hög energi under längre perioder vid spel som kräver det..
-Flexibilitet att arbeta skift enligt ett 24/7-schema.
-Pålitlig och punktlig, med god närvaro och tidshantering.
-Uppmärksam på detaljer och med utmärkt social kompetens – en självklarhet i en kundnära roll.
-Förmåga att tänka snabbt och hantera stressiga situationer samtidigt som du bibehåller noggrannhet, disciplin och diskretion.
+Location:
 
-VI ERBJUDER
-Konkurrenskraftig lön baserad på erfarenhet, färdigheter och prestation.
-Möjlighet att arbeta i ett dynamiskt och internationellt team med en positiv och vänlig arbetsmiljö.
-Betald utbildning och alla verktyg du behöver för att nå din fulla potential.
-Prestationsbaserade bonusar.
-Privat sjukförsäkring.
-Gratis taxitjänst under nattskift till och från studion.
-Gratis gymmedlemskap.
-Relocationstöd – inklusive flyg och boende.
+Stockholm
+
+Who we are looking for:
+
+Translator / Digital Interpreter
 
 
 
-Uppstart: Omgående
-Vill du ta nästa steg i din karriär och arbeta i en spännande och snabbväxande bransch? Ansök idag!Vi söker nu nya artister, musiker, skådespelare, make up artister och talanger.
-Läs mer om oss och ansök idag via www.swedeagency.se
-Vi är en artistförmedling i Sverige med över 350 artister
-Lycka till med ansökan.Dalarna är ett landskap med stolt historia och stark kultur. Här finns allt från snabbväxande städer till glesbygd – och en stor levande landsbygd däremellan. Våra industrier går för närvarande för högvarv, men med demografin ser det ärligt talat lite sämre ut. I dalafjällen finns några av Sveriges – och världens – mest populära destinationer för vinterturism. Skolor i närheten kämpar med sviktande elevunderlag, och resultat. För den som ägnar sig åt att kommentera politik saknas det aldrig ämnen. Våra ledarsidor har länge varit starka och viktiga röster här. Så ska det fortsätta vara.
+Your responsibilities: 
 
-Nu söker vi en ledarskribent till Falu-Kuriren, Mora Tidning, Nya Ludvika Tidning, Avesta Tidning och Södra Dalarnes Tidning. Fem tidningar som ägs av Bonnier News Local och som är självständiga titlar, men som har gemensam ledarredaktion.
+- real-time interpreting to or from Swedish using the DigitalTolk app; 
 
-Om digVi tror att du som söker har bred kunskap om politik och ett stort engagemang för samhällsfrågor och journalistik.
+- written translation of texts when needed.
 
-Du bör ha arbetat i redaktionell tidningsmiljö tidigare, och gärna ha erfarenhet av eget redaktörskap.
+Requirements: 
 
-Du har en skarp penna, stark analysförmåga, integritet och grundvärderingar som gör att du blir en bra företrädare för våra oberoende liberala ledarsidor.
+- ability to understand and speak Swedish at an advanced level; 
 
-Det är meriterande om du redan på förhand har kännedom om Dalarna. Men det går också utmärkt att komma hit och lära sig, för hos oss är det de lokala frågorna som står i fokus.
+- fluency in one or more of the following languages: Ukrainian; Dinka; Fula; Igbo; Twi; Malayalam; Tagalog; Kinyarawanda; Saho; Visaya/Cebauno; Kakwa; Nuer; Tjetjenska; Sango; Afar; Akan; Maban; Wolof; Oromo; Baluchi; 
 
-Som ledarskribent blir du närmaste medarbetare till vår politiske redaktör Gabriel Ehrling Perers. Du arbetar också nära våra nyhetsredaktioner för att analysera och reagera på nyheterna. 
+- previous experience as a translator is a plus, but not required; 
 
-Vi söker dig som vill vara ett ansikte utåt och som blir en god företrädare för våra tidningar i våra lokalsamhällen. Vi vill att du tar plats i debatten.
+- experience in healthcare or legal fields is a significant advantage, as most translations will relate to these sectors.
 
-Din erfarenhetDu behöver inte vara utbildad journalist, men det är givetvis meriterande. Är du inte det, är annan relevant utbildning ett krav (exempelvis inom statsvetenskap, ekonomi eller juridik).Vi vill att du bor i Dalarna, eller är beredd att flytta hit.
+Your profile: 
 
-Utöver att kommentera den lokala politiken i Dalarna så ingår det i uppdraget att hantera visst riksmaterial åt de övriga tidningarna i Bonnier News Local.
+- you are communicative and friendly; 
 
-Övrigt
+- you are positive, service-oriented, and willing to help others.
 
-Tillträde sker enligt överenskommelse. Samma sak med fysisk placeringsort. Du utgår från någon av våra 14 redaktioner i Dalarna (fördelade på fem titlar).
+What the employer offers: 
 
-Körkort är ett krav.
+- temporary employment; 
 
-Låter detta intressant? Skicka då ansökan, meritförteckning (med två referenser) samt tre textprover senast 31 maj 2025.
+- office working hours;
 
-Kontaktperson:Gabriel Ehrling Perers, 023-935 10 eller gep@falukuriren.se
+- hourly pay.
 
-Facklig kontakt:Nina Blazevic, Journalistförbundet, 023-936 34 eller nina.blazevic@falukuriren.se 
-
-Vi är nyfikna på vem du är och ser fram emot din ansökan! Vill du veta mer gällande hur vår rekryteringsprocess ser ut kan du klicka här!
-
-
-Som Nordens största medieföretag, med verksamhet i 13 länder, hjälper vi medborgare och organisationer att fungera i ett demokratiskt samhälle. Våra journalister rapporterar, granskar och berättar om vår tids frågor. Vi inspirerar och skapar affärer genom möten, produkter och tjänster. Alla vi som jobbar här, från journalisten i norr till techutvecklaren i söder, bidrar med olika perspektiv för att vi ska kunna utföra vårt uppdrag och föra det fria ordet framåt. Tillsammans.
-
-Med varumärken som Dagens Nyheter, Expressen och Dagens industri når vi miljoner läsare och användare varje dag. Genom Bonnier News Locals många titlar har vi även ett stort lokalt engagemang över hela landet - från Sydsvenskan i Skåne till Östersunds-Posten i Jämtland. Förutom detta ger vi också ut branschspecifika tidningar såsom Dagens Media, Resumé, Dagens medicin och Fastighetsnytt, och även en rad livsstilsmagasin som Damernas Värld, Sköna Hem, Teknikens Värld och Allt om Mat.
-
-Vi har också en betydande logistik och distributionsverksamhet som vi samlar inom ramen för Bonway. Under 2024 kommer vi att nå närmare en tredjedel av alla hushåll i Sverige.
-
-Genom att ständigt driva den digitala utvecklingen framåt når vi hela tiden längre – som medarbetare hos oss kan du påverka riktningen. Vi strävar efter att hitta talangfulla medarbetare som vidgar våra perspektiv och hjälper oss att bidra till ett mer inkluderande samhälle. Vi hoppas att även du vill bidra till detta!Exakta Photo är en av Sveriges största skolfotoleverantörer. Vi finns över hela landet och fotograferar cirka 900 000 elever varje år. Nu söker vi dig som vill ha ett säsongsbaserat uppdrag som skolfotograf!
-Vem är du?
-Vi tycker om en variation av människor men för att lyckas i tjänsten behöver du:
-Ha ett genuint fotointresse. Du behöver inte ha arbetat som skolfotograf men vi ser gärna att du är en redan etablerad fotograf. Detta är dock inte ett krav utan så länge du brinner för fotografering så kan du vara rätt person för oss.
-Du är utåtriktad och positiv. När du står bakom kameran så påverkar du det som sker framför. Du behöver inte vara komiker, men genom att vara glad och bjuda på dig själv så kan du få andra att slappna av inför kameran.
-Vara stresstålig och välorganiserad då det kan förekomma arbetsdagar med högt tempo.
-God datorvana då datorn kommer att bli ett viktigt arbetsredskap vid sidan om kameran.
-Ha körkort och tillgång till bil då du utför uppdragen på olika skolor och förskolor.
-Kunna arbeta heltid från mitten av augusti till mitten av oktober och vill ha Sveriges roligaste jobb!
-Har du arbetat med barn och ungdomar tidigare så är det en fördel, men det är inte avgörande!
-
-
-
-Vad erbjuder vi?
-Hos oss får du ett roligt och utvecklande säsongsjobb.
-Vi håller en obligatorisk utbildning vecka 32. Efter denna vecka kommer du först att arbeta tillsammans med en annan fotograf så du ska känna dig trygg innan du gör ditt första jobb själv!
-Arbetsperiod i första hand v34 till v40 med möjlighet till förlängning.
-Vi tillhandahåller all fotoutrustning du behöver.
-Du behöver inte oroa dig för det tekniska. Vi har tagit fram fasta inställningar, mått och rutiner så vare sig du använt Nikon, Sony eller varför inte Canon tidigare så är det enda du behöver tänka på hos oss är att få fram det där lilla extra hos personerna framför dig.
-Du utgår från ditt hem till angiven ort och erhåller milersättning för de sträckor du kör.
-Vill du fakturera eller bli anställd? Du väljer!
-Antingen har du redan ett eget bolag och skickar faktura för utförda jobb. Vi har även ett samarbete med Frilans Finans som gör det enkelt för dig att fakturera trots att du inte har ett eget bolag idag. Vi ger dig all information som behövs för detta. Om inget av ovan passar dig kan du även välja att bli säsongsanställd. Vi kör på det som passar dig och din livssituation bäst!
-Vad händer nu?
-Nu vill vi ha din ansökan såklart! Skicka in denna omgående via vår ansökningssida Exakta Photo AB - Jobba hos oss (exaktaphoto.se).
-Vi hoppas att du vill bli en del av oss och får en oförglömlig höst!
-Övrigt
-För att arbeta med barn och ungdomar så behöver du visa upp ett godkänt utdrag ur belastningsregistret.
-Om anställningen
-Lön
-Lönetyp: Fast månads- vecko- eller timlön"
+Important: This position is part of an AMIF-funded project aiming to support the integration of newly arrived non-EU/EEA residents into the Swedish labour market. Candidates who meet these criteria are encouraged to apply."
