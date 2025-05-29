@@ -30,21 +30,16 @@ def display_data_table(df: pd.DataFrame, title: str):
     st.subheader(title)
     st.dataframe(df)
 
+def load_city_coordinates(filepath: str) -> dict:
+    city_coords = {}
+    with open(filepath, "r", encoding="utf-8") as f:
+        for line in f:
+            city, lat, lon = line.strip().split(",")
+            city_coords[city] = (float(lat), float(lon))
+    return city_coords
 
+city_coordinates = load_city_coordinates("dashboard\swedish_cities.txt")
 
-#show map with plotly express
-city_coordinates = {
-    "Stockholm": (59.3293, 18.0686),
-    "Göteborg": (57.7089, 11.9746),
-    "Malmö": (55.604981, 13.003822),
-    "Uppsala": (59.8586, 17.6389),
-    "Västerås": (59.6099, 16.5448),
-    "Örebro": (59.2741, 15.2066),
-    "Linköping": (58.4109, 15.6216),
-    "Helsingborg": (56.0465, 12.6945),
-    "Jönköping": (57.7826, 14.1610),
-    "Norrköping": (58.5877, 16.1924),
-}
 
 def add_coordinates(df):
     df["lat"] = df["workplace_city"].map(lambda city: city_coordinates.get(city, (None, None))[0])
