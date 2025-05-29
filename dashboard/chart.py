@@ -33,28 +33,52 @@ def display_data_table(df: pd.DataFrame, title: str):
 
 
 #show map with plotly express
+city_coordinates = {
+    "Stockholm": (59.3293, 18.0686),
+    "Göteborg": (57.7089, 11.9746),
+    "Malmö": (55.604981, 13.003822),
+    "Uppsala": (59.8586, 17.6389),
+    "Västerås": (59.6099, 16.5448),
+    "Örebro": (59.2741, 15.2066),
+    "Linköping": (58.4109, 15.6216),
+    "Helsingborg": (56.0465, 12.6945),
+    "Jönköping": (57.7826, 14.1610),
+    "Norrköping": (58.5877, 16.1924),
+}
+
+def add_coordinates(df):
+    df["lat"] = df["workplace_city"].map(lambda city: city_coordinates.get(city, (None, None))[0])
+    df["lon"] = df["workplace_city"].map(lambda city: city_coordinates.get(city, (None, None))[1])
+    return df.dropna(subset=["lat", "lon"])
+
 def map_chart(df: pd.DataFrame, title: str = "Antal lediga jobb per stad"):
-    # Kopiera df så du inte modifierar originalet
     df = df.copy()
-
-    
     df["Antal jobb"] = 1
+    df = add_coordinates(df)
 
-    
-    city_vacancies = df.groupby("workplace_city")["Antal jobb"].sum().reset_index()
+    city_vacancies = df.groupby(["workplace_city", "lat", "lon"])["Antal jobb"].sum().reset_index()
     city_vacancies = city_vacancies.rename(columns={"workplace_city": "Stad"})
 
-    fig = px.choropleth(
+    fig = px.scatter_mapbox(
         city_vacancies,
-        locations="Stad",
-        locationmode="country names", 
+        lat="lat",
+        lon="lon",
+        size="Antal jobb",
         color="Antal jobb",
         hover_name="Stad",
-        color_continuous_scale="Viridis",
-        title=title
+        size_max=30,
+        zoom=4.5,
+        mapbox_style="carto-positron",
+        title=title,
+        color_continuous_scale="Viridis"
     )
 
-    fig.update_geos(fitbounds="locations", visible=True)
+    fig.update_layout(
+        mapbox_center={"lat": 62.0, "lon": 16.0},  
+        mapbox_zoom=4.5, 
+        margin={"r":0,"t":50,"l":0,"b":0}
+    )
+
     return fig
 
 
