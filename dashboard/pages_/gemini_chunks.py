@@ -17,10 +17,10 @@ def gemini_chunks_layout(current_df, field):
     # current_df = current_df.sort_values(by="vacancies", ascending=False)
     st.markdown("## Ställ en fråga till Gemini") 
     category = st.selectbox(
-        "Välj en kategori:", "occupation" #["workplace_city", "employer_name", "occupation"]
+        "Välj en kategori:",["workplace_city", "employer_name", "occupation"]
     )
     choice_unique = st.selectbox(
-        "välj en stad/arbetsgivare/yrke", "Journalist/Reporter"#current_df[category].unique()
+        "välj en stad/arbetsgivare/yrke", current_df[category].unique()
     )
     choice_question = st.selectbox(
         "Välj en fråga",
