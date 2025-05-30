@@ -1,346 +1,316 @@
-,occupation,vacancies,description
-0,Tolk,114,"Lunds universitet grundades 1666 och rankas återkommande som ett av världens främsta lärosäten. Här finns omkring 47 000 studenter och mer än 8 800 medarbetare i Lund, Helsingborg och Malmö. Vi förenas i vår strävan att förstå, förklara och förbättra vår värld och människors villkor.
+,workplace_city,vacancies,description
+1,Malmö,22,"Vi söker efter en utbildad Medicinsk fotterapeut med passion att hjälpa människor till bättre fot- och hälsovård. 
+Vi erbjuder en trivsam arbetsmiljö där du får arbeta för olika kundgrupper, inkl. personer med diabetes, reumatism och andra fot relaterade problem.
+Arbetsuppgifterna inkluderar:
+✅ Medicinsk fotterapeut 
+✅ Rådgivning och förebyggande vård 
+✅ Behandling av nageltrång, liktornar och förhårdnader 
+✅ Fotmassage och avkopplande behandlingar 
+✅ Telefonrådgivning
+✅ Remisshantering, bokningar/ombokningar, bevakning av väntetider 
+✅ Beställning av varor
+✅ Medicinsk kvalitetssäkring med möjlighet att själv organisera sitt arbete
 
 
-Lunds universitet välkomnar sökande med olika bakgrund och erfarenheter. Jämställdhet, lika villkor och mångfald är grundläggande principer för alla delar av vår verksamhet.
+Vi söker dig som: 
+✔️ Har utbildning inom Medicinsk fotvård
+✔️ Är noggrann, serviceinriktad och  professionell 
+✔️ Har erfarenhet inom fotvård (meriterande men ej krav)
+✔️ Kan arbeta självständigt och har god kundkontakt
+➕ Är du även undersköterska eller sjuksköterska är det ett stort plus!
 
 
+Övrigt:
+Tjänsten är en provanställning med möjlighet till fast anställning. 
+Intervjuer sker löpande. 
+Vi är intresserad av dig som kan arbeta 60-100%. Arbetstiden är fördelad i huvudsak dagtid mellan kl 08:00- 17:00
 
 
-Beskrivning av arbetsplatsen 
-Språk- och litteraturcentrum (SOL) är Sveriges största institution med inriktning på språk, språkvetenskap, litteraturvetenskap och områdesstudier.
+Personliga egenskaper:
+Stresstålig, strukturerad, arbetar bra i team, har en positiv inställning och har ett driv och intresse att utveckla klinikens verksamhet. Har lätt att skapa goda relationer med kollegor och patienter/ kunder. 
 
-SOL erbjuder ca 500 fristående kurser som kompletteras av ett växande antal programutbildningar på grundnivå och avancerad nivå. Med sina 36 ämnen och ett 30-tal forskarutbildningar bildar SOL en solid enhet med bredd och djup i utbildning och forskning och utmärks av såväl nationell som internationell synlighet. SOL leds av en styrelse där prefekten är ordförande. Därutöver finns tre biträdande prefekter med särskilda verksamhetsansvar. SOL har cirka 300 anställda och 8000 studenter, varav ett hundratal är forskarstuderande.
 
-Vi erbjuder
-Lunds universitet är en statlig myndighet vilket innebär att du får särskilda förmåner, generös semester och en förmånlig tjänstepension. 
-Läs mer på universitetets webbplats om att vara anställd hos oss https://www.lu.se/om-universitetet/jobba-hos-oss
+Om anställning:
+Lönetyp: Fast månads- vecko- eller timlön.
+Vi finns på Kronprinsens Läkarhus Fågelbacksgatan 9c i Malmö.
+Arbetsgivare: ÖNH- Center Skåne AB/
+Hudkliniken Skåne.
 
-Arbetsuppgifter och ansvarsområden
-I anställningen ingår att undervisa framförallt i de praktiska momenten i tolkning till och från rumänska samt bistå de ordinarie lärarna både praktiskt och teoretiskt i deras undervisning. Du måste också kunna granska de studerandes kunskaper i rumänska. Undervisningen rör områdena arbetsmarknads-, social-, sjukvårds- och i viss mån rättstolkning. I uppdraget ingår att förbereda studenterna på ett framtida yrkesliv som tolk. Du kommer även att delta i examination av studenter. Undervisningen är helt distansförlagd. 
 
-Kvalifikationer 
-Krav för anställningen är:
-•    kandidatexamen i relevant ämne
-•    dokumenterade erfarenheter av tolkning i offentlig sektor
-•    erfarenhet av tidigare utbildning av tolkar i offentlig sektor eller motsvarande kunskaper
-•    god pedagogisk förmåga samt personlig lämplighet för anställningen
-•    goda ämneskunskaper av relevans för anställningens innehåll
-•    genomgången högskolepedagogisk utbildning om minst fem veckor eller motsvarande kunskaper inhämtade på annat sätt.
+Låter detta som något för dig?
+Skicka din ansökan och CV till info@hudklinikenskane.se
+Eller ring oss på 0767- 99 50 85 för mer information!
 
-För denna anställning kan undantag från kravet på högskolepedagogisk utbildning övervägas om det kan anses berättigat i ljuset av övrig meritering.
 
-Meriterande för anställningen är:
-•    auktorisation i tolkning
-•    undervisningserfarenhet från högskola/universitet.
+Vi ser fram emot att höra från dig!
 
-Övrigt 
-Anställningen är en visstidsanställning på 25 procent med startdatum den 2025-08-15, eller enligt överenskommelse, dock längst till och med 2026-06-30. För information om anställningen kontakta sektionsföreståndare, Anna W Gustafsson https://www.sol.lu.se/person/AnnaGustafsson, eller studierektor, Sandy Åkerblom https://www.sol.lu.se/person/SandyAkerblom 
 
-Så här söker du
-Anställningen söks via universitetets rekryteringssystem. Ansökan ska/bör på vilket sätt anställningen matchar dina meriter. Ansökan ska/bör även innehålla CV, examensbevis eller motsvarande samt övrigt som du önskar åberopa (kopior av betyg, uppgifter till referenser, rekommendationsbrev etc.)
+Kontakt:
+Verksamhetsansvarig Ramona HållströmHair & Co BurlövCenter AB söker en utbildad frisör till vårt team. Du ska vara serviceinriktad och brinna för frisöryrket.
+Arbetsuppgifter:
+Klippning, färgning och slingor samt intresse för skräddarsydda produkter och behandlingar efter kundens behov då vi jobbar med produkter från Kerastase
+Hos oss får du trygga anställningsförhållanden så som OB, sjuklön och semesterersättning enligt kollektivavtal.
+Tjänsten finns ledig heltid eller deltid Du ska behärska svenska i tal och skriftNagelteknolog sökes till A&C Beauty i Malmö
+Brinner du för nagelvård och vill arbeta i en professionell och inspirerande miljö?
+A&C Beauty söker nu en skicklig och driven nagelteknolog till vårt team i centrala Malmö!
+Vi är en skönhets klinik med legitimerad läkare och erfarna specialister inom naglar och estetiska behandlingar. Vårt fokus ligger på hög kvalitet, trygghet och kundnöjdhet.
+Vi söker dig som:
+Är utbildad och certifierad nagelteknolog.
+•Har erfarenhet av manikyr, gelé- (eller är villig att lära dig mer).
+•Är serviceinriktad, noggrann och har känsla för detaljer.
+•Trivs med att arbeta både självständigt och i team.
+•Behärskar svenska eller engelska i tal.
 
-Om Humanistiska och teologiska fakulteterna
 
-Humanistiska och teologiska fakulteterna har åtta institutioner och bedriver en stor och varierad verksamhet inom forskning och utbildning. Vi har ca 700 anställda och ca 4 000 helårsstudenter.
+Vi erbjuder:
+•En modern och trivsam arbetsplats mitt i Malmö.
+•Möjlighet att utvecklas inom skönhetsbranschen.
+•Flexibla arbetstider och ett härligt arbetsklimat.
+•Konkurrenskraftig lön eller hyra beroende på upplägg.
 
-Om Språk- och litteraturcentrum
 
-Språk- och litteraturcentrum (SOL) är Sveriges största institution med inriktning på språk, språkvetenskap, litteraturvetenskap och områdesstudier. SOL erbjuder ca 500 fristående kurser som kompletteras av ett växande antal programutbildningar på grundnivå och avancerad nivå. Med sina 36 ämnen och ett 30-tal forskarutbildningar bildar SOL en solid enhet med bredd och djup i utbildning och forskning och utmärks av såväl nationell som internationell synlighet. SOL leds av en styrelse där prefekten är ordförande. Därutöver finns tre biträdande prefekter med särskilda verksamhetsansvar. SOL har cirka 300 anställda och 8000 studenter, varav ett hundratal är forskarstuderande.
+Omfattning: Heltid/deltid – enligt överenskommelse.
+Start: Enligt överenskommelse.
 
-Vi undanber oss alla kontakter från annonsförsäljare, rekryterings- och bemanningsföretag på grund av statliga upphandlingsregler.Lunds universitet grundades 1666 och rankas återkommande som ett av världens främsta lärosäten. Här finns omkring 47 000 studenter och mer än 8 800 medarbetare i Lund, Helsingborg och Malmö. Vi förenas i vår strävan att förstå, förklara och förbättra vår värld och människors villkor.
 
+Låter det intressant?
+Skicka din ansökan till info@acbeauty.se eller kontakta oss via DM på Instagram @ac.beautysalong
+Vi ser fram emot att höra från dig!Arbetsplatsen kommer att vara i Skurup, ett bra ställe, och det finns butikskunder och arbetet blir ditt.
+Öppen för alla
+Vi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.Är du en passionerad hudterapeut med erfarenhet av hårborttagning med laser? Vill du arbeta i en miljö där kundens upplevelse alltid står i fokus? Vi söker nu en engagerad hudterapeut som sätter kundnöjdhet i första rummet!
 
-Lunds universitet välkomnar sökande med olika bakgrund och erfarenheter. Jämställdhet, lika villkor och mångfald är grundläggande principer för alla delar av vår verksamhet.
-
-
-
-
-Beskrivning av arbetsplatsen 
-Språk- och litteraturcentrum (SOL) är Sveriges största institution med inriktning på språk, språkvetenskap, litteraturvetenskap och områdesstudier.
-
-SOL erbjuder ca 500 fristående kurser som kompletteras av ett växande antal programutbildningar på grundnivå och avancerad nivå. Med sina 36 ämnen och ett 30-tal forskarutbildningar bildar SOL en solid enhet med bredd och djup i utbildning och forskning och utmärks av såväl nationell som internationell synlighet. SOL leds av en styrelse där prefekten är ordförande. Därutöver finns tre biträdande prefekter med särskilda verksamhetsansvar. SOL har cirka 300 anställda och 8000 studenter, varav ett hundratal är forskarstuderande.
-
-Vi erbjuder
-Lunds universitet är en statlig myndighet vilket innebär att du får särskilda förmåner, generös semester och en förmånlig tjänstepension. 
-Läs mer på universitetets webbplats om att vara anställd hos oss https://www.lu.se/om-universitetet/jobba-hos-oss
 
-Arbetsuppgifter och ansvarsområden
-I anställningen ingår att undervisa framförallt i de praktiska momenten i tolkning till och från thai samt bistå de ordinarie lärarna både praktiskt och teoretiskt i deras undervisning. Du måste också kunna granska de studerandes kunskaper i thai. Undervisningen rör områdena arbetsmarknads-, social-, sjukvårds- och i viss mån rättstolkning. I uppdraget ingår att förbereda studenterna på ett framtida yrkesliv som tolk. Du kommer även att delta i examination av studenter. Undervisningen är helt distansförlagd. 
+Hos oss strävar vi efter att erbjuda varje kund en personlig och förstklassig behandling. Du kommer att arbeta med den senaste tekniken inom diodlaser och vara en viktig del i att skapa en trygg och positiv upplevelse för våra kunder.
 
-Kvalifikationer 
-Krav för anställningen är:
-•    kandidatexamen i relevant ämne
-•    dokumenterade erfarenheter av tolkning i offentlig sektor
-•    erfarenhet av tidigare utbildning av tolkar i offentlig sektor eller motsvarande kunskaper
-•    god pedagogisk förmåga samt personlig lämplighet för anställningen
-•    goda ämneskunskaper av relevans för anställningens innehåll
-•    genomgången högskolepedagogisk utbildning om minst fem veckor eller motsvarande kunskaper inhämtade på annat sätt.
 
-För denna anställning kan undantag från kravet på högskolepedagogisk utbildning övervägas om det kan anses berättigat i ljuset av övrig meritering.
+Arbetsuppgifter:
 
-Meriterande för anställningen är:
-•    auktorisation i tolkning
-•    undervisningserfarenhet från högskola/universitet.
 
-Övrigt 
-Anställningen är en visstidsanställning på 25 procent med startdatum den 2025-08-15, eller enligt överenskommelse, dock längst till och med 2026-06-30. För information om anställningen kontakta sektionsföreståndare, Anna W Gustafsson https://www.sol.lu.se/person/AnnaGustafsson, eller studierektor, Sandy Åkerblom https://www.sol.lu.se/person/SandyAkerblom 
+- Skapa ett förtroendefullt och serviceinriktat möte med kunden där deras välbefinnande och nöjdhet alltid är i fokus.
+- Ge varje kund en skräddarsydd och trygg behandling, anpassad efter deras unika behov.
+- Informera och utbilda kunder om eftervård och produkttips för bästa resultat.
+- Utföra professionella hårborttagningsbehandlingar med diodlaser.
+-Administrativt arbete såsom hantering av bokningar, telefonsamtal, sociala medier och nyhetsbrev. Även ansvar för beställning och påfyllning av produkter ingår.
+ 
+Kvalifikationer:
+- Auktoriserad hudterapeut med relevant utbildning.
+- Erfarenhet av hårborttagning med diodlaser.
+- Stark förmåga att leverera exceptionell kundservice.
+- Erfarenhet av att hantera olika hudtyper och erbjuda lösningar för individuella behov.
+- Flexibilitet, lyhördhet och ett professionellt bemötande.
 
-Så här söker du
-Anställningen söks via universitetets rekryteringssystem. Ansökan ska innehålla personligt brev med motivering till varför du är intresserad av anställningen och på vilket sätt anställningen matchar dina meriter. Ansökan ska/bör även innehålla CV, examensbevis eller motsvarande samt övrigt som du önskar åberopa (kopior av betyg, uppgifter till referenser, rekommendationsbrev etc.)
 
-Om Humanistiska och teologiska fakulteterna
+Vi erbjuder:
+- En arbetsplats som värdesätter hög servicekvalitet och kundnöjdhet.
+- Tillgång till den senaste utrustningen inom laserbehandling.
+- Fortlöpande utbildningar för att säkerställa att du är i framkant inom ditt område.
+-En trygg och positive arbetsmiljö.
 
-Humanistiska och teologiska fakulteterna har åtta institutioner och bedriver en stor och varierad verksamhet inom forskning och utbildning. Vi har ca 700 anställda och ca 4 000 helårsstudenter.
 
-Om Språk- och litteraturcentrum
+För oss står kundens välmående alltid i centrum, och vi söker dig som delar vår passion för att erbjuda service och behandlingar av högsta kvalitet. Vi värdesätter lojalitet och strävar efter att tillsammans skapa en trivsam och respektfull arbetsmiljö. Vi ser fram emot att ta del av din ansökan och att få hälsa dig varmt välkommen till vårt team!
 
-Språk- och litteraturcentrum (SOL) är Sveriges största institution med inriktning på språk, språkvetenskap, litteraturvetenskap och områdesstudier. SOL erbjuder ca 500 fristående kurser som kompletteras av ett växande antal programutbildningar på grundnivå och avancerad nivå. Med sina 36 ämnen och ett 30-tal forskarutbildningar bildar SOL en solid enhet med bredd och djup i utbildning och forskning och utmärks av såväl nationell som internationell synlighet. SOL leds av en styrelse där prefekten är ordförande. Därutöver finns tre biträdande prefekter med särskilda verksamhetsansvar. SOL har cirka 300 anställda och 8000 studenter, varav ett hundratal är forskarstuderande.
 
-Vi undanber oss alla kontakter från annonsförsäljare, rekryterings- och bemanningsföretag på grund av statliga upphandlingsregler.Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
-Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
-Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
-Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Vi söker utbildare inom japanska. 
-Uppdraget är en utbildning under 1 heldag workshop passar konsulter eller andra situationer.
-Utbildning kan göras på plats eller virtuellt via Teams och ni har delvis fria tyglar när ni kan leverera utbidlningen.Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
-Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
-Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
-Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Talar du flytande oromo och svenska? Sök idag! 
-Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
-Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
-Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
-Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Talar du flytande samiska och svenska? Sök idag! 
-Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
-Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
-Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
-Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Talar du flytande Malajiska och/eller Indonesiska och svenska? Sök idag! 
-Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
-Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
-Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
-Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Talar du flytande Arabi Yuba eller Anuak och svenska? Sök idag! 
-Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
-Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
-Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
-Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Vi är en modern tolkförmedling som bokar och förmedlar tolkar genom vår webb och app.
-Nu söker vi tolkar i Norska över hela Sverige.
-Vi söker tolkar på alla nivåer. Auktoriserade specialister, auktoriserade och utbildade. Har du mycket goda språkfärdigheter, men saknar utbildning, erbjuder vi dig en kostnadsfri onlineutbildning.
-Du ska, förutom goda språkkunskaper, ha god samhällsuppfattning, vara serviceinriktad och kan röra dig i många miljöer och sammanhang. Att vara tolk är ett roligt arbete, och kräver att du har hög integritet, är noggrann, mycket ansvarsfull och kan passa tider.
-Vi utför tolkuppdrag både på plats hos kunder och via telefon samt video
-Körkort och bil krävs ej men är en fördel för uppdrag på plats
-Arbetet är vid behov och alla bokningar sker genom webben eller mobilen. Via telefon eller video kan du få uppdrag i hela Sverige.
-ANSÖK PÅ: https://rekrytering.digitaltolk.se/Vi är en modern tolkförmedling som bokar och förmedlar tolkar genom vår webb och app.
-Nu söker vi tolkar i Telegu över hela Sverige.
-Vi söker tolkar på alla nivåer. Auktoriserade specialister, auktoriserade och utbildade. Har du mycket goda språkfärdigheter, men saknar utbildning, erbjuder vi dig en kostnadsfri onlineutbildning.
-Du ska, förutom goda språkkunskaper, ha god samhällsuppfattning, vara serviceinriktad och kan röra dig i många miljöer och sammanhang. Att vara tolk är ett roligt arbete, och kräver att du har hög integritet, är noggrann, mycket ansvarsfull och kan passa tider.
-Vi utför tolkuppdrag både på plats hos kunder och via telefon samt video
-Körkort och bil krävs ej men är en fördel för uppdrag på plats
-Arbetet är vid behov och alla bokningar sker genom webben eller mobilen. Via telefon eller video kan du få uppdrag i hela Sverige.
-ANSÖK PÅ: https://rekrytering.digitaltolk.se/Vi är en modern tolkförmedling som bokar och förmedlar tolkar genom vår webb och app.
-Nu söker vi tolkar i Acoli över hela Sverige.
-Vi söker tolkar på alla nivåer. Auktoriserade specialister, auktoriserade och utbildade. Har du mycket goda språkfärdigheter, men saknar utbildning, erbjuder vi dig en kostnadsfri onlineutbildning.
-Du ska, förutom goda språkkunskaper, ha god samhällsuppfattning, vara serviceinriktad och kan röra dig i många miljöer och sammanhang. Att vara tolk är ett roligt arbete, och kräver att du har hög integritet, är noggrann, mycket ansvarsfull och kan passa tider.
-Vi utför tolkuppdrag både på plats hos kunder och via telefon samt video
-Körkort och bil krävs ej men är en fördel för uppdrag på plats
-Arbetet är vid behov och alla bokningar sker genom webben eller mobilen. Via telefon eller video kan du få uppdrag i hela Sverige.
-ANSÖK PÅ: https://rekrytering.digitaltolk.se/Vi är en modern tolkförmedling som bokar och förmedlar tolkar genom vår webb och app.
-Nu söker vi tolkar i Dinka över hela Sverige.
-Vi söker tolkar på alla nivåer. Auktoriserade specialister, auktoriserade och utbildade. Har du mycket goda språkfärdigheter, men saknar utbildning, erbjuder vi dig en kostnadsfri onlineutbildning.
-Du ska, förutom goda språkkunskaper, ha god samhällsuppfattning, vara serviceinriktad och kan röra dig i många miljöer och sammanhang. Att vara tolk är ett roligt arbete, och kräver att du har hög integritet, är noggrann, mycket ansvarsfull och kan passa tider.
-Vi utför tolkuppdrag både på plats hos kunder och via telefon samt video
-Körkort och bil krävs ej men är en fördel för uppdrag på plats
-Arbetet är vid behov och alla bokningar sker genom webben eller mobilen. Via telefon eller video kan du få uppdrag i hela Sverige.
-ANSÖK PÅ: https://rekrytering.digitaltolk.se/Vi är en modern tolkförmedling som bokar och förmedlar tolkar genom vår webb och app.
-Nu söker vi tolkar i Visaya/ Cebuano.
-Vi söker tolkar på alla nivåer. Auktoriserade specialister, auktoriserade och utbildade. Har du mycket goda språkfärdigheter, men saknar utbildning, erbjuder vi dig en kostnadsfri onlineutbildning.
-Du ska, förutom goda språkkunskaper, ha god samhällsuppfattning, vara serviceinriktad och kan röra dig i många miljöer och sammanhang. Att vara tolk är ett roligt arbete, och kräver att du har hög integritet, är noggrann, mycket ansvarsfull och kan passa tider.
-Vi utför tolkuppdrag både på plats hos kunder och via telefon samt video
-Körkort och bil krävs ej men är en fördel för uppdrag på plats
-Arbetet är vid behov och alla bokningar sker genom webben eller mobilen. Via telefon eller video kan du få uppdrag i hela Sverige.
-ANSÖK PÅ: jobb.digitaltolk.seLunds universitet grundades 1666 och rankas återkommande som ett av världens främsta lärosäten. Här finns omkring 47 000 studenter och mer än 8 800 medarbetare i Lund, Helsingborg och Malmö. Vi förenas i vår strävan att förstå, förklara och förbättra vår värld och människors villkor.
-
-
-Lunds universitet välkomnar sökande med olika bakgrund och erfarenheter. Jämställdhet, lika villkor och mångfald är grundläggande principer för alla delar av vår verksamhet.
-
-
-
-
-Beskrivning av arbetsplatsen 
-Språk- och litteraturcentrum (SOL) är Sveriges största institution med inriktning på språk, språkvetenskap, litteraturvetenskap och områdesstudier.
-
-SOL erbjuder ca 500 fristående kurser som kompletteras av ett växande antal programutbildningar på grundnivå och avancerad nivå. Med sina 36 ämnen och ett 30-tal forskarutbildningar bildar SOL en solid enhet med bredd och djup i utbildning och forskning och utmärks av såväl nationell som internationell synlighet. SOL leds av en styrelse där prefekten är ordförande. Därutöver finns tre biträdande prefekter med särskilda verksamhetsansvar. SOL har cirka 300 anställda och 8000 studenter, varav ett hundratal är forskarstuderande.
-
-Vi erbjuder
-Lunds universitet är en statlig myndighet vilket innebär att du får särskilda förmåner, generös semester och en förmånlig tjänstepension. 
-Läs mer på universitetets webbplats om att vara anställd hos oss https://www.lu.se/om-universitetet/jobba-hos-oss
-
-Arbetsuppgifter och ansvarsområden
-I anställningen ingår att undervisa framförallt i de praktiska momenten i tolkning till och från turkiska samt bistå de ordinarie lärarna både praktiskt och teoretiskt i deras undervisning. Du måste också kunna granska de studerandes kunskaper i turkiska. Undervisningen rör områdena arbetsmarknads-, social-, sjukvårds- och i viss mån rättstolkning. I uppdraget ingår att förbereda studenterna på ett framtida yrkesliv som tolk. Du kommer även att delta i examination av studenter. Undervisningen är helt distansförlagd. 
-
-Kvalifikationer 
-Krav för anställningen är:
-•    kandidatexamen i relevant ämne
-•    dokumenterade erfarenheter av tolkning i offentlig sektor
-•    erfarenhet av tidigare utbildning av tolkar i offentlig sektor eller motsvarande kunskaper
-•    god pedagogisk förmåga samt personlig lämplighet för anställningen
-•    goda ämneskunskaper av relevans för anställningens innehåll
-•    genomgången högskolepedagogisk utbildning om minst fem veckor eller motsvarande kunskaper inhämtade på annat sätt.
-
-För denna anställning kan undantag från kravet på högskolepedagogisk utbildning övervägas om det kan anses berättigat i ljuset av övrig meritering.
-
-Meriterande för anställningen är:
-•    auktorisation i tolkning
-•    undervisningserfarenhet från högskola/universitet.
-
-Övrigt 
-Anställningen är en visstidsanställning på 25 procent med startdatum den 2025-08-15, eller enligt överenskommelse, dock längst till och med 2026-06-30. För information om anställningen kontakta sektionsföreståndare, Anna W Gustafsson https://www.sol.lu.se/person/AnnaGustafsson eller studierektor, Sandy Åkerblom https://www.sol.lu.se/person/SandyAkerblom
-
-Så här söker du
-Anställningen söks via universitetets rekryteringssystem. Ansökan ska innehålla personligt brev med motivering till varför du är intresserad av anställningen och på vilket sätt anställningen matchar dina meriter. Ansökan ska/bör även innehålla CV, examensbevis eller motsvarande samt övrigt som du önskar åberopa (kopior av betyg, uppgifter till referenser, rekommendationsbrev etc.)
-
- 
-
-Om Humanistiska och teologiska fakulteterna
-
-Humanistiska och teologiska fakulteterna har åtta institutioner och bedriver en stor och varierad verksamhet inom forskning och utbildning. Vi har ca 700 anställda och ca 4 000 helårsstudenter.
-
-Om Språk- och litteraturcentrum
-
-Språk- och litteraturcentrum (SOL) är Sveriges största institution med inriktning på språk, språkvetenskap, litteraturvetenskap och områdesstudier. SOL erbjuder ca 500 fristående kurser som kompletteras av ett växande antal programutbildningar på grundnivå och avancerad nivå. Med sina 36 ämnen och ett 30-tal forskarutbildningar bildar SOL en solid enhet med bredd och djup i utbildning och forskning och utmärks av såväl nationell som internationell synlighet. SOL leds av en styrelse där prefekten är ordförande. Därutöver finns tre biträdande prefekter med särskilda verksamhetsansvar. SOL har cirka 300 anställda och 8000 studenter, varav ett hundratal är forskarstuderande.
-
-Vi undanber oss alla kontakter från annonsförsäljare, rekryterings- och bemanningsföretag på grund av statliga upphandlingsregler.Om tjänsten
-Ett av arméstabens fokusområden är att bygga den nya armén. En armé som har fokus på förmåga i
-fält och i detta bygga nya såväl som omstrukturera befintliga förband. Arméstaben utvecklar och
-produktionsleder i armén ingående krigsförband samt underställda förband och skolor.
-
-Ovanstående kombinerat med att fortsatt etablera arméstaben som en sammanhållande kraft gör att
-arbetsuppgifterna är mycket omväxlande, utvecklande och dynamiska. Vi är alla lösningsfokuserade
-och tar våra uppgifter och ansvar med stort engagemang där allt för armén är vår drivkraft. Armén – när och där det avgörs! 
-
-Om enheten
-Underrättelse- och säkerhetssektionen är en sektion vid Arméstabens genomförandeavdelning som
-arbetar brett över hela Arméstabens processer och tidsperspektiv i allt från genomförande, planering
-och utveckling av nya förmågor och tjänster.
-
-Sektionen inhämtar och bearbetar underrättelseinformation för att skapa beslutsunderlag för
-Arméchefen, Arméstaben och arméns förband på både kort och lång sikt. Samverkan med
-partnerländer är en väsentlig del av arbetet för att skapa en gemensam lägesbild. Sektionen leder
-också säkerhetstjänsten inom armén.
-
-Huvudsakliga arbetsuppgifter
-Som tolk vid Arméstabens Underrättelse- och säkerhetssektion kommer du främst att arbeta med
-inhämtning och översättning av information från öppna källor. Informationen bearbetas sedan av
-underrättelseanalytiker för att som en del bidra till lägesbilden och bedömanden som görs vid
-sektionen.
-
-Kvalifikationer
-- Genomgången militär grundutbildning med godkända betyg
-- God förmåga i ryska, motsvarande minst Förhörssoldat
-- God förmåga att uttrycka sig i såväl tal som skrift, både på svenska och engelska
-- God datorvana
-- B-körkort
+Ansökan:
+Skicka ditt CV och personligt brev till cmcmalmo@gmail.com. Intervjuer sker löpande.Vill du jobba med oss på Malmös finaste skönhetssalong som erbjuder det absolut bästa inom skönhet?
+Vår salong erbjuder kunderna det senaste inom skönhetstjänster såsom Hairtalk, klippning, massage, laser, bryn, ögonfransförlängning, hudvård, nagelvård, fotvård och injektionsbehandlingar.
+Vi växer och därför är vi av behov av en erfaren Microblading specialist för att förstärka vårt fantastiska team.
+Är du duktig, driven och älskar att alltid leverera det lilla extra med WOW känsla och sätta kunden främst?
+Då har vi ett ledigt rum just för dig (Notera att du hyr ett rum hos oss under egen regi).
+Vi behandlar ansökningarna fortlöpande och ser gärna att du skickar in din ansökan så snart som möjligt.
+Nyfiken på vårt team, kika in här: https://www.instagram.com/skillsmalmo/
+Öppen för alla
+Vi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.*Frisör sökes till vår personliga salong*
 
-Meriterande
-- Genomfört språkutbildning vid Försvarets Tolkskola
-- Tidigare erfarenhet eller utbildning inom underrättelseområdet
-- Tidigare erfarenhet av arbete med öppna källor
 
-Personliga egenskaper
-Stor vikt läggs vid personliga egenskaper. Du har förmågan att självständigt driva projekt och
-arbetsuppgifter. Det innebär att du kan planera, organisera och genomföra ditt arbete på egen hand, i
-linje med sektionens övergripande mål och uppdrag.
+Vi söker en erfaren och passionerad frisör till vår lilla, hemtrevliga frisörsalong. Hos oss får du arbeta i en trivsam miljö där vi sätter kunden i fokus och värdesätter kvalitet i varje behandling.
 
-För att myndighetens uppdrag ska vara framgångsrikt förutsätts att alla medarbetare uppträder enligt
-den värdegrund som finns. Försvarsmaktens värdegrund slår vakt om alla människors lika värde,
-rättvisa och jämlikhet och främjar demokrati och mänskliga rättigheter (läs mer på
-www.forsvarsmakten.se).
 
-Övrigt
-Befattningsnivå: Civil
-Lön: Individuell lönesättning enligt kollektivavtal
-Anställningsform: Tillsvidare, inleds med sex månaders provanställning om du inte redan är
-anställd inom Försvarsmakten
-Arbetsort: Enköping
-Tillträdesdatum: Enligt överenskommelse
+Om tjänsten:
+	•	Fast anställning (tillsvidare)
+	•	Omgående start
+	•	Månadslön enligt överenskommelse
+	•	Arbetstid enligt schema
 
-För upplysningar om befattningen kontakta:
-Övlt Johan Althén, johan.althen@mil.se, växel 0171-157000
-För information om rekryteringsprocessen kontakta:
-HR-generalist Therese Pettersson nås via växel 0171-157000
 
-Fackliga företrädare:
-OFR/O: Tobias Brandt
-OFR/S: Claus Dehlin
-SACO: Karin Gällmo
-SEKO: Benny Augustsson
+Vi söker dig som har:
+	•	Flera års erfarenhet inom yrket
+	•	Goda kunskaper i klippning, färgning och styling
+	•	Ett professionellt bemötande och känsla för service
+	•	Självständighet, initiativförmåga och ansvarskänsla
 
-Sista ansökningsdag
-Välkommen med din ansökan senast 2025-06-15. Din ansökan bör innehålla CV samt
-ansökningsbrev där du motiverar varför du är lämpad för denna befattning.
 
- Ansökningar till denna befattning kommer endast tas emot via Försvarsmaktens webbplats. 
---------------------------------------------------------
-Information om Försvarsmakten och det rekryterande förbandet:
+Hos oss får du chansen att vara en del av ett litet men varmt team, där du har möjlighet att utvecklas och påverka din egen arbetsdag.
 
-Försvarsmakten är inne i ett omfattande utvecklingsarbete för att bygga ett starkare försvar mot bakgrund av ett försämrat omvärldsläge och ny försvarspolitisk inriktning med fokus på det nationella försvaret. Ledning för ett starkare försvar syftar till att öka robustheten, förenkla lednings- och lydnadsförhållanden samt genom decentralisering av mandat och ansvar öka förutsättningarna för uppdragstaktik.
 
-I Försvarsmakten finns en stark värdegrund som bygger på öppenhet, resultat och ansvar. Professionell utveckling och personlig hälsa värdesätts och uppmuntras. Det finns goda förutsättningar för intern karriärrörlighet, friskvård samt bra balans mellan arbete och privatliv.
+Ansökan:
+Skicka din ansökan så snart som möjligt, urval sker löpande.Vi på Turkans Beauty söker en passionerad och driven frisör som vill arbeta i en inspirerande och positiv arbetsmiljö. Om du har ett stort intresse för hårvård och trivs med att skapa vackra resultat för våra kunder, kan du vara den vi söker!
 
-En anställning hos oss innebär placering i säkerhetsklass. Vanligtvis krävs svenskt medborgarskap.
-Säkerhetsprövning med registerkontroll kommer att genomföras före anställning enligt 3 kap i säkerhetsskyddslagen. Med anställning följer en skyldighet att krigsplaceras. I anställningen ingår även en skyldighet att tjänstgöra utomlands. Innebörden av detta varierar beroende på typ av befattning.
 
-Till ansökan om anställning ska CV och personligt brev bifogas. Om du går vidare i anställningsprocessen ska alltid vidimerade kopior av betyg och intyg uppvisas.
+Vad vi erbjuder:
+• En kreativ arbetsmiljö med goda utvecklingsmöjligheter.
+• Möjlighet att arbeta med både herr- och damklippningar, färgning, styling och behandlingar.
+• Ett härligt och engagerat team som stöttar varandra
 
-Samtal från externa rekryteringsföretag och säljare undanbedes.Talar du flytande Kirgiziska och svenska? Sök idag! 
-Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
-Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
-Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
-Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.Talar du flytande Singalesiska och svenska? Sök idag! 
-Språkservice Sverige AB är Sveriges största tolk- och översättningsbyrå med huvudkontor i Malmö och ett kontor i Stockholm. Vi finns här för att matcha våra kunders språkbehov med en för uppdraget lämplig tolk eller översättare. Språkservice förmedlar dagligen tusentals förfrågningar till både offentlig och privat sektor över hela landet. Vi är certifierade enligt ISO 9001 & 14001.
-Tillsammans med våra tolkar bryter vi språkbarriärer och säkerställer att alla människor kan kommunicera obehindrat. Som tolk hos oss är du vår viktigaste resurs och vårt ansikte utåt. Du har ett samhällsviktigt uppdrag och bidrar till att såväl rätts- som patientsäkerhet upprätthålls. Du har möjligheten att styra ditt eget schema och kan därför välja att kombinera tolkyrket med såväl studier som annat deltidsarbete.
-Krav för att bli tolk är att du behärskar både det svenska språket samt det språk som du ska tolka i väl. Utbildning eller auktorisation är starkt meriterande men inget krav då vi har möjlighet att erbjuda dig en utbildning.
-Vill du göra skillnad? Bli tolk genom att ansöka via länken i annonsen alternativt via vår hemsida Språkservice – Bli tolk.DigitalTolk is a company that specializes in providing professional interpreting and translation services. They use a booking system to connect clients with a large network of qualified interpreters and translators who offer services in more than 210 languages and dialects. This enables businesses and individuals to receive translation services for various situations and needs, regardless of time or language. The company was founded in 2015 and aims to optimize and improve the process of finding reliable interpreters and translators, making it easier to overcome language barriers. The two largest sectors that use DigitalTolk’s services are the legal and healthcare industries.
 
+Vi söker dig som:
+• Är utbildad och certifierad frisör.
+• Har erfarenhet av att arbeta med klippning, färg och behandlingar.
+• Har ett sinne för detaljer och kundservice.
+• Är flexibel, noggrann och har en positiv attityd.
+• Har ett intresse för att utvecklas och hålla dig uppdaterad om de senaste trenderna inom frisöryrket.
 
 
+Är du vår nästa frisör?
+Skicka din ansökan och CV till turkansbeauty@gmail.com eller ring
+076-014 94 49 för mer information.
 
-Location:
 
-Stockholm
+Vi ser fram emot att höra från dig och hoppas på att du vill bli en del av vårt härliga team på Turkans BeautyVi söker erfaren massageterapeut till vårt team!
+Är du en passionerad och erfaren massageterapeut som brinner för att hjälpa människor till bättre hälsa och välmående? Vill du arbeta i en professionell och avslappnande miljö där du kan utveckla dina färdigheter och göra skillnad för våra kunder? Då är det dig vi söker! 
 
-Who we are looking for:
 
-Translator / Digital Interpreter
+Om tjänsten
+Vi söker en certifierad massageterapeut med minst 2 års erfarenhet av att arbeta med olika massagebehandlingar, såsom klassisk massage, djupvävnadsmassage och hot stone massage. Som en del av vårt team kommer du att: 
+- Utföra skräddarsydda behandlingar för att möta kundens individuella behov. 
+- Bidra till en varm och professionell atmosfär på spaet. 
+- Samarbeta med kollegor för att erbjuda bästa möjliga helhetsvård. 
 
 
+Vi söker dig som:
+- Är utbildad och certifierad massageterapeut. 
+- Har erfarenhet av att arbeta med olika tekniker och kundgrupper. 
+- Är serviceinriktad, lyhörd och engagerad i att skapa en positiv upplevelse för varje kund. 
+- Är van att arbeta självständigt och har god organisationsförmåga. 
 
-Your responsibilities: 
 
-- real-time interpreting to or from Swedish using the DigitalTolk app; 
+Vi erbjuder:
+- En modern och trivsam arbetsmiljö. 
+- Möjlighet att utvecklas professionellt och bygga på dina färdigheter.  
 
-- written translation of texts when needed.
 
-Requirements: 
+Låter detta som rätt möjlighet för dig? Skicka din ansökan med CV och ett personligt brev till info@norrskenhammam.se Vi ser fram emot att höra från dig! 
 
-- ability to understand and speak Swedish at an advanced level; 
 
-- fluency in one or more of the following languages: Ukrainian; Dinka; Fula; Igbo; Twi; Malayalam; Tagalog; Kinyarawanda; Saho; Visaya/Cebauno; Kakwa; Nuer; Tjetjenska; Sango; Afar; Akan; Maban; Wolof; Oromo; Baluchi; 
+Tillsammans hjälper vi våra kunder att må bättre – en behandling i taget!Vi söker erfaren massageterapeut till vårt team!
+Är du en passionerad och erfaren massageterapeut som brinner för att hjälpa människor till bättre hälsa och välmående? Vill du arbeta i en professionell och avslappnande miljö där du kan utveckla dina färdigheter och göra skillnad för våra kunder? Då är det dig vi söker! 
 
-- previous experience as a translator is a plus, but not required; 
 
-- experience in healthcare or legal fields is a significant advantage, as most translations will relate to these sectors.
+Om tjänsten
+Vi söker en certifierad massageterapeut med minst 2 års erfarenhet av att arbeta med olika massagebehandlingar, såsom klassisk massage, djupvävnadsmassage och hot stone massage. Som en del av vårt team kommer du att: 
+- Utföra skräddarsydda behandlingar för att möta kundens individuella behov. 
+- Bidra till en varm och professionell atmosfär på spaet. 
+- Samarbeta med kollegor för att erbjuda bästa möjliga helhetsvård. 
 
-Your profile: 
 
-- you are communicative and friendly; 
+Vi söker dig som:
+- Är utbildad och certifierad massageterapeut. 
+- Har erfarenhet av att arbeta med olika tekniker och kundgrupper. 
+- Är serviceinriktad, lyhörd och engagerad i att skapa en positiv upplevelse för varje kund. 
+- Är van att arbeta självständigt och har god organisationsförmåga. 
 
-- you are positive, service-oriented, and willing to help others.
 
-What the employer offers: 
+Vi erbjuder:
+- En modern och trivsam arbetsmiljö. 
+- Möjlighet att utvecklas professionellt och bygga på dina färdigheter.  
 
-- temporary employment; 
 
-- office working hours;
+Låter detta som rätt möjlighet för dig? Skicka din ansökan med CV och ett personligt brev till info@norrskenhammam.se. Vi ser fram emot att höra från dig! 
 
-- hourly pay.
 
-Important: This position is part of an AMIF-funded project aiming to support the integration of newly arrived non-EU/EEA residents into the Swedish labour market. Candidates who meet these criteria are encouraged to apply."
+Tillsammans hjälper vi våra kunder att må bättre – en behandling i taget!Är du redo att ta nästa steg inom skönhetsvärlden? Vår exklusiva salong i Malmö, en oas där vi lyfter fram det allra bästa inom skönhet, söker nu en erfaren Frisör & Head Spa-terapeut att förstärka vårt dynamiska team.
+
+
+Hos oss får dina kunders skönhetsresa en personlig prägel med ett brett utbud av toppmoderna behandlingar – från Hairtalk, klippning och massage till laser, bryn, ögonfransförlängning, ShapeRoll, hudvård, nagel- och fotvård samt injektionsbehandlingar. Dessutom ingår traditionella hårfrisöruppgifter som klippning, olika färgbehandlingar och moderna styling tekniker, vilket ger dig möjlighet att utöva både kreativa och terapeutiska färdigheter i din vardag.
+
+
+Vi söker dig som är en skicklig och driven frisör med passion för både hårhälsa och stil. I rollen ingår bland annat att:
+
+
+- Utföra noggranna hårbottensanalyser för att identifiera kundens behov och därmed skapa skräddarsydda behandlingsplaner.
+- Utföra klassiska hårfrisöruppgifter inklusive klippning, hantering av olika färgbehandlingar samt applicering av innovativa stylingtekniker.
+- Genomföra avkopplande huvudmassage och spa-behandlingar som bidrar till en total känsla av välbefinnande.
+- Bidra till en lugn och trivsam miljö genom att alltid leverera en hög, professionell standard i kontakten med våra kunder.
+
+
+Vi erbjuder en flexibel tjänst där du kan välja att hyra stol/rum eller bli anställd, vilket ger dig möjligheten att anpassa arbetssituationen efter din livsstil. Vi har ett omedelbart behov av en ny resurs och behandlar ansökningar löpande.
+
+
+Om du vill vara med och forma framtiden för skönhetsvård i Malmö och trivs med varierande uppgifter i en inspirerande miljö, skicka in din ansökan redan idag. Välkommen att bli en del av vårt team!
+
+
+Öppen för alla
+Vi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.Vill du jobba med oss på Malmös finaste skönhetssalong som erbjuder det absolut bästa inom skönhet?
+Vår salong erbjuder kunderna det senaste inom skönhets tjänster såsom Hairtalk, klippning, massage, HeadSpa, laser, bryn, ögonfransförlängning, hudvård, nagelvård, fotvård och injektionsbehandlingar.
+Vi växer och är därför i behov av ännu en erfaren frisör för att förstärka vårt fantastiska team.
+Är du en duktig och driven frisör som alltid strävar efter att leverera det lilla extra med WOW känsla och sätta kunden främst?
+
+
+Då ser vi gärna att du blir en del av oss - notera att vi erbjuder en hyrstol på Malmös mest exklusiva salong.
+Tillträde diskuteras.
+
+
+Nyfiken på teamet, kika in hos oss: https://www.instagram.com/skillsmalmo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+
+
+
+
+Vi behandlar ansökningarna fortlöpande och ser gärna att du skickar in din ansökan så snart som möjligt.
+Öppen för alla
+Vi fokuserar på din kompetens, inte dina övriga förutsättningar. Vi är öppna för att anpassa rollen eller arbetsplatsen efter dina behov.Vill du vara med på Nordens största Hair & Beauty-äventyr?
+
+På Nikita Hair i Kristianstad arbetar ett superhärligt team som du har möjlighet att bli en del av! Vi söker nu både frisörer och trainees som vill fortsätta utvecklas tillsammans med oss! 
+
+Vem är du?
+
+
+• Utbildad frisör (gymnasial eller privat utbildning)
+• Serviceinriktad med kunden i fokus
+• Stor passion för frisöryrket
+
+Vad erbjuder vi dig?
+
+
+• God arbetsmiljö med stort fokus på trivsel och teamkänsla
+• Goda lönevilkor och personalförmåner (OB, sjuklön och semesterersättning enligt kollektivavtal)
+• Vi hjälper dig med del-och gesällprov och står dessutom för kostnaden!
+• Personalrabatter och Friskvårdsbidrag
+• Karriärmöjligheter i Sverige och Norge
+• Utbildningar och personlig utveckling
+• Teamaktiviteter och gemenskap!
+
+Varmt välkommen med din ansökan redan idag!
+
+#SverigesbästafrisörarbetsplatsHallå, vi söker nu en erfaren frisör till män. Salongen är belagd på Gustav Adolfs Torg i Malmö. Vill du bli en del av vårt team? Skicka då en ansökan! 
+För mer information, kontakta då oss nedan.
+https://snsalon.com/
+Info@Snsalon.com
+0790584098Are you a barber with passion and loving your profession? We are looking for you! Barber time is a 6 years company based on great people and professional values who is providing great experience to its customers, fashionable haircut and beard as well as great grooming solutions. Always with the customer in the center of our heart.
+Are you the right candidate? Do not hesitate to contact us and get in touch!Vi på Axelsons SPA & Skin Clinic Malmö växer och i våra väldesignade lokaler mitt i centrala Malmö, där lugnet infinner sig så fort man stiger innanför dörren, arbetar ett positivt gäng där värme, serviceanda och driv sätter tonen.
+Vi söker en medicinsk fotvårdare som kan hjälpa oss ta hand om våra underbara kunder. Meriterande är om du har några års erfarenhet samt är en fena på försäljning. 
+På Axelsons spa jobbar vi med fotvård/pedikyr och medicinsk fotvård.
+Som person ser vi att du är flexibel, säljande, pålitlig och serviceminded. Du har lätt för att kommunicera med både kunder och kollegor samt ser försäljning som en service till kunden.
+Just nu söker vi en medicinsk fotvårdare på 50% 
+Vill du bli en del av vårt växande team?
+Intervjuer hålls löpande och vi rekryterar vartefter behovet ökar.
+Vid frågor om tjänsterna kontakta jobb.malmo@axelsonsspa.se
+Varmt välkommen att söka till ossVi på Axelsons SPA & Skin Clinic Malmö växer så det knakar och behöver nu stärka upp vårt härliga team med ytterligare en grym massör.
+I våra väldesignade lokaler mitt i centrala Malmö, där lugnet infinner sig så fort man stiger innanför dörren, arbetar ett positivt gäng där värme, serviceanda och driv sätter tonen.
+Vi söker en medicinsk fotvårdare som kan hjälpa oss ta hand om våra underbara kunder. Meriterande är om du har några års erfarenhet samt är en fena på försäljning. 
+På Axelsons spa jobbar vi med fotvård/pedikyr och medicinsk fotvård.
+Som person ser vi att du är flexibel, säljande, pålitlig och serviceminded. Du har lätt för att kommunicera med både kunder och kollegor samt ser försäljning som en service till kunden.
+Just nu söker vi en medicinsk fotvårdare under sommarperioden, Maj-September, med chans att få fortsätta arbeta hos oss efter perioden också. 
+Vill du bli en del av vårt växande team?
+Intervjuer hålls löpande och vi rekryterar vartefter behovet ökar.
+Vid frågor om tjänsterna kontakta Spachef Nellie Grubin: nellie.grubin@axelsonsspa.se
+Varmt välkommen att söka till ossVi på Axelsons SPA & Skin Clinic Malmö växer så det knakar och behöver nu stärka upp vårt härliga team med ytterligare en grym massör.
+I våra väldesignade lokaler mitt i centrala Malmö, där lugnet infinner sig så fort man stiger innanför dörren, arbetar ett positivt gäng där värme, serviceanda och driv sätter tonen.
+Vi söker en medicinsk fotvårdare som kan hjälpa oss ta hand om våra underbara kunder. Meriterande är om du har några års erfarenhet samt är en fena på försäljning. 
+På Axelsons spa jobbar vi med fotvård/pedikyr och medicinsk fotvård. 
+Som person ser vi att du är flexibel, säljande, pålitlig och serviceminded. Du har lätt för att kommunicera med både kunder och kollegor samt ser försäljning som en service till kunden.
+Just nu söker vi  medicinsk fotvårdare på behov som kan jobba varannan helg och någon dag/kväll i veckan. 
+
+
+Vill du bli en del av vårt växande team?
+Intervjuer hålls löpande och vi rekryterar vartefter behovet ökar.
+Vid frågor om tjänsterna kontakta Spachef Nellie Grubin: nellie.grubin@axelsonsspa.se 
+Varmt välkommen att söka till oss"
