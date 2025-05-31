@@ -19,6 +19,7 @@ def bar_chart(df: pd.DataFrame, x: str, y: str, title: str):
 # Creating a pie chart using Plotly Express
 def pie_chart(df: pd.DataFrame, names: str, values: str, title: str):
     fig = px.pie(df, names=names, values=values, hole=0.3) #title=title, )
+    fig.update_traces(textposition="inside")
     return fig
 
 # Show text in Streamlit
@@ -83,7 +84,7 @@ def chart_top_occupations(current_df, sort_on, field):
     df = current_df.groupby(sort_on)["vacancies"].sum().sort_values(ascending=False).reset_index()
     bar = st.slider("Antal staplar att visa", min_value=10, max_value=20, step=1)
 
-    fig = px.bar(df.head(bar), x=sort_on, y="vacancies", color="vacancies",color_continuous_scale="Teal" )
+    fig = px.bar(df.head(bar), x=sort_on, y="vacancies", color="vacancies",color_continuous_scale="Teal", labels={"workplace_city": "Arbetsort", "employer_name": "Arbetsgivare", "occupation": "Yrke", "vacancies": "Antal"})
     # fig.update_layout(title_text=f"Topp {bar} {sort_on}s with most vacancies in field: {field}")
     return fig, df
 
