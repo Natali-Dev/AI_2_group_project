@@ -20,9 +20,8 @@ def gemini_layout(current_df, field):
     # Matcha person med jobb, skriva in nyckelord och sök efter matchande annonser i städer/ hos arbetsgivare / på yrken
     
     st.markdown("## Ställ en fråga till Gemini") 
-    category = st.selectbox(
-        "Välj en kategori:", ["workplace_city", "employer_name", "occupation"]
-    )
+    category = st.markdown("## Ställ en fråga till Gemini"); category = {"Arbetsort": "workplace_city", "Arbetsgivare": "employer_name", "Yrke": "occupation"}[st.selectbox("Välj en kategori:", ["Arbetsort", "Arbetsgivare", "Yrke"])]
+
     choice_unique = st.selectbox(
         "välj en stad/arbetsgivare/yrke", current_df[category].sort_values().unique()
     )
