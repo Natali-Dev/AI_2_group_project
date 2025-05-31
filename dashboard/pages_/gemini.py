@@ -13,9 +13,9 @@ import duckdb
 load_dotenv()
 client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
-question_1 = "Vad är de vanligaste kraven?"
-question_2 = "Vad är de vanligaste meriterande kunskaperna?"
-question_3 = "Vad är de vanligaste arbetsuppgifterna?"
+question_1 = "Vilka är de vanligaste kuskapskraven?"
+question_2 = "Vilka är de vanligaste meriterande kunskaperna?"
+question_3 = "Vilka är de vanligaste arbetsuppgifterna?"
 question_4 = "Vilka personliga egenskaper krävs?"
 
 def gemini_layout(current_df, field):
@@ -47,8 +47,8 @@ def gemini_layout(current_df, field):
         "Välj en fråga",
         [
             "Select...",
-            question_1,# inom {choice_unique}?",
-            question_2,# inom {choice_unique}?",
+            question_1,
+            question_2,
             question_3,
             question_4
         ],
@@ -59,7 +59,7 @@ def gemini_layout(current_df, field):
     if button:
         response = gemini_logic(df_to_use, choice_question, field) 
         
-        df_krav, df_sammanfattning = convert_prompt_to_df(response, choice_question)
+        df_krav, df_sammanfattning = convert_prompt_to_df(response)
         
         fig_krav= plot_gemini(df_krav)
         
@@ -96,6 +96,7 @@ def gemini_logic(df_to_use, choice_question, field):
 
 
     return response
+
 
 def get_right_promt(question):
 
@@ -158,38 +159,23 @@ def get_right_promt(question):
     
 
 
-def convert_prompt_to_df(response, question):
+def convert_prompt_to_df(response):
     data = response.text
     cleaned = data.strip("```json")
     data = json.loads(cleaned)
 
-    # keylist = []
-    # valuelist = []
-    
-    if question == question_1:
-        df_krav = pd.DataFrame({
-        "krav": data["krav"], 
-        "antal krav": data["antal krav"]
-        })
+    keylist = []
+    valuelist = []
+    for key, value in data.items(): 
+        keylist.append(key)
+        valuelist.append(value)
         
-    elif question == question_2: 
-        df_krav = pd.DataFrame({
-        "meriterande": data["meriterande"],
-        "antal meriterande": data["antal meriterande"]
-        })
+    df_krav = pd.DataFrame({
+        keylist[0]: valuelist[0],
+        keylist[1]: valuelist[1]
         
-    elif question == question_3: 
-        df_krav = pd.DataFrame({
-            "arbetsuppgift": data["arbetsuppgift"],
-            "antal arbetsuppgift": data["antal arbetsuppgift"]
-        })
-        
-    elif question == question_4: 
-        df_krav = pd.DataFrame({
-            "personlig": data["personlig"],
-            "antal personlig": data["antal personlig"]
-        })
-        
+    })
+
         
     df_sammanfattning = pd.DataFrame({
     "sammanfattning": data["sammanfattning"]
@@ -201,5 +187,5 @@ def plot_gemini(df_krav):
     st.write(df_krav)
 
     column_names = df_krav.columns
-    fig_krav = px.bar(df_krav, y=column_names[1], x=column_names[0])
+    fig_krav = px.bar(df_krav.sort_values(by=column_names[1], ascending=False), y=column_names[1], x=column_names[0])
     return fig_krav
