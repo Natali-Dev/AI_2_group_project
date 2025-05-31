@@ -28,9 +28,9 @@ def home_layout(current_df, field):
     st.write("------------------")
 
     col1.metric("Totalt antal lediga jobb", total_vacancies(current_df))
-    col2.metric("Antal städer", current_df["workplace_city"].nunique())
-    col3.metric("Antal arbetsgivare", current_df["employer_name"].nunique())
-    col4.metric("Totalt antal annonser", len(current_df))
+    col2.metric("Totalt antal annonser", len(current_df))
+    col3.metric("Antal städer", current_df["workplace_city"].nunique())
+    col4.metric("Antal arbetsgivare", current_df["employer_name"].nunique())
 
     # Most requested occupations
     st.header("Mest efterfrågade yrken")
@@ -38,20 +38,4 @@ def home_layout(current_df, field):
     top_occ = top_occ.rename(columns={"occupation": "Yrke", "count": "Antal"})
     st.plotly_chart(bar_chart(top_occ, "Yrke", "Antal", "Mest efterfrågade yrken"))
 
-    # Total layout for sweden:
 
-    # st.markdown("### Top 5 yrken med flest lediga jobb:")
-    # fields, vacanices = vacancies_by_group()
-    # labels = fields
-    # cols = st.columns(5)
-    # kpis = vacanices
-    # show_metric(labels, cols, kpis)
-    
-    # fig2, df = chart_top_occupations(field, "Occupation Group")
-    # st.plotly_chart(fig2)
-
-    # st.markdown("### Topplista på yrken: ")
-    
-# if __name__ == "__main__":
-
-#     home_layout()
