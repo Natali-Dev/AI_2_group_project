@@ -20,6 +20,7 @@ from chart import (
 
 def overview_layout(current_df, field):
     st.markdown("# Detailed overview")
+    
 
     # Metric som visar hur många jobb som kräver attributes: "Erfarenhet", "Körkort", "Tillgång till egen bil
     st.markdown(f"### Antal jobb för grupp {field.lower()} som kräver:")
@@ -39,10 +40,15 @@ def overview_layout(current_df, field):
             st.warning("Inga yrkesgrupper att visa")
     else:
         st.warning("Ingen data för yrkesgrupper tillgänglig.")
+
+        
         
     # Graf med selectbox och st.slider där man kan välja hur många bars man vill se
     st.markdown("### Se mest lediga jobb baserat på:") 
-    sort_on = st.selectbox("Sortera på", ["workplace_city", "employer_name", "occupation"])
+    sort_on = {"Arbetsort": "workplace_city", "Arbetsgivare": "employer_name", "Yrke": "occupation"}[
+    st.selectbox("Sortera på", ["Arbetsort", "Arbetsgivare", "Yrke"])
+]
+
     
     fig, df = chart_top_occupations(current_df, sort_on, field)
     
