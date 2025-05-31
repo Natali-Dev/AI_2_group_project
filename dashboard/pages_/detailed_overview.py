@@ -58,10 +58,21 @@ def overview_layout(current_df, field):
         st.plotly_chart(fig)
 
     with cols[1]: # Ruta 2, med pie-chart
+        sort_options = {
+            "Språkkrav": "must_have_languages", 
+            "Anställningstyp": "working_hours_type", 
+            "Anställningslängd": "duration", 
+            "Erfarenhet": "experience_required", 
+            "Körkort": "driving_license", 
+            "Tillgång till egen bil": "access_to_own_car"
+        }
+        
         get_unique = st.selectbox("Fortsätt sortera på", df[sort_on].unique()) 
-        detailed_sort = st.selectbox("Se graf med ", ["must_have_languages", "duration", "working_hours_type", "experience_required", "driving_license", "access_to_own_car"]) 
+        detailed_sort = sort_options[
+            st.selectbox("Se graf med", list(sort_options.keys()))
+        ]
 
-        pie_fig, lenght = general_pie_chart(current_df,sort_on,get_unique, detailed_sort)
+        pie_fig, lenght = general_pie_chart(current_df, sort_on, get_unique, detailed_sort)
         st.markdown(f"#### Antal jobb som har lagt in: {lenght}")
         st.plotly_chart(pie_fig)
         
