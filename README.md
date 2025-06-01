@@ -1,5 +1,8 @@
 # AI_2_group_project
 
+[Dagster_lineage](uppgiften/image.png)
+
+## How to use
 ### occupation_fields
 Installation drift underhåll - "yhCP_AqT_tns"       
 Kropps- och skönhetsvård - "Uuf1_GMh_Uvw"       
@@ -24,7 +27,7 @@ dbt_group_project:
   outputs:
     dev:
       type: duckdb
-      path: ads_data.duckdb
+      path: ../ads_data.duckdb
       threads: 1
 
     prod:
@@ -34,15 +37,3 @@ dbt_group_project:
 
   target: dev
 ```
-
-# DBT TESTS
-
-- Testing **not null** in all columns thru dim/dim_models.yml and fct/fct_models.yml
-- Testing **unique** in all ID in dim/dim_models.yml and fct/fct_models.yml
-
-## Scripted tests in /macros/tests
-- dim_row_count_match
-Ensuring that joins are correct with surrogate keys.
-
-## Scripted tests in folder /tests
-- validate_vacancies 

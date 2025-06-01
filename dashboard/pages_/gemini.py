@@ -57,15 +57,20 @@ def gemini_layout(current_df, field):
 
     button = st.button("Starta Gemini") #För att den inte ska köra direkt
     if button:
-        response = gemini_logic(df_to_use, choice_question, field) 
-        
-        df_krav, df_sammanfattning = convert_prompt_to_df(response)
-        
-        fig_krav= plot_gemini(df_krav)
-        
-        st.write(df_sammanfattning["sammanfattning"][0])
-        st.plotly_chart(fig_krav)
-            
+        while button: 
+            try:
+                response = gemini_logic(df_to_use, choice_question, field) 
+                
+                df_krav, df_sammanfattning = convert_prompt_to_df(response)
+                
+                fig_krav= plot_gemini(df_krav)
+                
+                st.write(df_sammanfattning["sammanfattning"][0])
+                st.plotly_chart(fig_krav)
+                button = False
+            except json.JSONDecodeError as e: 
+                st.warning(f"Något blev fel, försöker igen! \n{e}")
+                button = True
 
 def gemini_logic(df_to_use, choice_question, field):
 
@@ -162,6 +167,7 @@ def get_right_promt(question):
 def convert_prompt_to_df(response):
     data = response.text
     cleaned = data.strip("```json")
+
     data = json.loads(cleaned)
 
     keylist = []
@@ -182,6 +188,8 @@ def convert_prompt_to_df(response):
     })
 
     return df_krav, df_sammanfattning
+    
+
 
 def plot_gemini(df_krav):
     st.write(df_krav)
