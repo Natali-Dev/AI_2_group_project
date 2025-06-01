@@ -1,18 +1,64 @@
-/* Yttre bakgrund – hela sidan */
-[data-testid="stAppViewContainer"] {
-    background-color: #fcfcfc;
-    color: #ffffff;
+/* Grundläggande body-stil */
+body {
+    background-color: #5491ed;
     font-family: 'Segoe UI', sans-serif;
+    color: #333;
 }
 
-/* Inre container (där innehållet är) */
-[data-testid="stMarkdownContainer"] {
-    font-family: 'Segoe UI', sans-serif;
-    color: #31686fd0;
+/* Rubriker */
+h1 {
+    color: #2aa0d6 !important;
+    font-size: 40px!important;
+    text-align: center!important;
+    margin-bottom: 20px!important;
 }
 
-/* == Rubriker == */
-h1, h2, h3 {
-    color: #2867bf;
-    font-weight: 600;
+h2 {
+    color: #264653!important;
+    font-size: 28px!important;
+    margin-top: 30px!important;
+}
+
+/* Vanlig text */
+p {
+    font-size: 15px!important;
+    line-height: 1.6!important;
+}
+
+
+a:hover {
+    text-decoration: underline!important;
+}
+
+
+button[kind="primary"] {
+    background-color: #2a9d8f!important;
+    color: white!important;
+    border-radius: 8px!important;
+    padding: 10px 20px!important;
+    font-weight: bold!important;
+}
+button[kind="primary"]:hover {
+    background-color: #21867a!important;
+    color: white!important;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #ffffff!important;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+    width: 8px!important;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1!important;
+}
+::-webkit-scrollbar-thumb {
+    background: #888!important;
+    border-radius: 4px!important;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #555!important;
 }
