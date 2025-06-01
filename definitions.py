@@ -17,8 +17,27 @@ from pathlib import Path
 # import sys
 # sys.path.insert(0, '../data_extract_load')
 from extract_load_api import jobads_source
+import os
 
-# sys.path.pop(0) #not necessary to clean up sys path because there is no more moduel to be imported
+# Roten av projektet
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+
+# Datakatalog
+DATA_DIR = os.path.join(PROJECT_ROOT, 'data')
+os.makedirs(DATA_DIR, exist_ok=True) # Skapa mappen om den inte finns
+
+# Sökväg till våran HUVUDSAKLIGA DuckDB-databas med dbt-tabeller (för SQL-agenten)
+MAIN_DB_FILE_NAME = 'ads_data.duckdb'  # Ditt angivna filnamn!
+DB_PATH = os.path.join(PROJECT_ROOT, MAIN_DB_FILE_NAME)
+
+# Sökväg till DuckDB-databasen för embeddings
+EMBEDDINGS_DB_FILE_NAME = 'job_embeddings.duckdb'
+EMBEDDINGS_DB_PATH = os.path.join(DATA_DIR, EMBEDDINGS_DB_FILE_NAME)
+# Embedding-dimension (matcha modellen och databas-schemat)
+EMBEDDING_DIM = 384 
+
+LOG_DIR = os.path.join(PROJECT_ROOT, 'logs')
+os.makedirs(LOG_DIR, exist_ok=True)
 
 # data warehouse directory
 db_path = str(Path(__file__).parent / "ads_data.duckdb")

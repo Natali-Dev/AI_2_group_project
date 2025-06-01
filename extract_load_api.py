@@ -21,7 +21,7 @@ def _get_data(url_for_search, params):
 dlt.config["load.truncate_staging_dataset"] = True
 
 
-@dlt.resource(table_name="job_ads", write_disposition="merge", primary_key="id")
+@dlt.resource(table_name="job_ads", write_disposition="replace")
 def get_ads():
 
     for occupation in occupation_fields:
