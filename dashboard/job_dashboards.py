@@ -4,6 +4,24 @@ import os
 import duckdb
 from pathlib import Path
 
+def read_css():
+    css_path = Path(__file__).parent / "style.css"
+    css = """
+    .my-title {
+        color: #bf2a28 !important;
+        font-size: 60px !important;
+        text-align: center !important;
+        font-weight: bold !important;
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+        
+    }
+    """
+    with open(css_path) as css:
+        st.markdown(f"<style>{css.read()}</style>", unsafe_allow_html=True)
+
+
+
 def layout():
     groups = {
         "Alla jobb": "mart_ads",
@@ -19,7 +37,8 @@ def layout():
     with duckdb.connect("ads_data.duckdb") as connection:
         df = connection.execute(f"SELECT * FROM mart.{group}").df()
 
-    
+    read_css()
+
     all_pages = {
         "Home": home.home_layout,
         "Detailed overview": detailed_overview.overview_layout,
@@ -51,6 +70,7 @@ def layout():
         st.sidebar.warning(f"Vyn '{choice_view}' är inte tillgänglig för 'Alla jobb'. Visar 'Home' istället.")
 
     
+            
 
 if __name__ == "__main__":
     layout()
