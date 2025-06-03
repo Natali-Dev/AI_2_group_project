@@ -28,8 +28,9 @@ mart_ads_cte AS (
         f.occupation_id AS fct_occupation_id, 
         f.employer_id AS fct_employer_id,     
         f.auxilliary_attributes_id AS fct_auxilliary_attributes_id, 
-        f.publication_date AS ad_publication_date, 
-        f.application_deadline AS ad_application_deadline,
+        
+        -- f.publication_date AS ad_publication_date, -- Denna kolumn finns inte i fct_job_ads
+        f.application_deadline AS ad_application_deadline, -- Denna kolumn finns i fct_job_ads
         f.vacancies,
         f.relevance,
 
@@ -44,10 +45,9 @@ mart_ads_cte AS (
         jb.salary_type,
         jb.salary_description,
         jb.must_have_languages, 
-        -- Om du lägger till t.ex. 'must_have_skills' i dim_job_details.sql, lägg till jb.must_have_skills här
 
         -- Kolumner från dim_occupation (o)
-        o.occupation AS occupation_name, 
+        o.occupation as occupation, 
         o.occupation_group,              
         o.occupation_field,              
         o.occupation_id AS occupation_field_id, 
@@ -61,14 +61,13 @@ mart_ads_cte AS (
         e.workplace_city,
         e.workplace_region,
         e.workplace_country,
-        -- Om du lägger till longitude/latitude i dim_employer.sql, lägg till dem här
 
         -- Kolumner från dim_auxilliary_attributes (aa)
         aa.experience_required,
         aa.access_to_own_car,
         aa.driving_license 
 
-    FROM fct_job_ads_data f -- Alias 'f' används här
+    FROM fct_job_ads_data f 
     LEFT JOIN dim_occupation_data o ON f.occupation_id = o.occupation_id
     LEFT JOIN dim_job_details_data jb ON f.job_details_id = jb.job_details_id
     LEFT JOIN dim_employer_data e ON f.employer_id = e.employer_id
